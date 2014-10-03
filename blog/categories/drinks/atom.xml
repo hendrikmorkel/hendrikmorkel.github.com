@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: drinks | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/drinks/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/drinks/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Thermos Bottle]]></title>
-    <link href="http://hikinginfinland.com/2012/11/thermos-bottle.html"/>
+    <link href="http://hendrikmorkel.github.com/2012/11/thermos-bottle.html"/>
     <updated>2012-11-15T18:12:00+02:00</updated>
-    <id>http://hikinginfinland.com/2012/11/thermos-bottle</id>
+    <id>http://hendrikmorkel.github.com/2012/11/thermos-bottle</id>
     <content type="html"><![CDATA[<p><em>It’s cold. 
 I wish I’d have a hot drink, to warm me up from the inside. 
 But I don’t want to get the stove out in this weather. 

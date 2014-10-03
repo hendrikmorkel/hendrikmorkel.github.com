@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: discussion | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/discussion/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/discussion/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ultralight is not dead]]></title>
-    <link href="http://hikinginfinland.com/2012/11/ultralight-is-not-dead.html"/>
+    <link href="http://hendrikmorkel.github.com/2012/11/ultralight-is-not-dead.html"/>
     <updated>2012-11-05T23:04:00+02:00</updated>
-    <id>http://hikinginfinland.com/2012/11/ultralight-is-not-dead</id>
+    <id>http://hendrikmorkel.github.com/2012/11/ultralight-is-not-dead</id>
     <content type="html"><![CDATA[<p>You’d be forgiven for thinking that Ultralight has died with all the talk about it. But like a cat, this philosophy has many lives; and ideas, well, they don’t die. And so I feel a bit like Carrie Bradshaw, as I couldn’t help but wonder: <em>Have some people just not understood what ultralight means?</em></p>
 
 <p><a href="http://www.flickr.com/photos/hendrikmorkel/8147133013/" title="Spiderweb by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8324/8147133013_c9eb8cfcca_b.jpg" width="1024" height="749" alt="Spiderweb" /></a></p>
@@ -175,7 +175,7 @@ spot has been reached after you go past it and that will mean making some mistak
 <p>Want to read what triggered this post? Then head over to <a href="http://bedrockandparadox.com/2012/10/18/ulisdead/">Dave’s Ultralight Is Dead</a> post. On that followed <a href="http://korpijaakko.wordpress.com/2012/10/19/the-death-of-ul-and-feeble-assumptions/">Jaakko’s The Death of UL and Feeble Assumptions</a>, <a href="http://www.summitandvalley.com/2012/10/we-are-all-backpackers-in-end.html">Martin’s We are all backpackers in the end</a>, <a href="http://www.christownsendoutdoors.com/2012/10/ultralight-lightweight-traditional-or.html">Chris’ Ultralight, Lightweight, Traditional… Or Maybe Just Backpacking?</a> and Marius’ superb <a href="http://infiniteoutdoors.blogspot.com/2012/10/ultralight-is-dead-long-live-ultralight.html">Ultralight is Dead - Long Live Ultralight</a> post, Zed’s <a href="http://bloggerzed.wordpress.com/2012/10/26/different-strokes/">Are the great men wrong?</a>, and Andrew’s <a href="http://andrewskurka.com/2012/is-lightweight-backpacking-label-dead/">Is the “lightweight backpacking” label dead, along with its UL, SUL, and XUL derivatives?</a>. That should be a productive week then, I reckon!</p>
 
 <blockquote class="twitter-tweet tw-align-center" data-in-reply-to="265736295790301184"><p>@<a href="https://twitter.com/hendrikmorkel">hendrikmorkel</a> that discussion is beginning to sound like a Monty Python sketch. "I'm not dead!" "yes you are, shut up!" <a href="https://twitter.com/search/%23ULhiking">#ULhiking</a></p>&mdash; Mikael Leppä (@rollofunk) <a href="https://twitter.com/rollofunk/status/265736942166110208" data-datetime="2012-11-06T08:46:38+00:00">November 6, 2012</a></blockquote>
-<script src="http://hikinginfinland.com//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="http://hendrikmorkel.github.com//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ]]></content>
   </entry>

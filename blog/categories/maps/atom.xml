@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: maps | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/maps/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/maps/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Waterproof Hiking Maps]]></title>
-    <link href="http://hikinginfinland.com/2013/06/waterproof-hiking-maps.html"/>
+    <link href="http://hendrikmorkel.github.com/2013/06/waterproof-hiking-maps.html"/>
     <updated>2013-06-25T01:47:00+03:00</updated>
-    <id>http://hikinginfinland.com/2013/06/waterproof-hiking-maps</id>
+    <id>http://hendrikmorkel.github.com/2013/06/waterproof-hiking-maps</id>
     <content type="html"><![CDATA[<p>Paper maps are great as decoration and planning at home, but for the trail they’re suboptimal - too easily they go broken, and don’t even think about getting them out when it rains or snows. Happily one smart Swedish company knows what we backpackers need: Lightweight, waterproof maps!</p>
 
 <p><a href="http://www.flickr.com/photos/hendrikmorkel/9129481608/" title="Calazo Maps by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3808/9129481608_c7d56f15b7_b.jpg" width="1024" height="680" alt="Calazo Maps" /></a></p>

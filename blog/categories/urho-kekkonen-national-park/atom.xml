@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Urho Kekkonen National Park | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/urho-kekkonen-national-park/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/urho-kekkonen-national-park/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Urho Kekkonen National Park]]></title>
-    <link href="http://hikinginfinland.com/2013/09/urho-kekkonen-national-park.html"/>
+    <link href="http://hendrikmorkel.github.com/2013/09/urho-kekkonen-national-park.html"/>
     <updated>2013-09-16T15:33:00+03:00</updated>
-    <id>http://hikinginfinland.com/2013/09/urho-kekkonen-national-park</id>
+    <id>http://hendrikmorkel.github.com/2013/09/urho-kekkonen-national-park</id>
     <content type="html"><![CDATA[<ul>
   <li>One National Park</li>
   <li>Two brothers</li>

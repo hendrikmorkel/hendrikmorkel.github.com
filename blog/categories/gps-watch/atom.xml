@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: GPS watch | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/gps-watch/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/gps-watch/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Garmin fēnix]]></title>
-    <link href="http://hikinginfinland.com/2013/10/garmin-fenix.html"/>
+    <link href="http://hendrikmorkel.github.com/2013/10/garmin-fenix.html"/>
     <updated>2013-10-23T15:33:00+03:00</updated>
-    <id>http://hikinginfinland.com/2013/10/garmin-fenix</id>
+    <id>http://hendrikmorkel.github.com/2013/10/garmin-fenix</id>
     <content type="html"><![CDATA[<p><em>Do I need a GPS Watch?</em> was the first thought that went through my head when Garmin asked me to try their latest creation, the <a href="http://sites.garmin.com/fenix/">fēnix</a>. Curiosity got the better part of me, and over the past twelve months I have enjoyed having this multifunctional gadget on my wrist.</p>
 
 <p><a href="hikinginfinland.com/2013/10/garmin-fenix.html" title="Garmin fēnix"><img src="http://farm3.staticflickr.com/2865/10438062695_e86bd4a8e0_b.jpg" width="1024" height="680" alt="Garmin fēnix" /></a></p>
@@ -28,7 +28,7 @@
 
 <p>The <a href="http://sites.garmin.com/fenix/">fēnix</a> arrived in October 2012 and has been on every hiking, backpacking, climbing and skiing trip in the past year with me. Additionally I wore it when trailrunning and also occasionally as a watch when I didn’t want to carry the phone. </p>
 
-<iframe src="http://hikinginfinland.com//player.vimeo.com/video/77687722?byline=0&amp;portrait=0&amp;color=ffffff" width="1080" height="608" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="http://hendrikmorkel.github.com//player.vimeo.com/video/77687722?byline=0&amp;portrait=0&amp;color=ffffff" width="1080" height="608" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 <h2 id="function">Function</h2>
 
@@ -58,7 +58,7 @@
 
 <p>I have very thin wrists, but the fēnix fits me surprisingly well - better than my Suunto Core. It doesn’t feel heavy, though after a couple of days out I like to get it off, clean it and my arm a bit - some grime and sweat collects on the back so it’s good to clean it and then put it back on. It does also not bother me when wearing it, though it can get into the way if you wear gloves or many layers. If that’s the case I usually just put it on on top of the jacket, that way I also always have the watch ready and don’t need to dig for it.</p>
 
-<iframe width="1280" height="720" src="http://hikinginfinland.com//www.youtube.com/embed/1hJ7NONr1CQ?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="1280" height="720" src="http://hendrikmorkel.github.com//www.youtube.com/embed/1hJ7NONr1CQ?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 <h2 id="technical-innovations">Technical Innovations</h2>
 
@@ -74,7 +74,7 @@
 
 <p>The fēnix weighs 84 g all in. Maybe some weight could be saved by using a thinner/ lighter band, though for me it was good as it was and didn’t bother me when outdoors.</p>
 
-<iframe width="1280" height="720" src="http://hikinginfinland.com//www.youtube.com/embed/tLIQpkh3awk?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="1280" height="720" src="http://hendrikmorkel.github.com//www.youtube.com/embed/tLIQpkh3awk?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 <h2 id="sustainability--recyclability">Sustainability &amp; Recyclability</h2>
 
@@ -94,7 +94,7 @@
 
 <p>Another option to dump the data you collected is <a href="http://www.garmin.com/en-US/shop/downloads/basecamp">Basecamp</a>, Garmin’s own software. While this software is free (Yay!) to actually being able to use it to plan routes you’ll need to purchase the maps for your region (nay). As these cost between $50 and $190 per Region for Finland, I didn’t use it that much so I can not comment in detail on Basecamp. It’s fortunate that you can also add points &amp; routes on the watch itself, though that does get quite fiddly. On the other hand you have <a href="http://connect.garmin.com/">Garmin Connect</a> &amp; <a href="http://adventures.garmin.com/en-US/">Garmin Adventures</a> and the <a href="http://www8.garmin.com/apps/">free iPhone Apps</a> which provide Google Mapping, so I don’t get why Basecamp does not have that - sure, Garmin wants to earn money with maps, but if you spend 400€ on a watch which wants to be used in the wild, it would be great if at least the Basecamp map for your region, or Google Maps, would be available in Basecamp.</p>
 
-<iframe width="1280" height="720" src="http://hikinginfinland.com//www.youtube.com/embed/8CeyEnB1sjI?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="1280" height="720" src="http://hendrikmorkel.github.com//www.youtube.com/embed/8CeyEnB1sjI?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 <p>Which brings us to the Menu. As an OSX &amp; iOS user you could say I’m a bit spoilt - these operating systems are pretty intuitive, something I can’t say about the OS of the fēnix. There is layers and layers in the Menu, and finding out at the beginning what is responsible for what - especially if you want the GPS tools - is only really easy after you consult the Manual. However, after you have used the functions you needed for a couple of times, and have maybe played around and scrolled through the Menu, it gets easier and then using the watch is a lot more straight-forward than when you have it new. All the basic information on the other hand are death easy to view: You use the up and down buttons on the right to access the compass, altimeter, barometer, see the temperature, your heart rate if you wear the HRM belt and possibly the time in different time zones if you have set these.</p>
 
@@ -140,7 +140,7 @@
 
 <p><a href="http://www.digitaltrends.com/watch-reviews/garmin-fenix-review/">Lee</a> gives it 3,5 Stars, <a href="http://www.dcrainmaker.com/2012/10/garmin-fenix-in-depth-review.html">DC Rainmaker</a> reviews it from a running POV with over 13.000 words and <a href="http://www.irunfar.com/2013/10/garmin-fenix-review.html">Travis</a> reviews it in a video.</p>
 
-<iframe width="1280" height="720" src="http://hikinginfinland.com//www.youtube.com/embed/vQcywPKYh_k?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="1280" height="720" src="http://hendrikmorkel.github.com//www.youtube.com/embed/vQcywPKYh_k?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 <h2 id="bottomline">Bottomline</h2>
 

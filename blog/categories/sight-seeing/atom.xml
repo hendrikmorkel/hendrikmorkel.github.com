@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sight-seeing | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/sight-seeing/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/sight-seeing/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Outdoor Guide to Helsinki]]></title>
-    <link href="http://hikinginfinland.com/2013/11/outdoors-in-helsinki.html"/>
+    <link href="http://hendrikmorkel.github.com/2013/11/outdoors-in-helsinki.html"/>
     <updated>2013-11-28T10:27:00+02:00</updated>
-    <id>http://hikinginfinland.com/2013/11/outdoors-in-helsinki</id>
+    <id>http://hendrikmorkel.github.com/2013/11/outdoors-in-helsinki</id>
     <content type="html"><![CDATA[<p>Helsinki is not just the capital of Finland, it also has a lot to offer for outdoor lovers who visit the city. You can meet outdoor types, go wild camping and packrafting in the middle of the city, visit nearby National Parks and pick up a Kuksa &amp; Puukko from one of the outdoor shops.</p>
 
 <p><a href="http://www.flickr.com/photos/rikukettunen/10122173714/" title="Helsinki by Riku Kettunen, on Flickr"><img src="http://farm3.staticflickr.com/2868/10122173714_079090833d_b.jpg" width="1024" height="678" alt="Helsinki" /></a></p>

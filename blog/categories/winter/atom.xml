@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: winter | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/winter/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/winter/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Four Week Winter]]></title>
-    <link href="http://hikinginfinland.com/2014/02/the-four-week-winter.html"/>
+    <link href="http://hendrikmorkel.github.com/2014/02/the-four-week-winter.html"/>
     <updated>2014-02-21T15:57:00+02:00</updated>
-    <id>http://hikinginfinland.com/2014/02/the-four-week-winter</id>
+    <id>http://hendrikmorkel.github.com/2014/02/the-four-week-winter</id>
     <content type="html"><![CDATA[<p>An obituary for the winter of 2014.</p>
 
 <p><a href="http://www.flickr.com/photos/hendrikmorkel/10983987276/" title="Winter"><img src="https://s2.yimg.com/sk/3789/10983987276_15b9ee5bc9_b.jpg" width="800" height="534" alt="Winter" /></a></p>

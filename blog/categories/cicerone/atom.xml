@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Cicerone | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/blog/categories/cicerone/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/"/>
-  <updated>2014-10-03T13:08:44+03:00</updated>
-  <id>http://hikinginfinland.com/</id>
+  <link href="http://hendrikmorkel.github.com/blog/categories/cicerone/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-03T14:13:27+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The John Muir Trail]]></title>
-    <link href="http://hikinginfinland.com/2013/11/the-john-muir-trail.html"/>
+    <link href="http://hendrikmorkel.github.com/2013/11/the-john-muir-trail.html"/>
     <updated>2013-11-12T15:04:00+02:00</updated>
-    <id>http://hikinginfinland.com/2013/11/the-john-muir-trail</id>
+    <id>http://hendrikmorkel.github.com/2013/11/the-john-muir-trail</id>
     <content type="html"><![CDATA[<p><em>“In every walk with nature one receives far more than he seeks.”</em> - John Muir </p>
 
 <p>The JMT is high on my list of places I’d like to hike. So high that it was time to get the <a href="http://www.cicerone.co.uk/product/detail.cfm/book/396/title/the-john-muir-trail">Cicerone John Muir Trail</a> Guide book and a set of maps to plan &amp; dream over.</p>
