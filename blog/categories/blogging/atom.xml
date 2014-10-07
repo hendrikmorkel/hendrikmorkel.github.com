@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blogging | Hiking in Finland]]></title>
+  <link href="http://hendrikmorkel.github.com/blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-07T18:58:49+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
+  <author>
+    <name><![CDATA[Hendrik Morkel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Art of Outdoor Blogging: Wordpress & Blogspot Alternatives]]></title>
+    <link href="http://hendrikmorkel.github.com/2013/04/the-art-of-outdoor-blogging-wordpress-and-blogspot-alternatives.html"/>
+    <updated>2013-04-30T22:28:00+03:00</updated>
+    <id>http://hendrikmorkel.github.com/2013/04/the-art-of-outdoor-blogging-wordpress-and-blogspot-alternatives</id>
+    <content type="html"><![CDATA[<p>I’ve never been a big fan of Wordpress, and after recent developments at Google I also would be worried of their treatment of the Blogspot platform. Personally I find WordPress bloated, not easy to work with and I dislike the online editor with a passion. And with Google shutting down services or integrating them with Google+ the future of Blogspot looks uncertain, too. Time to look at alternatives which give you full control of your content, <em>all the time.</em></p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8695803586/" title="Rain by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8546/8695803586_29bf710398_b.jpg" width="1024" height="680" alt="Rain" /></a></p>
+
+<!-- more -->
+
+<h2 id="nothing-is-free">Nothing is Free</h2>
+
+<p>We happily are reaching a time where people are realising that <em>free on the internet</em> comes at a cost. With Google, Facebook and the like that cost means that your data is sold to advertisers, and that these companies, whose services you’re using <em>for free</em> can do with your content on their platforms almost as they see fit. Yes, you have some rights, but they seem to be getting less and less. While your website or blog might just be a hobby in which you chronicle your outdoor adventures (insert other pastime which people write online about), or if it is more, like your online business card that you use to attract clients, I wouldn’t want that another company has control over it. That was one of the reasons why <a href="http://hikinginfinland.com/2012/07/welcome-to-the-new-hikinginfinland-dot-com.html">I switched last year to Octopress</a>.</p>
+
+<p>Whenever possible I try to pay for a service I use. As a paying client you have more rights than someone who is using a service for free. I pay for all my URLs, I pay for my GoSquared Analytics, I pay for Flickr where I host my photos, I paid for the Text Editors which I use to write my articles, I paid for the RSS Reeder I use to read all my subscriptions (and will pay for <a href="https://feedbin.me/">feedbin.me</a> when I move away from Google Reader soon), I pay for Vimeo where I host my videos, I paid for the different software programmes I use to edit videos and photos, and while my Github hosting is free I’d pay for it in a second (I bought some <a href="http://shop.github.com/">T-Shirts</a> to support them in another way). Also Octopress is free, but again, I’d happily pay for it or will buy some swag/ tip the creator when these options become available. Services that I use for the site, but don’t pay for, are Disqus for comments and Cloudflare for security, as my site is too small to pay for these two just yet. If you pay for a service, you have rights. You can complain if something doesn’t work, you reward the people who spent weeks of their life to create the service you use, you ensure future updates, bug fixes and improvements. </p>
+
+<p>If you use something for free, you don’t have a right to complain about it. So while some blogging platforms are free, if the company owning them decides to shut them down or use your content in another way than you intended, because you use the service for free you have little reason to complain about it - after all, you did not pay for it. <a href="http://techcrunch.com/2012/03/12/posterous-finds-a-home-in-the-arms-of-twitter/">It’s not like this hasn’t happened before</a>.</p>
+
+<p>Right. Now we can look at the two tools which you’ll need to start blogging from any device while owning your content all the time. </p>
+
+<p><a href="http://www.flickr.com/photos/zzpza/3269784239/" title="Tools by zzpza, on Flickr"><img src="http://farm4.staticflickr.com/3517/3269784239_e208c5b968_o.jpg" width="1024" height="768" alt="Tools" /></a>
+Photo by <a href="http://www.flickr.com/photos/zzpza/3269784239/">zzpza</a></p>
+
+<h2 id="dropbox">Dropbox</h2>
+
+<p><a href="http://db.tt/nT9WSdc">Dropbox</a> is a superb service. Basically it is a hard drive that’s <em>in the cloud</em> and which you can access from everywhere - your smartphone, tablet, own laptop or a computer at the public library. The basic account is free and gives you 2 GB space, which is plenty if you only store text files on it. I have a Premium account with a bit more space, and I save all my blogging related data in a folder on it. It’s a superb service you should use, even if you’re not blogging.</p>
+
+<h2 id="markdown">Markdown</h2>
+
+<p><a href="http://daringfireball.net/projects/markdown/">Markdown</a> “<em>is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).</em>” I write all my posts in Markdown. It is indeed a lot easier than writing in HTML (which I can do, but I find it more suitable for coding than for writing content) and thus is likely for those who find HTML tags et al. confusing a far superior solution. If you can type on a computer, then you can write in Markdown. </p>
+
+<p>However, you might need a new Text Editor which allows you to save your texts in Markdown - I use <a href="http://www.sublimetext.com/2">Sublime Text 2</a> which has a free evaluation copy, and <a href="http://www.iawriter.com/mac/">iWriter</a> which costs about $5. Both are superb and I can highly recommend both. And here’s a <a href="http://warpedvisions.org/projects/markdown-cheat-sheet/">Markdown cheat sheet</a> to get you started.</p>
+
+<p>These are all the tools you need to start blogging on one of the following platforms. Let’s have a look at the options.</p>
+
+<h2 id="dropbox-based-blogs">Dropbox Based Blogs</h2>
+
+<p>I think I made that term up, but it describes the underlying principle very well: You write your posts in Markdown, save them in a folder on your Dropbox, and then depending on the service you either need to <em>refresh</em> your blog or need to do nothing at all for the new post to appear online. You can write and post your Dropbox based blog from your computer, tablet or smartphone - just make sure that the Text Editor you’re using saves your posts in your Dropbox folder in Markdown format. It’s super simple, and because you save your content in your Dropbox, you own the content. </p>
+
+<p>What follows are the six services I am aware of that offer these Dropbox Based Blogs. </p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8215228520/" title="Scriptogr.am by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8478/8215228520_8ed8128c1b_b.jpg" width="1024" height="640" alt="Scriptogr.am" /></a></p>
+
+<h2 id="scriptogram">Scriptogr.am</h2>
+
+<p><a href="http://scriptogr.am/">Scriptogr.am</a> is made by a small Swedish team in Stockholm and was the first of the Dropbox Blogs that I became aware of. I run my <a href="http://hendrikmorkel.com/">personal blog</a> on it and like it very much. It looks great on smartphone, tablets and computers, and is very easy to tweak if you don’t like the minimalistic look - you should be familiar with CSS and HTML in that case, though. It has no comments, but you can host it on your own url.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8214143025/" title="Calepin.co by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8482/8214143025_b581d31cc0_b.jpg" width="1024" height="640" alt="Calepin.co" /></a></p>
+
+<h2 id="calepinco">Calepin.co</h2>
+
+<p><a href="http://calepin.co/">Calepin.co</a> has a few more features that scriptogr.am, namely Disqus comments, an RSS feed and can easily be linked to your Twitter account. You also can host it on your own url by entering your CNAME record. The service explains itself very well on its page, and is very open about its ambitions (namely they aim to make it a paid service in the future). Overall I think this might be the best option for many (outdoor) bloggers, as it allows comments, is responsive and integrates with Twitter. There’s a <a href="http://jokull.calepin.co/calepin-guide.html">good guide</a>, too.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8215228142/" title="Skrivr.com by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8480/8215228142_0092dc2460_b.jpg" width="1024" height="640" alt="Skrivr.com" /></a></p>
+
+<h2 id="skrivr">Skrivr</h2>
+
+<p><a href="http://skrivr.com/">Skrivr</a> looks very good, is also responsive (so looks great on smartphones, tablets and computers), is Made in Sweden and it will be a Premium service when it launches. At the moment you need to ask for an invite to use the service. It automatically publishes content you save to its Dropbox folder, allows for own urls but seems to lack comments. Check out their <a href="http://skrivr.com/blog/">blog</a> to see how it looks, and <a href="http://skrivr.com/#signup">request an invite</a> if you like Skrivr. </p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8695907880/" title="Marquee by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8261/8695907880_c60b834376_b.jpg" width="1024" height="640" alt="Marquee" /></a></p>
+
+<h2 id="marquee">Marquee</h2>
+
+<p><a href="http://marquee.by/">Marquee</a> started as a Dropbox Based blog service but has evolved since. At the moment it’s invite only, and it looks like it will be a web based service (so you write and edit in your browser). It does look very nice - check the animation they have on their site if you’re interested - but I can’t say more about it at the moment.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8695913102/" title="Markbox by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8119/8695913102_bd944e4326_b.jpg" width="1024" height="640" alt="Markbox" /></a></p>
+
+<h2 id="markbox">Markbox</h2>
+
+<p><a href="http://www.markbox.io//">Markbox</a> is the fifth option, and also looks superb. It publishes new content automatically, though you can hit “Publish” if you’re impatient. It has a responsive design and is Made in the USA. </p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8214142129/" title="GoDrop.it by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8346/8214142129_672517a607_b.jpg" width="1024" height="640" alt="GoDrop.it" /></a></p>
+
+<p><a href="http://godrop.it/">GoDrop.it</a> has closed, but since users had all their content on their Dropbox they could just sign up to one of the above services and continue blogging. Beautiful!</p>
+
+<h2 id="exporting-content">Exporting content</h2>
+
+<p><em>Good. I’m convinced. Where do I sign up?</em> Great. If you want a fresh start and a new blog, just head to one of the services, link your Dropbox to it and start writing in Markdown. If you have been blogging for years and amassed hundreds of posts, exporting each manually is a lot of work. Help comes in the form of <a href="https://github.com/mojombo/jekyll/wiki/blog-migrations">migration tools</a>. You’ll need to get a bit techy or ask a computer savvy mate to help you out (take him for an ultralight hike with Pizza &amp; Beers afterwards as a Thank You!). If you want to move <a href="http://bentsai.wordpress.com/2011/12/16/from-wordpress-to-markdown-calepin/">from WP to Calepin</a> that’s a good read, as is <a href="http://lbolla.info/blog/2012/11/12/wordpress-to-markdown">this one</a>. Don’t worry, this is the only “<em>difficult</em>” part of moving away from Blogger and Wordpress!</p>
+
+<h2 id="importing-content">Importing content</h2>
+
+<p>If you have all your old posts saved to your hard drive in Markdown, you should check a few to see if everything got exported correctly. Especially if you have not embedded photos but uploaded them to WP or Blogger you’ll need to go back and add the photos I imagine - another reason to outsource that to a dedicated photo hosting service and to embed photos in the future! </p>
+
+<p>So if everything looks good, you just copy and past the files into the posts folder in your Dropbox and then, depending on the service you chose, wait till they publish them automatically or go to your Dashboard and hit publish. <strong>Congratulations, you have now moved away from Wordpress or Blogger and own all your content! Happy blogging in Markdown =)</strong></p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8694813147/" title="Migration tools by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8399/8694813147_bdd794370a_b.jpg" width="1024" height="640" alt="Migration tools" /></a></p>
+
+<h2 id="liner-notes">Liner Notes</h2>
+
+<ul>
+  <li>
+    <p><em>But Hendrik, some of those Dropbox Blogs are <strong>FREE</strong>! What now?</em> Don’t despair. Some of the services have addressed this, and likely are going to offer paid versions in the future. In case you’re not willing to pay, moving away from one service to another one is easy because you own all your content in a very simple, open format (Markdown) so if one service disappoints you, you can move to the next one with only a few clicks. </p>
+  </li>
+  <li>
+    <p>In case it all sounded like you’ll need to be a nerd, don’t worry. It’s easy as pie to start blogging in the above way, and in comparison to WP and Blogger there’s only benefits to using these platforms. </p>
+  </li>
+  <li>
+    <p>I know there’s thousands of people who enjoy Wordpress and are very happy with it. Wordpress.com and Wordpress.org both have their place in blogging land, and if you’re with the former and pay you’re probably on good ground and know what you’re doing. I myself write on a few other sites via WP and while I still dislike it, it does the job. But I find php $!#% and hence rather wouldn’t want to work with it. </p>
+  </li>
+  <li>
+    <p>As for Blogspot, with Google continuously shutting down services or integrating them with Google+ I imagine we might see the service being integrated with G+ at some point. This is pure speculation on my part, so don’t get hysterical just yet. Again, there’ thousands of great blogs on Blogspot, so if you feel good there, carry on.</p>
+  </li>
+  <li>
+    <p>What all the platforms above have in common is that they are very minimalistic. There is usually no sidebar and pages, but an archive. I’m sure if you know HTML &amp; CSS you’d be able to create these, or maybe they will be on the roadmap for the services in the future. But then that’s one of their charms: They’re simple, fast and the focus is on the content and not other stuff around it.</p>
+  </li>
+  <li>
+    <p>I have used Blogger for years and found it good back then. With an increased interest in technology I started to find things which I didn’t appreciate, hence I moved to Octopress, which I find absolutely superb. The “Problem” with Blogger is at the moment that Google owns it, and hence they might decide to do something that’s more in line with their strategy. Just to recap: They shut down/ will be shutting down Feedburner and Google Reader in the next months, both services with millions of users and dearly loved by their users.</p>
+  </li>
+  <li>
+    <p>I am and have been writing on Wordpress. There’s even a <a href="http://wordpress.org/extend/plugins/wp-markdown/">Markdown Plugin for Wordpress</a>. But I find the backend editor just a pain to use, and <a href="http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/">php just sucks</a>. If I can, I always avoid it.</p>
+  </li>
+  <li>
+    <p>There’s lots of great looking and fast Blogger &amp; Wordpress blogs out there. I read many of them. If you’re happy, and couldn’t care less who owns your content, just carry on.</p>
+  </li>
+  <li>
+    <p>If you want to switch to one of the above services, don’t jump the ship and delete your old blog right away. Read the tutorials on how to set it up, test it, see how you like it, and if you find it good get all your content over to the new blog. If you run into problems, consult Google Search - chances are your problem has been encountered before, and hopefully solved as well.</p>
+  </li>
+</ul>
+
+<p><em>Nothing is free. If you enjoyed this article you can <a href="https://holvi.com/shop/hikinginfinland/product/dd006c907dfc0805441be88068460867/">buy me a coffee or two</a> to ensure more quality content in the future.</em></p>
+
+<p><a href="http://www.flickr.com/photos/hgjohn/8032439407/" title="blogging by hgjohn, on Flickr"><img src="http://farm9.staticflickr.com/8311/8032439407_f01e49118c_z.jpg" width="425" height="540" alt="blogging" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My three favourite bushcraft items]]></title>
+    <link href="http://hendrikmorkel.github.com/2013/01/my-three-favorite-bushcraft-slash-camping-items.html"/>
+    <updated>2013-01-06T11:39:00+02:00</updated>
+    <id>http://hendrikmorkel.github.com/2013/01/my-three-favorite-bushcraft-slash-camping-items</id>
+    <content type="html"><![CDATA[<p>In December I was tagged by <a href="http://bushnblade.blogspot.fi/2012/12/got-tagged-my-three-favorite-items.html">OZme</a> to name my three favourite Bushcraft and/ or Camping items. December was a bit busy, though I really like the idea of this so here is my slightly belated post on my three favourite Bushcraft items.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8353868137/" title="My three favorite bushcraft items by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8494/8353868137_6b18accd22_b.jpg" width="1024" height="680" alt="My three favorite bushcraft items" /></a></p>
+
+<!-- more -->
+
+<p>Little stories, memories, and experiences of and with an item make it special, in my opinion. It are items which you take along on a trip because they mean something special to you, and it often does not matter that you have a lighter or more modern version of the item - this old one you take because of its nostalgic values.</p>
+
+<p>I picked three three Bushcraft items because <a href="http://theoldpathblog.blogspot.com/">Perkunas</a> and OZme both are Bushcrafters, and I want to honour them by writing about bushcraft items. I don’t practice it as much as I’d like these days, and I still miss a nice spoon carving tool (or hook knife, as its called), though I read with interest Bushcraft books, as the Bushcrafters of old were the first Ultralight backpackers - a knapsack, knife, axe, tinderbox and a blanket was all what they needed to survive for weeks in the forests, gathering and hunting their food. Anyway, onwards to my three favourite items.</p>
+
+<h2 id="the-puukko">The Puukko</h2>
+
+<p>The knife which I take most often with me on a trip is my trusty puukko from <a href="http://www.iisakkijarvenpaa.fi/">Iisakki Järvenpää</a>. It is special because I gave my dad for his birthday such a knife, and it remembers me of him when I’m outdoors and working with it. It can carve, split logs and make feather sticks, and also cuts food just fine. I’ve had mine since years, and while a bit rusty in places it still is in great shape - I’m sure it will see many more trips, where I need a dependable knife.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8353871485/" title="Iisakki Järvenpää Puukko by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8054/8353871485_7f8c36c7d8_b.jpg" width="1024" height="680" alt="Iisakki Järvenpää Puukko" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8353871211/" title="Iisakki Järvenpää Puukko by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8078/8353871211_8cfac37b0d_b.jpg" width="1024" height="680" alt="Iisakki Järvenpää Puukko" /></a></p>
+
+<h2 id="the-kuksa">The Kuksa</h2>
+
+<p>While on many trips I like to take my <a href="http://hikinginfinland.com/2010/10/kupilka-review.html">Kupilka Kuksa</a>, on just as many trips I like to take my wooden kuksa. It was a present from my parents in law, and thus holds a special place. I baptized it as it is tradition with cognac and coffee, and only rinse it with water and dry it with a cloth. It has a wonderful patina on the inside, and I still regard it as a mandatory item to take along on trips, however long or short they may be.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8354935386/" title="Kuksa by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8048/8354935386_81a42ccb32_b.jpg" width="1024" height="680" alt="Kuksa" /></a></p>
+
+<h2 id="the-axe">The Axe</h2>
+
+<p>I’m not often carrying an axe nowadays, but back during my <a href="http://hikinginfinland.com/blog/categories/iwg/">Wilderness Guide education</a> it was an mandatory item. There exist plenty of great axes, but for me the hand-forged axes of <a href="http://www.gransfors.com/htm_eng/index.html">Gränsfors Bruks</a> from Sweden stand out - they’re light, sharp as hell and hand-made in Sweden. During my Wilderness Guide Final Examination I had a little incident with my Gränsfors Bruks axe, as I was splitting a piece of Birch for carving cutlery, which made me remember two things: </p>
+
+<ul>
+  <li>Gränsfors Bruks axes are <em>SHARP</em></li>
+  <li>Never hold a piece of wood with your hand if you’re going to split it</li>
+</ul>
+
+<p>While I cut a piece of flesh from my index finger I still managed to carve my cutlery, and pass the exam. But I forver will remember to take away my hands where sharp axes are falling down! My Small Forest Axe is a very useful tool to take along on a trip - chop down trees for fire wood or shelter building, split logs, and even the carving of tent pegs is no problem for this versatile tool.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/8353854943/" title="Gränsfors Bruks Small Forest Axe by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8512/8353854943_f582c93107_b.jpg" width="1024" height="681" alt="Gränsfors Bruks Small Forest Axe" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8354916578/" title="Gränsfors Bruks Small Forest Axe by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8516/8354916578_d74baacb25_b.jpg" width="1024" height="680" alt="Gränsfors Bruks Small Forest Axe" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8353853321/" title="Gränsfors Bruks Small Forest Axe by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8085/8353853321_54fd20f2f2_b.jpg" width="1024" height="680" alt="Gränsfors Bruks Small Forest Axe" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8354918292/" title="Gränsfors Bruks Small Forest Axe by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8336/8354918292_ec530c22b2_b.jpg" width="1024" height="680" alt="Gränsfors Bruks Small Forest Axe" /></a></p>
+
+<p>These are my three favourite Bushcraft items. But it does not stop here - being tagged means that I am now also allowed to tag other Bloggers! </p>
+
+<p>So I’m tagging <a href="http://www.briangreen.net/">Brian Green</a> because I know he’s a Gear Nerd and I am very curious to read what are his three favourite Bushcraft or Camping items. </p>
+
+<p>Secondly I’m tagging Axel of <a href="http://outdoorseite.de/">Outdoorseite.de</a> because we had a good time at Lago d’Idro and I’m curious to see what are his favourite items.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to the new Hiking in Finland!]]></title>
+    <link href="http://hendrikmorkel.github.com/2012/07/welcome-to-the-new-hikinginfinland-dot-com.html"/>
+    <updated>2012-07-26T18:17:00+03:00</updated>
+    <id>http://hendrikmorkel.github.com/2012/07/welcome-to-the-new-hikinginfinland-dot-com</id>
+    <content type="html"><![CDATA[<p>You might not have realized the change which happened to hikinginfinland.com if you read <em>Hiking in Finland</em> in your RSS Reader of choice, but the site underwent a radical transformation. I started the blog on Blogger, Google’s blogging service, in 2009. Back then it was the best option, but as time went on, so did technology, and I increasingly grew frustrated with it.</p>
+
+<p>&lt;a href=”http://hikinginfinland.com”target=”_blank” title=”hikinginfinland.com now runs on Octopress! by HendrikMorkel, on Flickr”&gt;<img src="http://farm8.staticflickr.com/7253/7629739658_e556d4eb27_b.jpg" width="1024" height="640" alt="hikinginfinland.com now runs on Octopress!" />&lt;/a&gt;</p>
+
+<!-- more -->
+
+<p>In 2011 I got very interested in coding, HTML5, CSS3, and responsive web design. The more I learned, the more I disliked Blogger. At the end of last year I decided to move the website to a new platform, and while shortly pondering learning Phython &amp; Django I ended up via Jekyll &amp; Markdown at <a href="http://octopress.org&quot;target=&quot;_blank&quot;">Octopress</a>. In my yearly wrap-up I announced the intended move, and while the foundation of this site was ready in late April, it took me until mid July to launch this new site. <em>So what’s all new here?</em> you ask. </p>
+
+<ul>
+  <li>The site is 100% responsive and is much more readable on your smartphone, tablet, laptop and desktop PC. Go re-size your browser window to see how the layout adapts to the width of the window. </li>
+  <li>The site is static, which means a lot faster page load times for you</li>
+  <li>Offline writing. This is one of the biggest boons for me, as it allows me to write my posts in the <a href="http://daringfireball.net/projects/markdown/&quot;target=&quot;_blank&quot;">Markdown language</a> which is a lot faster than writing in HTML, and I can write them in my editor of choice, <a href="http://www.sublimetext.com/&quot;target=&quot;_blank&quot;">Sublime Text</a></li>
+  <li>hosted for free on <a href="https://github.com/&quot;target=&quot;_blank&quot;">Github</a> with some help from <a href="https://www.cloudflare.com/&quot;target=&quot;_blank&quot;">Cloudflare</a></li>
+  <li>I own all my content</li>
+</ul>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/7629726658/" title="hikinginfinland.com now runs on Octopress! by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7261/7629726658_8d700079b0_b.jpg" width="768" height="1024" alt="hikinginfinland.com now runs on Octopress!" /></a></p>
+
+<p>In short: Blogging is fun again, thanks to Octopress.</p>
+
+<p>I wouldn’t have been able to develop this site without some help, though. <a href="http://jlaine.net/&quot;target=&quot;_blank&quot;">Jarkko Laine</a> helped me a lot and I owe him a big <em>Thank You</em> for the time he took to help me master the tools and conquer the pitfalls on this journey; if you need a <a href="http://odesign.fi/&quot;target=&quot;_blank&quot;">Ruby on Rails Developer</a> then look no further. <a href="http://viljamis.com/&quot;target=&quot;_blank&quot;">Viljami Salminen</a> was a big inspiration for the responsive design of this site and how to go forward with this project; he told me about <a href="https://github.com/mojombo/jekyll/#readme&quot;target=&quot;_blank&quot;">Jekyll</a> which lead me to Octopress. If you need a web designer, then hire him at <a href="http://kiskolabs.com/#home&quot;target=&quot;_blank&quot;">Kisko Labs</a>.</p>
+
+<p>What lays ahead for Hiking in Finland? More articles, obviously. While I will be flying to Slovenia on Sunday for the Ultralight Summit, upon my return I plan to go through the forty plus draft articles I have, and finish them off, as well as create new high quality content for your reading pleasure. But until then you can browse the <a href="http://hikinginfinland.com/blog/archives/">Archives</a> where you’ll find every article I wrote to date. Or browse one of the other pages if you want to read <a href="http://hikinginfinland.com/interviews/">interviews</a>, <a href="http://hikinginfinland.com/destinations/">trip reports</a> or <a href="http://hikinginfinland.com/gear-reviews/">gear reviews</a>.</p>
+
+<p>There’s also still some kinks I need to fix on the website, and if you find something odd, please inform me via a comment underneath or <a href="https://twitter.com/hendrikmorkel&quot;target=&quot;_blank&quot;">on Twitter</a>. I am working on making page load times still faster, because I host my photos via Flickr this is the item which takes the most time when loading a page. <a href="http://www.jpegmini.com/&quot;target=&quot;_blank&quot;">JPEGmini</a> looks promising as a solution to that, and I’ll try it over the next few weeks; until I have figured it out you’ll need to pardon the <em>Read On -&gt;</em> button under the articles on the landing page, which helps to keep the loading time small. </p>
+
+<p>Other than that I am very satisfied with Octopress and the new look of Hiking in Finland. I’m curious to hear your thoughts, though, so please comment underneath and let me know your questions, comments, and observations!</p>
+]]></content>
+  </entry>
+  
+</feed>

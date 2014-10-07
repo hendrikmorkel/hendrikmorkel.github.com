@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Hiking in Finland]]></title>
+  <link href="http://hendrikmorkel.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://hendrikmorkel.github.com/"/>
+  <updated>2014-10-07T18:58:49+03:00</updated>
+  <id>http://hendrikmorkel.github.com/</id>
+  <author>
+    <name><![CDATA[Hendrik Morkel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to the new Hiking in Finland!]]></title>
+    <link href="http://hendrikmorkel.github.com/2012/07/welcome-to-the-new-hikinginfinland-dot-com.html"/>
+    <updated>2012-07-26T18:17:00+03:00</updated>
+    <id>http://hendrikmorkel.github.com/2012/07/welcome-to-the-new-hikinginfinland-dot-com</id>
+    <content type="html"><![CDATA[<p>You might not have realized the change which happened to hikinginfinland.com if you read <em>Hiking in Finland</em> in your RSS Reader of choice, but the site underwent a radical transformation. I started the blog on Blogger, Google’s blogging service, in 2009. Back then it was the best option, but as time went on, so did technology, and I increasingly grew frustrated with it.</p>
+
+<p>&lt;a href=”http://hikinginfinland.com”target=”_blank” title=”hikinginfinland.com now runs on Octopress! by HendrikMorkel, on Flickr”&gt;<img src="http://farm8.staticflickr.com/7253/7629739658_e556d4eb27_b.jpg" width="1024" height="640" alt="hikinginfinland.com now runs on Octopress!" />&lt;/a&gt;</p>
+
+<!-- more -->
+
+<p>In 2011 I got very interested in coding, HTML5, CSS3, and responsive web design. The more I learned, the more I disliked Blogger. At the end of last year I decided to move the website to a new platform, and while shortly pondering learning Phython &amp; Django I ended up via Jekyll &amp; Markdown at <a href="http://octopress.org&quot;target=&quot;_blank&quot;">Octopress</a>. In my yearly wrap-up I announced the intended move, and while the foundation of this site was ready in late April, it took me until mid July to launch this new site. <em>So what’s all new here?</em> you ask. </p>
+
+<ul>
+  <li>The site is 100% responsive and is much more readable on your smartphone, tablet, laptop and desktop PC. Go re-size your browser window to see how the layout adapts to the width of the window. </li>
+  <li>The site is static, which means a lot faster page load times for you</li>
+  <li>Offline writing. This is one of the biggest boons for me, as it allows me to write my posts in the <a href="http://daringfireball.net/projects/markdown/&quot;target=&quot;_blank&quot;">Markdown language</a> which is a lot faster than writing in HTML, and I can write them in my editor of choice, <a href="http://www.sublimetext.com/&quot;target=&quot;_blank&quot;">Sublime Text</a></li>
+  <li>hosted for free on <a href="https://github.com/&quot;target=&quot;_blank&quot;">Github</a> with some help from <a href="https://www.cloudflare.com/&quot;target=&quot;_blank&quot;">Cloudflare</a></li>
+  <li>I own all my content</li>
+</ul>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/7629726658/" title="hikinginfinland.com now runs on Octopress! by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7261/7629726658_8d700079b0_b.jpg" width="768" height="1024" alt="hikinginfinland.com now runs on Octopress!" /></a></p>
+
+<p>In short: Blogging is fun again, thanks to Octopress.</p>
+
+<p>I wouldn’t have been able to develop this site without some help, though. <a href="http://jlaine.net/&quot;target=&quot;_blank&quot;">Jarkko Laine</a> helped me a lot and I owe him a big <em>Thank You</em> for the time he took to help me master the tools and conquer the pitfalls on this journey; if you need a <a href="http://odesign.fi/&quot;target=&quot;_blank&quot;">Ruby on Rails Developer</a> then look no further. <a href="http://viljamis.com/&quot;target=&quot;_blank&quot;">Viljami Salminen</a> was a big inspiration for the responsive design of this site and how to go forward with this project; he told me about <a href="https://github.com/mojombo/jekyll/#readme&quot;target=&quot;_blank&quot;">Jekyll</a> which lead me to Octopress. If you need a web designer, then hire him at <a href="http://kiskolabs.com/#home&quot;target=&quot;_blank&quot;">Kisko Labs</a>.</p>
+
+<p>What lays ahead for Hiking in Finland? More articles, obviously. While I will be flying to Slovenia on Sunday for the Ultralight Summit, upon my return I plan to go through the forty plus draft articles I have, and finish them off, as well as create new high quality content for your reading pleasure. But until then you can browse the <a href="http://hikinginfinland.com/blog/archives/">Archives</a> where you’ll find every article I wrote to date. Or browse one of the other pages if you want to read <a href="http://hikinginfinland.com/interviews/">interviews</a>, <a href="http://hikinginfinland.com/destinations/">trip reports</a> or <a href="http://hikinginfinland.com/gear-reviews/">gear reviews</a>.</p>
+
+<p>There’s also still some kinks I need to fix on the website, and if you find something odd, please inform me via a comment underneath or <a href="https://twitter.com/hendrikmorkel&quot;target=&quot;_blank&quot;">on Twitter</a>. I am working on making page load times still faster, because I host my photos via Flickr this is the item which takes the most time when loading a page. <a href="http://www.jpegmini.com/&quot;target=&quot;_blank&quot;">JPEGmini</a> looks promising as a solution to that, and I’ll try it over the next few weeks; until I have figured it out you’ll need to pardon the <em>Read On -&gt;</em> button under the articles on the landing page, which helps to keep the loading time small. </p>
+
+<p>Other than that I am very satisfied with Octopress and the new look of Hiking in Finland. I’m curious to hear your thoughts, though, so please comment underneath and let me know your questions, comments, and observations!</p>
+]]></content>
+  </entry>
+  
+</feed>
