@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://hendrikmorkel.github.com/2009/04/introduction.html</loc>
-        <lastmod>2012-07-26T18:07:19+03:00</lastmod>
-    </url>
-    <url>
         <loc>http://hendrikmorkel.github.com/2009/04/helvetinj-rvi-easter-hiking-trip.html</loc>
         <lastmod>2012-07-26T18:06:37+03:00</lastmod>
     </url>
@@ -3029,16 +3025,20 @@
         <lastmod>2014-10-12T16:31:26+03:00</lastmod>
     </url>
     <url>
+        <loc>http://hendrikmorkel.github.com/2014/10/the-week-in-review-xci.html</loc>
+        <lastmod>2014-10-21T17:37:07+03:00</lastmod>
+    </url>
+    <url>
         <loc>http://hendrikmorkel.github.com/about/</loc>
         <lastmod>2014-08-19T14:32:09+03:00</lastmod>
     </url>
     <url>
         <loc>http://hendrikmorkel.github.com/blog/archives/</loc>
-        <lastmod>2014-10-12T16:31:26+03:00</lastmod>
+        <lastmod>2014-10-21T17:37:07+03:00</lastmod>
     </url>
     <url>
         <loc>http://hendrikmorkel.github.com/blog/</loc>
-        <lastmod>2014-10-12T16:31:26+03:00</lastmod>
+        <lastmod>2014-10-21T17:37:07+03:00</lastmod>
     </url>
     <url>
         <loc>http://hendrikmorkel.github.com/destinations/</loc>
@@ -3054,7 +3054,7 @@
     </url>
     <url>
         <loc>http://hendrikmorkel.github.com/</loc>
-        <lastmod>2014-10-12T16:31:26+03:00</lastmod>
+        <lastmod>2014-10-21T17:37:07+03:00</lastmod>
     </url>
     <url>
         <loc>http://hendrikmorkel.github.com/interviews/</loc>
