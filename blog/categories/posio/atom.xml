@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Posio | Hiking in Finland]]></title>
-  <link href="http://hendrikmorkel.github.com/blog/categories/posio/atom.xml" rel="self"/>
-  <link href="http://hendrikmorkel.github.com/"/>
-  <updated>2015-02-01T13:17:54+02:00</updated>
-  <id>http://hendrikmorkel.github.com/</id>
+  <link href="http://hikinginfinland.com/blog/categories/posio/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com/"/>
+  <updated>2015-02-01T19:19:02+02:00</updated>
+  <id>http://hikinginfinland.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ice Climbing in Korouoma]]></title>
-    <link href="http://hendrikmorkel.github.com/2013/03/ice-climbing-in-korouoma.html"/>
+    <link href="http://hikinginfinland.com/2013/03/ice-climbing-in-korouoma.html"/>
     <updated>2013-03-28T10:41:00+02:00</updated>
-    <id>http://hendrikmorkel.github.com/2013/03/ice-climbing-in-korouoma</id>
+    <id>http://hikinginfinland.com/2013/03/ice-climbing-in-korouoma</id>
     <content type="html"><![CDATA[<p>Korouoma has been for a long time on my list of places to visit. A long canyon with up to 100 m high cliffs, Golden Eagles soaring above in the sky, and a good dozen of icefalls to climb make this the best ice climbing destination in Finland.</p>
 
 <p><a href="http://www.flickr.com/photos/hendrikmorkel/8595259601/" title="Boulders by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8241/8595259601_a2a1080513_b.jpg" width="680" height="1024" alt="Boulders" /></a></p>

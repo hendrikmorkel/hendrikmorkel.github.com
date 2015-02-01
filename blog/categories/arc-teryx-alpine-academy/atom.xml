@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Arc'teryx Alpine Academy | Hiking in Finland]]></title>
-  <link href="http://hendrikmorkel.github.com/blog/categories/arc-teryx-alpine-academy/atom.xml" rel="self"/>
-  <link href="http://hendrikmorkel.github.com/"/>
-  <updated>2015-02-01T13:17:54+02:00</updated>
-  <id>http://hendrikmorkel.github.com/</id>
+  <link href="http://hikinginfinland.com/blog/categories/arc-teryx-alpine-academy/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com/"/>
+  <updated>2015-02-01T19:19:02+02:00</updated>
+  <id>http://hikinginfinland.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Arc'teryx Alpine Academy 2014]]></title>
-    <link href="http://hendrikmorkel.github.com/2014/07/arcteryx-alpine-academy-2014.html"/>
+    <link href="http://hikinginfinland.com/2014/07/arcteryx-alpine-academy-2014.html"/>
     <updated>2014-07-28T11:33:00+03:00</updated>
-    <id>http://hendrikmorkel.github.com/2014/07/arcteryx-alpine-academy-2014</id>
+    <id>http://hikinginfinland.com/2014/07/arcteryx-alpine-academy-2014</id>
     <content type="html"><![CDATA[<p><em>“Want to go to Chamonix to the Arc’teryx Alpine Academy?”</em> I messaged <a href="http://www.vincentkleine.com/">Vincent</a>. </p>
 
 <p><em>“Sure”</em>  came the reply. </p>

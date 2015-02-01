@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: wordpress | Hiking in Finland]]></title>
-  <link href="http://hendrikmorkel.github.com/blog/categories/wordpress/atom.xml" rel="self"/>
-  <link href="http://hendrikmorkel.github.com/"/>
-  <updated>2015-02-01T13:17:54+02:00</updated>
-  <id>http://hendrikmorkel.github.com/</id>
+  <link href="http://hikinginfinland.com/blog/categories/wordpress/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com/"/>
+  <updated>2015-02-01T19:19:02+02:00</updated>
+  <id>http://hikinginfinland.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Art of Outdoor Blogging: Wordpress & Blogspot Alternatives]]></title>
-    <link href="http://hendrikmorkel.github.com/2013/04/the-art-of-outdoor-blogging-wordpress-and-blogspot-alternatives.html"/>
+    <link href="http://hikinginfinland.com/2013/04/the-art-of-outdoor-blogging-wordpress-and-blogspot-alternatives.html"/>
     <updated>2013-04-30T22:28:00+03:00</updated>
-    <id>http://hendrikmorkel.github.com/2013/04/the-art-of-outdoor-blogging-wordpress-and-blogspot-alternatives</id>
+    <id>http://hikinginfinland.com/2013/04/the-art-of-outdoor-blogging-wordpress-and-blogspot-alternatives</id>
     <content type="html"><![CDATA[<p>I’ve never been a big fan of Wordpress, and after recent developments at Google I also would be worried of their treatment of the Blogspot platform. Personally I find WordPress bloated, not easy to work with and I dislike the online editor with a passion. And with Google shutting down services or integrating them with Google+ the future of Blogspot looks uncertain, too. Time to look at alternatives which give you full control of your content, <em>all the time.</em></p>
 
 <p><a href="http://www.flickr.com/photos/hendrikmorkel/8695803586/" title="Rain by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8546/8695803586_29bf710398_b.jpg" width="1024" height="680" alt="Rain" /></a></p>

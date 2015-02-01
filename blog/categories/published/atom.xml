@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: published | Hiking in Finland]]></title>
-  <link href="http://hendrikmorkel.github.com/blog/categories/published/atom.xml" rel="self"/>
-  <link href="http://hendrikmorkel.github.com/"/>
-  <updated>2015-02-01T13:17:54+02:00</updated>
-  <id>http://hendrikmorkel.github.com/</id>
+  <link href="http://hikinginfinland.com/blog/categories/published/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com/"/>
+  <updated>2015-02-01T19:19:02+02:00</updated>
+  <id>http://hikinginfinland.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Published]]></title>
-    <link href="http://hendrikmorkel.github.com/2012/10/published.html"/>
+    <link href="http://hikinginfinland.com/2012/10/published.html"/>
     <updated>2012-10-02T14:08:00+03:00</updated>
-    <id>http://hendrikmorkel.github.com/2012/10/published</id>
+    <id>http://hikinginfinland.com/2012/10/published</id>
     <content type="html"><![CDATA[<p>I’ve been writing for a few magazines again, and I am very happy and proud how the <em>“Ultralight Backpacking for Beginners”</em> article I wrote for the German <a href="http://www.trekkingmagazin.com/">trekking Magazin</a> turned out.</p>
 
 <p><a href="http://www.flickr.com/photos/hendrikmorkel/8046778931/" title="trekking magazin by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8036/8046778931_7ef1f69f91_b.jpg" width="1024" height="680" alt="trekking magazin" /></a></p>
