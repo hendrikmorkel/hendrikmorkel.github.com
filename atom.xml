@@ -4,7 +4,7 @@
   <title><![CDATA[Hiking in Finland]]></title>
   <link href="http://hikinginfinland.com/atom.xml" rel="self"/>
   <link href="http://hikinginfinland.com/"/>
-  <updated>2015-12-12T10:48:29-08:00</updated>
+  <updated>2015-12-14T16:10:21+02:00</updated>
   <id>http://hikinginfinland.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
@@ -14,9 +14,90 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Arc'teryx Voltair Avalanche Airbag]]></title>
+    <link href="http://hikinginfinland.com/2015/12/arcteryx-voltair-avalanche-airbag.html"/>
+    <updated>2015-12-16T23:18:00+02:00</updated>
+    <id>http://hikinginfinland.com/2015/12/arcteryx-voltair-avalanche-airbag</id>
+    <content type="html"><![CDATA[<p>The second big news from last weeks <a href="http://arcteryx.com">Arc’teryx</a> media event in Vancouver was the launch of the Voltair Avalanche Airbag. As I was able to use and deploy it over three days in the Canadian backcountry what follows are more insights on this game-changing avalanche airbag.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716165196/in/dateposted/" title="Arc’teryx Designer Gord Rose skiing with his creation, the Voltair Avalanche Airbag"><img src="https://farm6.staticflickr.com/5734/23716165196_6633e02f0d_b.jpg" width="1024" height="683" alt="Arc’teryx Designer Gord Rose skiing with his creation, the Voltair Avalanche Airbag" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<!-- more -->
+
+<h2 id="the-tech">The Tech</h2>
+
+<p>No, it has no similarities with the JetForce Technology. Both are powered by a battery, but that’s already what these two technologies have in common. And the Arc’teryx Voltair Avalanche Airbag battery allows the bag to be deployed up to 8 times on a fully charged battery, which is two times as often as the Jetforce lets you deploy the ballon. It’s even more at warmer temperatures, and less at -30°C - but then again, not many will be out skiing at -30°C. </p>
+
+<p>Gordon Rose started to dabble in Avalanche packs around ten years ago, but the Voltair project started in February 2010 for real. Since then Gordon and his colleague Peter Hill, who is responsible for the backpack part of the Voltair, have been working on this avalanche pack. The inspiration for Gordon came from RC Models - he and a colleague where talking about how fast model planes can go, the short comings of compressed gas airbag, and saw possibilities of RC Technology for avalanche bags. Gordon went through many tests of propellor and centrifugal blowers until he settled on a mixed flow centrifugal blower. Advanced Design Technology in London, UK, helped him and Arc’teryx design the optimal propellor and after 21 designs and tests they had the perfect one for their pack. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23447243040/in/dateposted/" title="Gordon Rose with the tech guts of the Voltair Avalanche Airbag"><img src="https://farm6.staticflickr.com/5798/23447243040_c612e0e1b1_b.jpg" width="1024" height="683" alt="Gordon Rose with the tech guts of the Voltair Avalanche Airbag" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The next step was to get the battery right. Gordon settled on a Lithium Polymer battery design as these work well at cold temperatures and are the most efficient. Powertraveller helped design and manufacture the battery, and the one in the Voltair now allows you to deploy the ballon up to 8 times at -15°C - more at warmer temperatures, less at -30°C. The benefit of this should be obvious: It allows you to practice to deploy the airbag. If you know how it behaves, you’re less likely to hesitate to pull the trigger and deploy the ballon. Each of us popped the ballon a couple of times in a test environment, and then up in the mountains again. In the case of an avalanche this means you don’t wait and pull the trigger and deploy the ballon. The battery is charged via a cable and goes from empty to full in 2,5 hours, and weighs 800 g - a weight that Arc’teryx hopes to improve in the future. </p>
+
+<p>For the release trigger Arc’teryx decided to use a mechanical system - while the possibility to use an electronic system is tempting, they decided in harsh conditions there’s just too much which can go wrong with a electronic release, and a reliable pull trigger is the best way to go. The Trigger is easy to unlock, but even in a locked position it is easy to release the ballon with just a small twist. The trigger is custom-molded and easy to grip with mitts and gloves, and connects via a steel cable to the ballon compartment. A pull on the trigger pops the closure open, this in turn connects to an electronic trigger which starts up the centrifugal blower which inflates the ballon in less than five seconds.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716201286/in/album-72157662401963745/" title="Release Trigger Locked"><img src="https://farm1.staticflickr.com/675/23716201286_fc4b267027_b.jpg" width="1024" height="683" alt="Release Trigger Locked" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The next design hurdle was the Brushless DC Motor, which are difficult to make reliable at cold weather. After tracking down many designers across the globe Gord found the right guy just five minutes from the Arc’teryx Design HQ, and he helped him design a reliable engine which also performs at -30°C. 90% of the other technology in the pack is also custom-made, from flexible wires to the circuit board and release notch, Arc’teryx spent nearly six years to make this backpack the best in its category. To learn more, please watch this exclusive video where Gordon Rose and Peter Hill talk about the Voltair Avalanche Airbag:</p>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/xjq-NAQUK-k" frameborder="0" allowfullscreen=""></iframe>
+
+<p>(<em>Interview video coming soon!</em>)</p>
+
+<h2 id="the-pack">The Pack</h2>
+
+<p>The goal of Peter Hill was to make a classic, timeless Arc’teryx backpack which still looks great in five years. Constructed from the AC² material with taped seams and glued-in Sidewinder zippers, the pack is waterproof and keeps your gear dry. As it rained &amp; snowed all the time as we were up in the mountains it was a good test for the pack, and it performed great: Everything stayed dry inside. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23633782422/in/album-72157662401963745/" title="Arc’teryx Voltair Avalanche Airbag - Side"><img src="https://farm6.staticflickr.com/5797/23633782422_324efe2db1_b.jpg" width="1024" height="683" alt="Arc’teryx Voltair Avalanche Airbag - Side" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The Voltair has three compartments: A ballon compartment, an avalanche Kit compartment and a main compartment. Available in two sizes these pack are real 20 l and 30 l packs, unlike some packs of competitors which barely let you pack a puffy jacket and thermos bottle in their claimed volumes. I carried in my 30 l test pack two extra pairs of gloves, my <a href="http://bit.ly/1P2NxEx">Arc’teryx Cerium SV Jacket</a>, my <a href="http://www.bergfreunde.de/norroena-lyngen-alpha100-vest-kunstfaserweste/?pid=10239">Norrona Lyngen Alpha100 Vest</a>, a water bottle, sandwiches and snacks, my <a href="http://www.bergfreunde.de/contour-hybrid-mix-130-skifelle/?pid=10239">countour Hybrid skins</a>, a tripod, two cameras and I had plenty of room to spare. If I compare that to my <a href="https://www.bergzeit.co.uk/black-diamond-dawn-patrol-25-ski-rucksack-deep-torch-black-m-l/?pid=81">Black Diamond Dawn Patrol 25 pack</a> that’s a massive difference, where it gets pretty hard to get so much gear in. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716247456/in/album-72157662401963745/" title="Avalanche Kit Pocket"><img src="https://farm1.staticflickr.com/738/23716247456_a1a40505f3_b.jpg" width="1024" height="683" alt="Avalanche Kit Pocket" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The carrying system of the Voltair is very comfortable and is fully adjustable. The hipbelt has some freedom of movement so you can turn those hips for your turns, and if you want to save weight you can remove the stays. The hipbelt also can be turned around for transport, and the chest strap can be removed if you feel you don’t need it. The leg loop strap is very easy to use which is very important: It’s the piece of gear that ensures you stay connected to the backpack and ballon if you get into an avalanche. It is super easy to clip in and out - also with mitts on - and the design is inspired by ice clippers as you might know them from ice climbing. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23742317785/in/album-72157662401963745/" title="Leg loop clip-in point"><img src="https://farm6.staticflickr.com/5829/23742317785_aa47814a51_b.jpg" width="1024" height="683" alt="Leg loop clip-in point" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The pack isn’t ultralight, even if Arc’teryx tried to use the lightest &amp; most durable materials and technology in the pack. The 20 l pack is 3.235 g and the 30 l pack is 3.465 g - the tech inside is a big part of that, with the battery itself already being a wee bit over 800 g. Arc’teryx hopes that this weight will be decreased in the not-too-distant future, especially since major players are heavily infesting into energy storage solutions.</p>
+
+<h2 id="in-use">In Use</h2>
+
+<p>I was able to use the pack for three days out at <a href="http://www.callaghancountry.com">Callaghan Country</a>, which gave me a good understanding how this pack carries and deploys. The first thing you realize is the comfortable carrying system, which carries also (for an ultralight backpacker) very well, even with a pretty full pack. Also the leg loop is wonderfully intuitive and unobtrusive: It clips in and out super easy even with thick gloves on, and you don’t realize it is there while skinning and skiing. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23633780212/in/album-72157662401963745/" title="Arc’teryx Voltair Avalanche Airbag at Callaghan Country"><img src="https://farm6.staticflickr.com/5702/23633780212_2243ce5e36_b.jpg" width="1024" height="683" alt="Arc’teryx Voltair Avalanche Airbag at Callaghan Country" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>As I haven’t used Avalanche Airbags before I have nothing to compare the Voltair to, but chatting with Lou of <a href="http://wildsnow.com">Wildsnow</a> and my other colleagues at the event it became evident that the Voltair is a well-designed Avalanche backpack which compares very good with other packs in the market. The advantages of battery-powered packs in comparison to compressed air backpacks are evident: You can practice and test the release of the ballon at home, it is much easier to travel with as you don’t need to find a place to fill up the air cartridge before you hit the slopes at your destination, and being able to release the ballon in the Voltair up to eight times means using this pack on long outings adds a lot of safety. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23659988171/in/album-72157662401963745/" title="Packing the Ballon 1"><img src="https://farm6.staticflickr.com/5703/23659988171_0fef0d05d5_b.jpg" width="1024" height="683" alt="Packing the Ballon 1" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Packing the ballon is a thing of two to five minutes, depending on your level of practice. The ballon deflates via a valve which you slide in. Happily the ballon does not need to be folded in a special way - just stuff it back into the ballon compartment, close the zipper, pop the hatch back in and you’re ready. I discussed at length with Peter and Gordon about the use of zippers for the ballon compartment as it’s most certainly the thing I like least, but as every other avalanche pack on the market uses zippers (they work!) and in a pinch you can use the ballon even if the zipper is broken, I am convinced that it is OK. </p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23115555973/in/album-72157662401963745/" title="Ballon compartment"><img src="https://farm1.staticflickr.com/579/23115555973_03b5921fd9_b.jpg" width="1024" height="683" alt="Ballon compartment" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Putting the system on and releasing the ballon is also easy. You put the battery on and get a re-assuring short whirr which means the system is on and ready to go. The green LED lamp at the outside will blink green indicating that all is good to go, then you just turn the handle to the green dot side and you’re ready to skin up and ski down. In the case of an avalanche you pull the trigger and <em>POP!</em> the ballon deploys, helping you to hopefully stay on top thanks to the inverse segregation principle, which sorts larger particles to the top of the avalanche. The handle of the Voltair is also always accessible and can not be stowed away, this again minimizes the risk of user error and is different from other avalanche packs.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23742279705/in/album-72157662401963745/" title="POW Turns"><img src="https://farm6.staticflickr.com/5814/23742279705_0876730dd4_b.jpg" width="1024" height="683" alt="POW Turns" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>You can carry skis/ snowboard and an ice axe at the front of the pack, just make sure to put the ice axe with the tip down (ballons and steel tips don’t work well together). The side compression straps help to minimize volume if you are out with a small load, and the front hipbelt is comfortable and carries well. All buckles are easy to open in cold weather with gloves, and the zippers have tabs which makes them easy to operate with gloves on.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23374347639/in/album-72157662401963745/" title="Crossing streams"><img src="https://farm1.staticflickr.com/654/23374347639_0df435ac5f_b.jpg" width="1024" height="683" alt="Crossing streams" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Finally, the battery and control unit of the circuit collect data of the pack in use, with the aim to further the knowledge base of avalanche airbags in use. This data can be downloaded - should the user agree - when the pack is sent in for inspection. Arc’teryx works close together with Pascal Haegeli of the Simon Fraser University in Vancouver, one of the premier avalanche researchers on the planet. </p>
+
+<h2 id="the-bottomline">The Bottomline</h2>
+
+<p>The Voltair is a beautifully designed avalanche pack which is spacious and easy to use. The tech inside is all custom-made and designed to the highest standards, so that it can operate at -30°C and for many years in the harsh conditions of the backcountry. It is easy to learn how to deploy the ballon, pack it back in and then carry all your gear on your backcountry ski-tours. Fully waterproof it keeps your kit inside dry, and the possibilities for human error minimized it hopefully helps you to survive an avalanche if you should ever get into one. The packs will retail for 1700€ for the 30 l pack and 1650€ for the 20 l and will be available in autumn 2016. <em>Of course using the pack for just three days is not enough for a long-term review, but I am confident that with a sample pack showing up hopefully soon I can put it through its paces during the many ski-touring trips I have planned for this winter and then can get a more detailed review up by spring.</em></p>
+
+<p>A lot more <a href="https://www.flickr.com/photos/hendrikmorkel/albums/72157662401963745">high resolution photos are in the Flickr Album</a>, and if you enjoyed this article <strong><a href="http://bit.ly/1HGCWMS">buy me a coffee</a></strong>!</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23115487673/in/album-72157662401963745/" title="Skinning up"><img src="https://farm1.staticflickr.com/758/23115487673_22ec0ed64b_b.jpg" width="1024" height="683" alt="Skinning up" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Advent Calendar Door 15]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-15.html"/>
-    <updated>2015-12-15T11:48:00-08:00</updated>
+    <updated>2015-12-15T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-15</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-15.html" title="As-Tucas"><img src="https://farm8.staticflickr.com/7521/16062909521_71bc814eb5_b.jpg" width="1024" height="768" alt="As-Tucas" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -43,7 +124,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 14]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-14.html"/>
-    <updated>2015-12-14T11:48:00-08:00</updated>
+    <updated>2015-12-14T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-14</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-14.html" title="Supreabeam Logo"><img src="https://farm1.staticflickr.com/716/23564463625_ae1c293a7e_b.jpg" width="1024" height="768" alt="Supreabeam Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -69,7 +150,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 13]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-13.html"/>
-    <updated>2015-12-13T11:48:00-08:00</updated>
+    <updated>2015-12-13T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-13</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-13.html" title="Ruta Locura Logo"><img src="https://farm1.staticflickr.com/690/23482024491_23ea275559_b.jpg" width="1024" height="768" alt="Ruta Locura Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -95,7 +176,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 12]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-12.html"/>
-    <updated>2015-12-12T11:48:00-08:00</updated>
+    <updated>2015-12-12T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-12</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-12.html" title="OutdoorLine"><img src="https://farm4.staticflickr.com/3811/11277458024_aa9f264000_b.jpg" width="1024" height="768" alt="OutdoorLine" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -121,7 +202,7 @@
   <entry>
     <title type="html"><![CDATA[Arc'teryx Procline Carbon Lite Ski Boot]]></title>
     <link href="http://hikinginfinland.com/2015/12/arcteryx-procline-carbon-lite-ski-boot.html"/>
-    <updated>2015-12-11T23:55:00-08:00</updated>
+    <updated>2015-12-11T23:55:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/arcteryx-procline-carbon-lite-ski-boot</id>
     <content type="html"><![CDATA[<p>1.190 g light, freedom of movement and great for alpinists and ski-tourers alike: The Arc’teryx Procline Carbon Lite Ski Boot and its siblings, the Procline Men’s Lite &amp; Procline Women’s Lite.</p>
 
@@ -172,7 +253,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 11]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-11.html"/>
-    <updated>2015-12-11T11:48:00-08:00</updated>
+    <updated>2015-12-11T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-11</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/15997231385/in/album-72157659104767804/" title="Bergfreunde"><img src="https://farm8.staticflickr.com/7501/15997231385_ab1f6c146f_b.jpg" width="1024" height="768" alt="Bergfreunde" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -200,7 +281,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 10]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-10.html"/>
-    <updated>2015-12-10T11:48:00-08:00</updated>
+    <updated>2015-12-10T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-10</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-10.html" title="Naturebase Logo"><img src="https://farm1.staticflickr.com/731/23167145419_7a125a8d05_b.jpg" width="1024" height="768" alt="Naturebase Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -228,7 +309,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 9]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-9.html"/>
-    <updated>2015-12-09T11:48:00-08:00</updated>
+    <updated>2015-12-09T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-9</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-9.html" title="Nikwax Logo"><img src="https://farm6.staticflickr.com/5835/23475758805_c1f6c4a9c0_b.jpg" width="1024" height="768" alt="Nikwax Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -256,7 +337,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 8]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-8.html"/>
-    <updated>2015-12-08T11:48:00-08:00</updated>
+    <updated>2015-12-08T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-8</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-8.html" title="Peak Design"><img src="https://farm4.staticflickr.com/3739/11277393535_8e44ef3ddd_b.jpg" width="1024" height="768" alt="Peak Design" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -284,7 +365,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 7]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-7.html"/>
-    <updated>2015-12-07T11:48:00-08:00</updated>
+    <updated>2015-12-07T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-7</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-7.html" title="Rojk-Logo"><img src="https://farm9.staticflickr.com/8681/16027122422_ccf33eb10f_b.jpg" width="1024" height="768" alt="Rojk-Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -312,7 +393,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 6]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-6.html"/>
-    <updated>2015-12-06T11:48:00-08:00</updated>
+    <updated>2015-12-06T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-6</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-6.html" title="Advent Calendar Packrafting Store"><img src="https://farm8.staticflickr.com/7361/11179454063_38300ddb8c_b.jpg" width="1024" height="768" alt="Advent Calendar Packrafting Store" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -340,7 +421,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 5]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-5.html"/>
-    <updated>2015-12-05T11:48:00-08:00</updated>
+    <updated>2015-12-05T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-5</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-5.html" title="Kupilka Logo"><img src="https://farm6.staticflickr.com/5835/23345855982_76616b2109_b.jpg" width="1024" height="768" alt="Kupilka Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -366,7 +447,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 4]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-4.html"/>
-    <updated>2015-12-04T11:48:00-08:00</updated>
+    <updated>2015-12-04T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-4</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-4.html" title="Hanchor Logo"><img src="https://farm6.staticflickr.com/5636/23424963436_78d7ec898f_b.jpg" width="1024" height="768" alt="Hanchor Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -391,7 +472,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 3]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-3.html"/>
-    <updated>2015-12-03T11:48:00-08:00</updated>
+    <updated>2015-12-03T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-3</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/12/advent-calendar-door-3.html" title="Arc&#x27;teryx Logo"><img src="https://farm6.staticflickr.com/5675/23371834331_4ee5c10e0c_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!-- more --></p>
@@ -416,7 +497,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 2]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-2.html"/>
-    <updated>2015-12-02T11:48:00-08:00</updated>
+    <updated>2015-12-02T11:48:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-2</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="http://hikinginfinland.com/2015/12/advent-calendar-door-2.html" title="Hyperlite Mountain Gear Logo"><img src="https://farm1.staticflickr.com/621/22811712953_db8e6346c1_b.jpg" width="1024" height="768" alt="Hyperlite Mountain Gear Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -442,7 +523,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar Door 1]]></title>
     <link href="http://hikinginfinland.com/2015/12/advent-calendar-door-1.html"/>
-    <updated>2015-12-01T11:46:00-08:00</updated>
+    <updated>2015-12-01T11:46:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/12/advent-calendar-door-1</id>
     <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="http://hikinginfinland.com/2015/12/advent-calendar-door-1.html" title="OAC-Logo"><img src="https://farm8.staticflickr.com/7496/15764883519_e37a8939a1_b.jpg" width="1024" height="768" alt="OAC-Logo" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -468,7 +549,7 @@
   <entry>
     <title type="html"><![CDATA[Annual Day Zero HiF Advent Calendar Kick-off]]></title>
     <link href="http://hikinginfinland.com/2015/11/annual-day-zero-hif-advent-calendar-kick-off.html"/>
-    <updated>2015-11-23T23:58:00-08:00</updated>
+    <updated>2015-11-23T23:58:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/11/annual-day-zero-hif-advent-calendar-kick-off</id>
     <content type="html"><![CDATA[<p>The <em>“Annual Day Zero HiF Advent Calendar Kick-off 2015”</em> is open.</p>
 
@@ -506,7 +587,7 @@
   <entry>
     <title type="html"><![CDATA[Advent Calendar 2015 - The Rules]]></title>
     <link href="http://hikinginfinland.com/2015/11/advent-calendar-2015-the-rules.html"/>
-    <updated>2015-11-23T10:19:00-08:00</updated>
+    <updated>2015-11-23T10:19:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/11/advent-calendar-2015-the-rules</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/hendrikmorkel/8230998731/" title="HiF Advent Calendar"><img src="http://farm9.staticflickr.com/8350/8230998731_e265161b94_b.jpg" width="1024" height="768" alt="HiF Advent Calendar Logo" /></a></p>
 
@@ -578,7 +659,7 @@
   <entry>
     <title type="html"><![CDATA[The Week In Review 223]]></title>
     <link href="http://hikinginfinland.com/2015/11/twir-223.html"/>
-    <updated>2015-11-22T23:55:00-08:00</updated>
+    <updated>2015-11-22T23:55:00+02:00</updated>
     <id>http://hikinginfinland.com/2015/11/twir-223</id>
     <content type="html"><![CDATA[<p><em>“I would rather sit on a pumpkin, and have it all to myself, than be crowded on a velvet cushion.”</em> ― <a href="http://amzn.to/1N5ijx3">Henry David Thoreau</a></p>
 
@@ -673,80 +754,6 @@
 <p><em>Liked this? Follow along on <a href="http://facebook.com/hikinginfinland">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a>, <a href="https://instagram.com/hendrikm/">Instagram</a> and <a href="https://plus.google.com/u/1/b/105082905705272949032/105082905705272949032/posts">Google+</a> for On-The-Trail updates! And yes, <strong><a href="http://bit.ly/1HGCWMS">I do accept a coffee</a></strong> if you’d like to get me one!</em> </p>
 
 <p><a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=1430&amp;pw=73183"><img src="http://hikinginfinland.com//www.avantlink.com/gbi/10060/1430/55699/73183/image.jpg" width="728" height="90" style="border: 0px;" alt="" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Packrafting, Canyoning &amp; Mountain biking in the Kaiserwinkl]]></title>
-    <link href="http://hikinginfinland.com/2015/11/packrafting-and-mountainbiking-in-the-kaiserwinkl.html"/>
-    <updated>2015-11-17T23:45:00-08:00</updated>
-    <id>http://hikinginfinland.com/2015/11/packrafting-and-mountainbiking-in-the-kaiserwinkl</id>
-    <content type="html"><![CDATA[<p><em>How would you spend four days in the Kaiserwinkl?</em> </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22268160414/in/album-72157653403675729/" title="Zahmer Kaiser"><img src="https://farm6.staticflickr.com/5828/22268160414_ccb4435651_b.jpg" width="1024" height="598" alt="Zahmer Kaiser" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<!-- more -->
-
-<p>We had one objective for our visit to Kaiserwinkl: Do one of the Via Ferrata and shoot some great photos. We got that done on our first afternoon - and now had plenty of time on our hands to do other cool activities. First on our list was packrafting.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22864936066/in/album-72157653403675729/" title="Taking in the view"><img src="https://farm6.staticflickr.com/5783/22864936066_5e965e21ff_b.jpg" width="1024" height="684" alt="Taking in the view" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<h2 id="packrafting-on-the-tiroler-ache">Packrafting on the Tiroler Ache</h2>
-
-<p><em>Could I loan your packraft?</em> Vincent asked me before the trip. Sure, no problem. <em>And could you teach me some packrafting, too?</em> Again, no problem, after all I enjoy <a href="https://hikinginfinland.com/guided-trips/">teaching packrafting</a>. </p>
-
-<p>We joined <a href="http://ack-koessen.at/?page_id=6">Adventure Club Kaiserwinkl</a> on one of their Adventure Rafting trips, this made transport very easy and I didn’t need to bring paddles or safety gear along. Dressed up in a neoprene suit with a vest and helmet and a paddle we set off to the entry point close to Kössen. The Tiroler Ache is a beautiful river, and the ~7 km section we would packraft would run through deep canyons which have a lot of history - there were smuggler paths in the war through the forests, and a pretty castle stands high above the river. </p>
-
-<p>After some instructions and tips for the packrafting newbie we were off on the fast flowing river, and it was nice that we didn’t need to paddle a lot. The rapids were easy (up to Class II) and especially the Waschmaschine rapid was super fun. Vincent mastered them superbly and it was such a good run that we decided to come back a second time a day later. You could paddle until the Chiemsee in Bavaria, Germany on the Tiroler Ache so there’s plenty of potential for a Microadventure on this river. Wel also met some cool paddlers who were eager to test my packraft, and later shared a beer and some Kanebulla with them at the parking lot =)</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22666389017/in/album-72157653403675729/" title="Through the gates ©Vincent Kleine"><img src="https://farm1.staticflickr.com/748/22666389017_9da9e7f1b4_b.jpg" width="1024" height="683" alt="Through the gates ©Vincent Kleine" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22666388697/in/album-72157653403675729/" title="Waschgang ©Vincent Kleine"><img src="https://farm6.staticflickr.com/5721/22666388697_8f15e94bc2_b.jpg" width="1024" height="683" alt="Waschgang ©Vincent Kleine" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23084776405/in/album-72157653403675729/" title="Frisch aus der Waschmaschine ©Vincent Kleine"><img src="https://farm1.staticflickr.com/730/23084776405_555e44a203_b.jpg" width="1024" height="683" alt="Frisch aus der Waschmaschine ©Vincent Kleine" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<h2 id="canyoning">Canyoning</h2>
-
-<p>We almost didn’t need to take our neoprene suits off before the packrafting - because we were <a href="http://ack-koessen.at/?page_id=14">Canyoning</a> before it! I have been canyoning once before at the <a href="https://hikinginfinland.com/2012/06/adventures-around-lago-didro.html">Lago d’Idro</a> in Italy and loved it. There’s just something very exciting and exhilarating when you enter a deep canyon and know the only way out is following the river down. Jumping over 10 m waterfalls into deep, cold pools sounds crazy - but is so much fun, and definitely a memorable experience. </p>
-
-<p>We drove to a deep canyon with Markus Dagn, our guide from <a href="http://ack-koessen.at">Adventure Club Kaiserwinkl</a> and after a short walk up to the canyon we started with a rappel into the canyon. After Markus pulled the rope there was just one way out: Down the canyon. We jumped into pools, rappelled down waterfalls and slid down smooth rocks that the water has formed over centuries. Far above us was the green roof of the trees and the blue sky, but around us where the dark walls which seemed to be tipping over. After a bit less than an hour and plenty of jumps into cold pools we came out of the canyon, with a big smile on our face. We high-fived each other, rolled the neoprene suits down to let the warm sun on our skin and hiked back to the car. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22702891380/in/album-72157653403675729/" title="Canyoning"><img src="https://farm1.staticflickr.com/648/22702891380_a132601888_b.jpg" width="684" height="1024" alt="Canyoning" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<h2 id="an-e-mtb-tour-to-the-heuberg">An E-MTB Tour to the Heuberg</h2>
-
-<p><a href="http://www.kaiserwinkl.com/sommer/radsport/e-bikes.html">Electrical Mountain biking</a>. Yes, I was <em>a bit</em> sceptical about this activity. But I also was curious - we have been pondering getting an E-Assisted Cargobike for a while and this would be a good opportunity to see what such an Electric motor on a bike can do. Well, it can do a lot. The 940 m of ascent didn’t make me even break into a sweat, as the E-assist motor is so efficient and powerful that we were just <a href="https://www.strava.com/activities/336849079">flying up the trails</a> to the Heuberg. </p>
-
-<p>We picked the Heuberg because it is a scenic, cone-shaped peak and the views from it should be good (they are!). The ride up was fast and also involved some hike-you-e-bike and a short hike without bikes to the summit, and the ride down taught me the lesson that on the downhill it’s smart to put the e-assist off unless you want almost bomb down into the forest. But E-Mountainbikes: There’s no challenge anymore in pedaling up the hill. It doesn’t matter how steep the hill is, as long as you’re able to sit or stand on the bike the motor will pretty much drive you up. Which I enjoyed. But at the same time I wouldn’t do it again. I’d prefer to pedal up with my own power, or then push the bike. If you like it - then you’re in luck: There’s plenty of recharging stations in Kaiserwinkl and it’s part of the largest E-Bike network in the world! There’s ~1.000 km of cycling paths in nine different regions and 45 towns, and loaning an E-MTB is as easy as walking into the <a href="http://www.kaiserwinkl.com/de/sommer/radsport/e-bikes/e-bike-akkuladestation.html">Tourist Information in Walchsee</a>.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23072886732/in/album-72157653403675729/" title="Joo!"><img src="https://farm1.staticflickr.com/764/23072886732_791d86bcbd_b.jpg" width="1024" height="683" alt="Joo!" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22465308203/in/album-72157653403675729/" title="Up the meadow"><img src="https://farm6.staticflickr.com/5710/22465308203_e40b25e336_b.jpg" width="1024" height="768" alt="Up the meadow" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23086559225/in/album-72157653403675729/" title="Vincent photobombing my Selfie"><img src="https://farm6.staticflickr.com/5685/23086559225_992f54a6f1_b.jpg" width="1024" height="768" alt="Vincent photobombing my Selfie" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22472575868/in/album-72157653403675729/" title="eMTB"><img src="https://farm1.staticflickr.com/767/22472575868_d60231e19b_b.jpg" width="1024" height="684" alt="eMTB" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<h2 id="via-ferrata">Via Ferrata</h2>
-
-<p>There’s three <a href="http://www.kaiserwinkl.com/en/summer/hiking/climbing.html">Via Ferratas close Walchsee</a>, one beginner VF and two in the D and D/E difficulty. We decided to go for the Bergkameraden Steig. It’s steep at the beginning and has after the bridge some overhanging sections, but after that it gets easier and the descent is going through the nice forest and you come out directly at the Ottenalm Café, where you can grab a coffee and cake to reward yourself for the good climbing you just did! The Via Ferratas all get the afternoon sun and can get hot, so take something to drink along when you go in!</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22268162664/in/album-72157653403675729/" title="Via Ferrata"><img src="https://farm6.staticflickr.com/5693/22268162664_2349bb6170_b.jpg" width="684" height="1024" alt="Via Ferrata" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22498755919/in/album-72157653403675729/" title="Via Ferrata"><img src="https://farm6.staticflickr.com/5665/22498755919_a50e2f2b4d_b.jpg" width="684" height="1024" alt="Via Ferrata" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23097726811/in/album-72157653403675729/" title="Don&#x27;t get lost"><img src="https://farm6.staticflickr.com/5717/23097726811_ec57919d63_b.jpg" width="1024" height="683" alt="Don&#x27;t get lost" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<h2 id="visiting-the-kaiserwinkl">Visiting the Kaiserwinkl</h2>
-
-<p>This was my first visit to the Kaiserwinkl, and I enjoyed it a lot. The highlights definitely were the tasty Kaiserschmarrn at the Fischerwirt, that is an absolute recommendation to go &amp; taste when you visit Walchsee. Also the activities were a lot of fun, with the packrafting and canyoning being the activities I enjoyed the most. Besides these there are plenty more things you can do, from hiking &amp; mountaineering to paragliding and swimming in the lake, Kaiserwinkl offers it all, always with the great view on the Wilder and Zahmer Kaiser mountains. </p>
-
-<p>I travelled to Kaiserwinkl and Walchsee after my visit to <a href="https://hikinginfinland.com/2015/11/spring-adventures-in-kronplatz.html">Kronplatz</a>, that was very easy as we just jumped of the train in Kufstein (a beautiful city, by the way) and got a ride with <a href="http://taxikitzbichler.jimdo.com">Taxi Kitzbichler</a> to Walchsee. As Kaiserwinkl is a mere 130 km from the Airport in Munich it’s also possible to hire a car at the airport and drive to Walchsee yourself, though it’s easy enough to get around with public transportation or bikes.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22668169527/in/album-72157653403675729/" title="Walchsee"><img src="https://farm6.staticflickr.com/5631/22668169527_0fb7f46a1a_b.jpg" width="1024" height="768" alt="Walchsee" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>We stayed at the <a href="http://www.bellevue-walchsee.at">Ferienclub Bellevue am Walchsee</a>, which is a rather large hotel and hence has a lot ot offer, especially if you’re going with the family: There’s a large swimming pool inside and outside, a Sauna area, lots of play grounds and a kindergarden when the parents want to relax an afternoon. You can rent bikes and they have good food. Oh, and they’re directly at the Walchsee lake, so fishermen can just jump into a boat and try their luck. </p>
-
-<p>Walchsee is just one of several small villages in the <a href="http://www.kaiserwinkl.com">Kaiserwinkl</a>. It’s small enough that you can walk everywhere, but there’s plenty of nice Cafés, Restaurant and shops that you don’t get bored. And there’s plenty of great outdoor activities available - as you saw above. There’s more photos on Flickr in the <a href="https://www.flickr.com/photos/hendrikmorkel/sets/72157653403675729/">Kaiserwinkl Album</a> to get you in the mood for a visit to this beautiful corner of Tirol!</p>
-
-<p>Thanks to Vincent for some of the photos in the article. Follow him on <a href="https://instagram.com/janvincentkleine/">Instagram</a> or <a href="https://www.facebook.com/JanVincentKleinePhotography">Facebook</a> to see more of his fine work.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23086545765/in/album-72157653403675729/" title="Kaiserschmarrn &lt;3"><img src="https://farm1.staticflickr.com/615/23086545765_7ff887f085_b.jpg" width="1024" height="768" alt="Kaiserschmarrn &lt;3" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p><em>Thanks to <a href="http://www.kaiserwinkl.com">Kaiserwinkl</a> and <a href="http://www.maroundpartner.com">Maro and Partner</a> for making this trip possible.</em></p>
 ]]></content>
   </entry>
   
