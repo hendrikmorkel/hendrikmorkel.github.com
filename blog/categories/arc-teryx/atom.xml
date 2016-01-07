@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Arc'teryx | Hiking in Finland]]></title>
+  <title><![CDATA[Category: Arc’teryx | Hiking in Finland]]></title>
   <link href="http://hikinginfinland.com/blog/categories/arc-teryx/atom.xml" rel="self"/>
   <link href="http://hikinginfinland.com/"/>
-  <updated>2016-01-06T14:14:25+02:00</updated>
+  <updated>2016-01-07T09:34:23+02:00</updated>
   <id>http://hikinginfinland.com/</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
@@ -14,411 +14,129 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Arc'teryx Voltair Avalanche Airbag]]></title>
-    <link href="http://hikinginfinland.com/2015/12/arcteryx-voltair-avalanche-airbag.html"/>
-    <updated>2015-12-16T23:18:00+02:00</updated>
-    <id>http://hikinginfinland.com/2015/12/arcteryx-voltair-avalanche-airbag</id>
-    <content type="html"><![CDATA[<p>The second big news from last weeks <a href="http://arcteryx.com">Arc’teryx</a> media event in Vancouver was the launch of the Voltair Avalanche Airbag. As I was able to use and deploy it over three days in the Canadian backcountry what follows are more insights on this game-changing avalanche airbag.</p>
+    <title type="html"><![CDATA[Arc’teryx Acrux² FL GTX]]></title>
+    <link href="http://hikinginfinland.com/2015/05/arcteryx-acrux2-fl-gtx.html"/>
+    <updated>2015-05-07T20:20:00+03:00</updated>
+    <id>http://hikinginfinland.com/2015/05/arcteryx-acrux2-fl-gtx</id>
+    <content type="html"><![CDATA[<p>The Acrux² FL GTX from <a href="http://arcteryx.com/">Arc’teryx</a> is the Canadian brand’s entry into the approach footwear business. Made of an hydrophobic outside and a Gore-Tex slipper with a Vibram MegaGrip sole, it is a unique shoe. How it performed in the outdoors, you can read here.</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716165196/in/dateposted/" title="Arc’teryx Designer Gord Rose skiing with his creation, the Voltair Avalanche Airbag"><img src="https://farm6.staticflickr.com/5734/23716165196_6633e02f0d_b.jpg" width="1024" height="683" alt="Arc’teryx Designer Gord Rose skiing with his creation, the Voltair Avalanche Airbag" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<!-- more -->
-
-<h2 id="the-tech">The Tech</h2>
-
-<p>No, it has no similarities with the JetForce Technology. Both are powered by a battery, but that’s already what these two technologies have in common. And the Arc’teryx Voltair Avalanche Airbag battery allows the bag to be deployed up to 8 times on a fully charged battery, which is two times as often as the Jetforce lets you deploy the ballon. It’s even more at warmer temperatures, and less at -30°C - but then again, not many will be out skiing at -30°C. </p>
-
-<p>Gordon Rose started to dabble in Avalanche packs around ten years ago, but the Voltair project started in February 2010 for real. Since then Gordon and his colleague Peter Hill, who is responsible for the backpack part of the Voltair, have been working on this avalanche pack. The inspiration for Gordon came from RC Models - he and a colleague where talking about how fast model planes can go, the short comings of compressed gas airbag, and saw possibilities of RC Technology for avalanche bags. Gordon went through many tests of propellor and centrifugal blowers until he settled on a mixed flow centrifugal blower. Advanced Design Technology in London, UK, helped him and Arc’teryx design the optimal propellor and after 21 designs and tests they had the perfect one for their pack. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23447243040/in/dateposted/" title="Gordon Rose with the tech guts of the Voltair Avalanche Airbag"><img src="https://farm6.staticflickr.com/5798/23447243040_c612e0e1b1_b.jpg" width="1024" height="683" alt="Gordon Rose with the tech guts of the Voltair Avalanche Airbag" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>The next step was to get the battery right. Gordon settled on a Lithium Polymer battery design as these work well at cold temperatures and are the most efficient. Powertraveller helped design and manufacture the battery, and the one in the Voltair now allows you to deploy the ballon up to 8 times at -15°C - more at warmer temperatures, less at -30°C. The benefit of this should be obvious: It allows you to practice to deploy the airbag. If you know how it behaves, you’re less likely to hesitate to pull the trigger and deploy the ballon. Each of us popped the ballon a couple of times in a test environment, and then up in the mountains again. In the case of an avalanche this means you don’t wait and pull the trigger and deploy the ballon. The battery is charged via a cable and goes from empty to full in 2,5 hours, and weighs 800 g - a weight that Arc’teryx hopes to improve in the future. </p>
-
-<p>For the release trigger Arc’teryx decided to use a mechanical system - while the possibility to use an electronic system is tempting, they decided in harsh conditions there’s just too much which can go wrong with a electronic release, and a reliable pull trigger is the best way to go. The Trigger is easy to unlock, but even in a locked position it is easy to release the ballon with just a small twist. The trigger is custom-molded and easy to grip with mitts and gloves, and connects via a steel cable to the ballon compartment. A pull on the trigger pops the closure open, this in turn connects to an electronic trigger which starts up the centrifugal blower which inflates the ballon in less than five seconds.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716201286/in/album-72157662401963745/" title="Release Trigger Locked"><img src="https://farm1.staticflickr.com/675/23716201286_fc4b267027_b.jpg" width="1024" height="683" alt="Release Trigger Locked" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>The next design hurdle was the Brushless DC Motor, which are difficult to make reliable at cold weather. After tracking down many designers across the globe Gord found the right guy just five minutes from the Arc’teryx Design HQ, and he helped him design a reliable engine which also performs at -30°C. 90% of the other technology in the pack is also custom-made, from flexible wires to the circuit board and release notch, Arc’teryx spent nearly six years to make this backpack the best in its category. To learn more, please watch this exclusive video where Gordon Rose and Peter Hill talk about the Voltair Avalanche Airbag:</p>
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/xjq-NAQUK-k" frameborder="0" allowfullscreen=""></iframe>
-
-<p>(<em>Interview video coming soon!</em>)</p>
-
-<h2 id="the-pack">The Pack</h2>
-
-<p>The goal of Peter Hill was to make a classic, timeless Arc’teryx backpack which still looks great in five years. Constructed from the AC² material with taped seams and glued-in Sidewinder zippers, the pack is waterproof and keeps your gear dry. As it rained &amp; snowed all the time as we were up in the mountains it was a good test for the pack, and it performed great: Everything stayed dry inside. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23633782422/in/album-72157662401963745/" title="Arc’teryx Voltair Avalanche Airbag - Side"><img src="https://farm6.staticflickr.com/5797/23633782422_324efe2db1_b.jpg" width="1024" height="683" alt="Arc’teryx Voltair Avalanche Airbag - Side" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>The Voltair has three compartments: A ballon compartment, an avalanche Kit compartment and a main compartment. Available in two sizes these pack are real 20 l and 30 l packs, unlike some packs of competitors which barely let you pack a puffy jacket and thermos bottle in their claimed volumes. I carried in my 30 l test pack two extra pairs of gloves, my <a href="http://bit.ly/1P2NxEx">Arc’teryx Cerium SV Jacket</a>, my <a href="http://www.bergfreunde.de/norroena-lyngen-alpha100-vest-kunstfaserweste/?pid=10239">Norrona Lyngen Alpha100 Vest</a>, a water bottle, sandwiches and snacks, my <a href="http://www.bergfreunde.de/contour-hybrid-mix-130-skifelle/?pid=10239">countour Hybrid skins</a>, a tripod, two cameras and I had plenty of room to spare. If I compare that to my <a href="https://www.bergzeit.co.uk/black-diamond-dawn-patrol-25-ski-rucksack-deep-torch-black-m-l/?pid=81">Black Diamond Dawn Patrol 25 pack</a> that’s a massive difference, where it gets pretty hard to get so much gear in. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716247456/in/album-72157662401963745/" title="Avalanche Kit Pocket"><img src="https://farm1.staticflickr.com/738/23716247456_a1a40505f3_b.jpg" width="1024" height="683" alt="Avalanche Kit Pocket" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>The carrying system of the Voltair is very comfortable and is fully adjustable. The hipbelt has some freedom of movement so you can turn those hips for your turns, and if you want to save weight you can remove the stays. The hipbelt also can be turned around for transport, and the chest strap can be removed if you feel you don’t need it. The leg loop strap is very easy to use which is very important: It’s the piece of gear that ensures you stay connected to the backpack and ballon if you get into an avalanche. It is super easy to clip in and out - also with mitts on - and the design is inspired by ice clippers as you might know them from ice climbing. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23742317785/in/album-72157662401963745/" title="Leg loop clip-in point"><img src="https://farm6.staticflickr.com/5829/23742317785_aa47814a51_b.jpg" width="1024" height="683" alt="Leg loop clip-in point" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>The pack isn’t ultralight, even if Arc’teryx tried to use the lightest &amp; most durable materials and technology in the pack. The 20 l pack is 3.235 g and the 30 l pack is 3.465 g - the tech inside is a big part of that, with the battery itself already being a wee bit over 800 g. Arc’teryx hopes that this weight will be decreased in the not-too-distant future, especially since major players are heavily infesting into energy storage solutions.</p>
-
-<h2 id="in-use">In Use</h2>
-
-<p>I was able to use the pack for three days out at <a href="http://www.callaghancountry.com">Callaghan Country</a>, which gave me a good understanding how this pack carries and deploys. The first thing you realize is the comfortable carrying system, which carries also (for an ultralight backpacker) very well, even with a pretty full pack. Also the leg loop is wonderfully intuitive and unobtrusive: It clips in and out super easy even with thick gloves on, and you don’t realize it is there while skinning and skiing. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23633780212/in/album-72157662401963745/" title="Arc’teryx Voltair Avalanche Airbag at Callaghan Country"><img src="https://farm6.staticflickr.com/5702/23633780212_2243ce5e36_b.jpg" width="1024" height="683" alt="Arc’teryx Voltair Avalanche Airbag at Callaghan Country" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>As I haven’t used Avalanche Airbags before I have nothing to compare the Voltair to, but chatting with Lou of <a href="http://wildsnow.com">Wildsnow</a> and my other colleagues at the event it became evident that the Voltair is a well-designed Avalanche backpack which compares very good with other packs in the market. The advantages of battery-powered packs in comparison to compressed air backpacks are evident: You can practice and test the release of the ballon at home, it is much easier to travel with as you don’t need to find a place to fill up the air cartridge before you hit the slopes at your destination, and being able to release the ballon in the Voltair up to eight times means using this pack on long outings adds a lot of safety. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23659988171/in/album-72157662401963745/" title="Packing the Ballon 1"><img src="https://farm6.staticflickr.com/5703/23659988171_0fef0d05d5_b.jpg" width="1024" height="683" alt="Packing the Ballon 1" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>Packing the ballon is a thing of two to five minutes, depending on your level of practice. The ballon deflates via a valve which you slide in. Happily the ballon does not need to be folded in a special way - just stuff it back into the ballon compartment, close the zipper, pop the hatch back in and you’re ready. I discussed at length with Peter and Gordon about the use of zippers for the ballon compartment as it’s most certainly the thing I like least, but as every other avalanche pack on the market uses zippers (they work!) and in a pinch you can use the ballon even if the zipper is broken, I am convinced that it is OK. </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23115555973/in/album-72157662401963745/" title="Ballon compartment"><img src="https://farm1.staticflickr.com/579/23115555973_03b5921fd9_b.jpg" width="1024" height="683" alt="Ballon compartment" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>Putting the system on and releasing the ballon is also easy. You put the battery on and get a re-assuring short whirr which means the system is on and ready to go. The green LED lamp at the outside will blink green indicating that all is good to go, then you just turn the handle to the green dot side and you’re ready to skin up and ski down. In the case of an avalanche you pull the trigger and <em>POP!</em> the ballon deploys, helping you to hopefully stay on top thanks to the inverse segregation principle, which sorts larger particles to the top of the avalanche. The handle of the Voltair is also always accessible and can not be stowed away, this again minimizes the risk of user error and is different from other avalanche packs.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23742279705/in/album-72157662401963745/" title="POW Turns"><img src="https://farm6.staticflickr.com/5814/23742279705_0876730dd4_b.jpg" width="1024" height="683" alt="POW Turns" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>You can carry skis/ snowboard and an ice axe at the front of the pack, just make sure to put the ice axe with the tip down (ballons and steel tips don’t work well together). The side compression straps help to minimize volume if you are out with a small load, and the front hipbelt is comfortable and carries well. All buckles are easy to open in cold weather with gloves, and the zippers have tabs which makes them easy to operate with gloves on.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23374347639/in/album-72157662401963745/" title="Crossing streams"><img src="https://farm1.staticflickr.com/654/23374347639_0df435ac5f_b.jpg" width="1024" height="683" alt="Crossing streams" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>Finally, the battery and control unit of the circuit collect data of the pack in use, with the aim to further the knowledge base of avalanche airbags in use. This data can be downloaded - should the user agree - when the pack is sent in for inspection. Arc’teryx works close together with Pascal Haegeli of the Simon Fraser University in Vancouver, one of the premier avalanche researchers on the planet. </p>
-
-<h2 id="the-bottomline">The Bottomline</h2>
-
-<p>The Voltair is a beautifully designed avalanche pack which is spacious and easy to use. The tech inside is all custom-made and designed to the highest standards, so that it can operate at -30°C and for many years in the harsh conditions of the backcountry. It is easy to learn how to deploy the ballon, pack it back in and then carry all your gear on your backcountry ski-tours. Fully waterproof it keeps your kit inside dry, and the possibilities for human error minimized it hopefully helps you to survive an avalanche if you should ever get into one. The packs will retail for 1650€ for the 30 l pack and 1550€ for the 20 l and will be available in autumn 2016. <em>Of course using the pack for just three days is not enough for a long-term review, but I am confident that with a sample pack showing up hopefully soon I can put it through its paces during the many ski-touring trips I have planned for this winter and then can get a more detailed review up by spring.</em></p>
-
-<p>A lot more <a href="https://www.flickr.com/photos/hendrikmorkel/albums/72157662401963745">high resolution photos are in the Flickr Album</a>, and if you enjoyed this article <strong><a href="http://bit.ly/1HGCWMS">buy me a coffee</a></strong>!</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23115487673/in/album-72157662401963745/" title="Skinning up"><img src="https://farm1.staticflickr.com/758/23115487673_22ec0ed64b_b.jpg" width="1024" height="683" alt="Skinning up" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Arc'teryx Procline Carbon Lite Ski Boot]]></title>
-    <link href="http://hikinginfinland.com/2015/12/arcteryx-procline-carbon-lite-ski-boot.html"/>
-    <updated>2015-12-11T23:55:00+02:00</updated>
-    <id>http://hikinginfinland.com/2015/12/arcteryx-procline-carbon-lite-ski-boot</id>
-    <content type="html"><![CDATA[<p>1.190 g light, freedom of movement and great for alpinists and ski-tourers alike: The Arc’teryx Procline Carbon Lite Ski Boot and its siblings, the Procline Men’s Lite &amp; Procline Women’s Lite.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23233644179/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm6.staticflickr.com/5694/23233644179_77ae9e38a8_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17203304149" title="Arc’teryx Acrux² FL GTX - Side and Sole by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7794/17203304149_daccb18e5a_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Side and Sole" /></a></p>
 
 <!-- more -->
 
-<p>I was lucky enough to witness on Monday afternoon the unveiling of the <a href="http://arcteryx.com">Arc’teryx</a> ski boot line. It was a much rumoured development and what we saw today was even better than what the rumors suggested. As I have a severe Jetleg I will just make this a short and sweet post with some key points, and after (possibly maybe) having used the boot a bit more over the following few days up in the mountains I will update this post, so please stay tuned. It is smart to follow along on <a href="http://facebook.com/hikinginfinland">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://instagram.com/hendrikm/">Instagram</a> as with some luck there will be live updates from the mountains about this boot and the new Voltair Avalanche Airbag there, too.</p>
+<h2 id="time">Time</h2>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23519476391/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm1.staticflickr.com/709/23519476391_c5e65555f2_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p>The Acrux² FL GTX arrived in late March and has been along on the International Appalachian Trail in <a href="https://hikinginfinland.com/blog/categories/ireland/">Ireland</a>, where I wore it for seven days straight in rain and sunshine. I usually review gear only after a long period of time - often a year or longer - but as there’s a lot of interest in this shoe I wrote this initial review. I will update it after more use in the future. </p>
 
-<p>Coming in Fall 2016 are the <strong>six alpine touring ski boots from Arc’teryx</strong>, and together with eight colleagues from Europe and North America I am heading out to test these new boots and the Voltair Avalanche Airbag over the next three days so I will be able to give more insights on those on Friday. Here’s what I can tell you from trying on the boot and checking it out today at the exclusive product launch. The Six models are called </p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16767071834" title="Arc’teryx Acrux² FL GTX at the coast by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8700/16767071834_2caf372641_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX at the coast" /></a></p>
+
+<h2 id="function">Function</h2>
+
+<p>The Arc’teryx Acrux² FL GTX is two shoes in one: A Gore-Tex liner (blue) and a Hydrophobic shell shoe (black). For simplicity’s sake I will refer to them as the liner and shell. As an approach shoe it’s function is to allow you to get easily to the crag and back and for that it has a grippy sole with a climbing zone in the toe area which allows you to do easy scrambles in them. The shell does not absorb water and the liner has a Gore-Tex lining, which makes it highly water-resistant.</p>
+
+<blockquote>
+  <p><em>Technical alpine approach footwear for multiple days spent in variable weather &amp; terrain.</em> - Arc’teryx</p>
+</blockquote>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17389527535" title="Arc’teryx Acrux² FL GTX - Liner bootie and its insole by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5329/17389527535_206647f76f_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Liner bootie and its insole" /></a></p>
+
+<h2 id="features">Features</h2>
+
+<p>As from Arc’teryx’s website:</p>
+
+<p>Sole: 
+<br />- 3D moulded Ortholite™ footbed
+<br />- Vibram® MegaGrip™ sole
+<br />- 14 mm Heel Drop
+<br />- Sharp heel brake and mountaineering heel tread</p>
+
+<p>Shell:
+<br />- Seamless one piece upper with thermolaminated construction
+<br />- EVA foam midsole
+<br />- Hydrophobic material</p>
+
+<p>Liner:
+<br />- Tongue free liner
+<br />- Low height, light weight
+<br />- Arc’teryx Adaptive fit is an independent liner that conforms to the foot for a custom fit with no pressure points
+<br />- Stetchable GORE-TEX® liner
+<br />- Completely removable, interchangeable liner
+<br />- Rubberized sole</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EcIPgSWo_cA" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="technical-innovations">Technical Innovations</h2>
+
+<p>Arc’teryx separated the shell and lining of a traditional shoe and made two separate ones out of it, while re-designing both. So the upper is made from a single-piece of fabric, with a TPU-coating on the non-perforated parts which make them abrasion-resistant and let them shed water easily. The shell is also not sewn, but all parts are laminated together for a seam-free feel, which minimizes the risk of blisters and chaffing.</p>
+
+<p>While there might have been shoes like these before, Arc’teryx is the first brand in recent time that brings a shoe with a removable liner to market. What’s very special is that the liners of the Acrux² and the Bora² are interchangable - which means you can use the high, insulated liner of the Bora in your Acrux, or if you need more water-protection in the Acrux use the high Gore-Tex bootie liner - They all work together. The liner is also thought to increase the airflow inside the shoe, which should maximize ventilation. It’s made from stretchable materials which hug your feet for a comfortable feeling, all day long.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17363563336" title="Arc’teryx Acrux² FL GTX 0.1 by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7789/17363563336_c26f9bc77a_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX 0.1" /></a></p>
+
+<h2 id="quality">Quality</h2>
+
+<p>The quality of these shoes - both liner and shell - is superb as you expect from Arc’teryx. The whole construction is very tidy and clean, with no little threads hanging around. The laminated upper is super smooth and stylish, while the liner bootie has minimal seams and is very comfortable.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17203302069" title="Arc’teryx Acrux² FL GTX - Shell, insole and liner bootie by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7762/17203302069_35755460e2_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Shell, insole and liner bootie" /></a></p>
+
+<h2 id="weight">Weight</h2>
+
+<p>The Arc’teryx Acrux² FL GTX is a medium-weight shoe, in EU Size 42 they weigh:</p>
 
 <ul>
-  <li><strong>Procline Carbon Lite</strong>, the top of the line Unisex model which tips the scales at 1.190 g and will cost 730€ retail. </li>
-  <li>The <strong>Procline Carbon Support</strong> will be 1.260 g in MP Size 27.5 abd costs 700€</li>
-  <li>The <strong>Procline Men’s Lite</strong> will be 580€, 1.190 g in MP Size 27.5 while the <strong>Procline Men’s Support</strong> is 1.260 g and 550€</li>
-  <li>The <strong>Procline Women’s Lite</strong> tips the scales at 1.060 g and the <strong>Procline Women’s Support</strong> is 1.120 g - prices are the same as the Men’s models but both have a women’s last</li>
+  <li>Liner: 126 g</li>
+  <li>Shoe: 371 g</li>
+  <li>Total: 499 g</li>
+  <li><strong>PAIR 998 g</strong></li>
 </ul>
 
-<p>The difference between the Lite and Support models are the liners and cuffs. The Lite liners are about 90 g lighter as the support liners and fully thermo-mouldable. Both liners are designed in-house, but are different: The <em>Lite Liner</em> is made for uphill agility and great if you have a talented ski boot fitter at hand, while the <em>Support Liner</em> is slightly better for ski performance and if you don’t have access to a ski boot fitter. The Support Liner also has, as the name suggests, more tongue and collar support. The Women’s model will have a women’s last, and all liners have a removable strap closure system. </p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17389527005" title="Arc’teryx Acrux² FL GTX - 0.5 by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8710/17389527005_3de2af25d0_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - 0.5" /></a></p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23306141770/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm6.staticflickr.com/5788/23306141770_d7edb81816_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<h2 id="in-use">In use</h2>
 
-<p>The special thing about the boot - besides the ridiculously light weight of 1.190 g for the Procline Carbon Lite - is the agility it gives you. The 360° Rotating Cuff makes the boot feel more like the <a href="https://hikinginfinland.com/2015/01/scarpa-rebel-ultra-gtx.html">Scarpa Rebel Ultra GTX</a>. Unlike normal cuffs this cuff - available in two different configurations, one from Carbon fibre with over-injected Grilamid and in the Men’s and Women’s models the cuff is made from carbonfibre charged Grilamid  - is cut in half. Yes, you read that right: The cuff is cut in half in the back of your calf. Together with the rest of the cuff his gives you a <strong>Lateral rotation of 23° inwards and 13° outwards</strong>, which should make it much more better for skinning up difficult, steep snow or make it more agile for climbing.</p>
+<p>The Acrux² FL GTX is a stylish shoe. If you travel a lot to go climbing &amp; hiking and also will spend some time in civilization, airplanes, hotels and B&amp;Bs the Acrux FL² GTX are great beacause while they are functional approach shoes they also could pass as a stylish city sneaker. I used them as a scramble and approach shoe as I was <a href="https://hikinginfinland.com/2015/04/sea-stack-climbing-in-ireland.html">sea stack climbing</a> and there they worked fantastic. The Vibram MegaGrip sole had superb traction on the wet slabs at the coast, and the small climbing zones at the toes allowed for good foot placements on small ledges. </p>
 
-<p>Speaking of alpine climbing, one of the re-occurring points the designer <strong>Federico Sbrissa</strong> (keep that name in mind, I have a feeling we can expect much more great footwear innovations to come from him!) made is that these boots were <em>designed for the alpinists and also great for every ski-tourer</em>. It’s a point worth thinking about, because the things alpinist (climbers) want in boots often will be much appreciated by skiers. I mean, more agility in your boot that allows you to skin longer and keep the crampons in your pack? Great! More edge control on steep snow traverses? Yes please! More agility when using crampons? Heck yeah! </p>
+<p>Also for hiking the shoes were very comfortable, even in hot weather (more on that underneath). I was a bit worried before flying to Ireland if the shoe would be too hot and might give me blisters, but the truth was that even on long, high kilometer days the shoes were comfortable and I finished the trip without blisters, even on those close to 20°C sunshine &amp; blue-bird days. The laces were very good and did not come undone, something which has been a problem with some other shoes. The shoe is comfortable all day long, the liner hugs my foot nicely and you can lace up the shell as loose or tight as you like. At 499 g per shoe they’re medium weight but I didn’t get tired feet in the shoes. </p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23234109229/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm1.staticflickr.com/583/23234109229_7920fba1dc_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17203380689" title="Arc’teryx Acrux² FL GTX by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7681/17203380689_b77edb80bc_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX" /></a></p>
 
-<p>Nice about these carbon fibre cuffs is also that the pivot points - the places where metal rivets go through them - are made from plastic. And they connect to plastic. Which makes them a lot more durable than 100% carbon cuffs, which tend to wear out at the points where they touch metal. As here plastic touches plastic, they should last much longer, which is pretty cool. Once you decide to ski pull the buckle down and can hit the pow. Locking pins on the divided cuff lock into the rear spine and you have a nice, stiff boot to go down.</p>
+<p>Now one of the design ideas of this shoes was that you can take the Gore-Tex liner out if it gets wet and can dry it overnight in your sleeping bag or tent. In practice I am not sure if it works, to get the liners dry again I needed to place them close to a radiator so that they would be dry the next morning; if there was no heat source then they were still moist the next morning. It could be that if you take the moist liners into your sleeping bag at a bivy that they will dry out well, but in my limited tests I am not sure if it works. An alternative could be to carry a 2nd pair of liner booties - at 126 g they’re not too heavy - and so ensure always dry feet. What I missed in this respect was that the shell did not have some drainage/ ventilation holes at the sole-level, this would help to get water out faster when you wade through a stream (or bog!).</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22975559223/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot -Cuff inside"><img src="https://farm1.staticflickr.com/659/22975559223_96c5b221af_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Procline Carbon Boot -Cuff inside" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23520236251/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot - Cuff Pivot Point"><img src="https://farm1.staticflickr.com/573/23520236251_2211b8dfc9_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Procline Carbon Boot - Cuff Pivot Point" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p>What the liners are really great for is being used as a camp shoe. I used them to stroll around and the grippy rubber sole and light weight made them excellent for that. I also can imagine them to work very well for <a href="https://hikinginfinland.com/blog/categories/packrafting/">packrafting</a>, where you can use them as your bootie in the packraft and the complete shoe for hiking. I jumped from rock to rock over the Atlantic with them on my sea stack adventure and they gave good grip on the wet &amp; salty rocks at the Irish coast, which means for me that they should be good as a paddling booty. </p>
 
-<p>The other great innovation - well, there’s many more, but I have that jetleg and tomorrow’s another long day - is the full coverage gaiter. Made from Cordura with a PVC coating it is waterproof, a thing that both climbers and skiers will appreciate: If you climb ice in boots you don’t want ice or water coming in, and on Champagne Powder days you neither want snow in your boot, be it skinning up or shredding down. This gaiter, which is integrated with the boot shell, gives you a lot of protection and toasty feet in any conditions, be it skiing down or climbing up.</p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17182072687" title="Arc’teryx Acrux² FL GTX - 1.0 by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7786/17182072687_852f3232fb_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - 1.0" /></a></p>
 
-<p>The Hybrid Closure System is a mix of buckle and lacing - think a Boa® closure that actually stays shut. The buckle is integrated with the cable, has 15 different positions for adjustment for an individual fit, and as the cable is connected to the buckle - once the buckle is locked in, it stays put! The cable is made from steel and the buckle from aluminium, and it is pretty amazing how well you can adjust the fit on these. </p>
+<p>Fit-wise I found the liner and shell to be both spacious. The EU Size 42 shoe gave me plenty of space inside the liner bootie to move my toes around, and when laced tighly they gave me good control and feel on small ledges. The heel did feel a bit wider and could for me be more narrow, but with a sock that’s well-cushioned in the heel you will have a good feel and should be fine. Overall a good &amp; spacious fit for my normal feet with plenty of space for movement.</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23519518161/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot - Hybrid Closure System"><img src="https://farm1.staticflickr.com/707/23519518161_b99c9dfedf_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot - Hybrid Closure System" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p>I have a couple of gripes thus far with the shoe: The black shell makes the shoe very hot. Even on the mild (+11°C) spring days we have currently here in Vaasa the shoe is getting very hot, very quickly. I wore <a href="http://www.bergzeit.de/bridgedale-coolmax-liner-socke-doppelpack-black-black-36-39/?pid=81">Coolmax socks</a> which usually are good in warm weather, but in this shoe I got hot feet very quickly. I am not sure if another colour would mitigate this, or if the shell would just need more &amp; larger ventilation openings in the shell shoe so the ventilation is improved. </p>
 
-<p>There’s a lot more - a Power Strap without Velcro, buckles that keep in place when opened, a rockered tow, Dynafit certified toe and heel inserts, a crampon optimized toe shape with rubber cover and a Vibram sole - but I’ll tell you more about these on Friday. Until then check the <a href="https://www.flickr.com/photos/hendrikmorkel/albums/72157661451499809">photos in high-res on Flickr</a>, follow along on <a href="http://facebook.com/hikinginfinland">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://instagram.com/hendrikm/">Instagram</a> and read <a href="http://backcountrymagazine.com">what</a> my <a href="https://www.wildsnow.com">colleagues</a> <a href="http://www.fall-line.co.uk">have</a> to <a href="http://www.friflyt.no/Ski/ArcteryxProcline">say</a>.</p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17203302519" title="Arc’teryx Acrux² FL GTX - 2.0 by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8702/17203302519_31521ebe12_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - 2.0" /></a></p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22973797184/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm6.staticflickr.com/5717/22973797184_35af5922aa_b.jpg" width="683" height="1024" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[One Duffle to Rule them all: The Arc'teryx Carrier Duffle]]></title>
-    <link href="http://hikinginfinland.com/2015/10/one-duffle-to-rule-them-all-the-arcteryx-carrier-duffle.html"/>
-    <updated>2015-10-26T23:52:00+02:00</updated>
-    <id>http://hikinginfinland.com/2015/10/one-duffle-to-rule-them-all-the-arcteryx-carrier-duffle</id>
-    <content type="html"><![CDATA[<p>Sometimes you just can’t avoid travelling light - when you go on an expedition, a climbing &amp; mountaineering trip, or a holiday with the family. But just like you don’t want to carry a heavy backpack that weighs empty 3 kg you also don’t want a heavy duffle bag. Happily <a href="http://arcteryx.com">Arc’teryx</a> thinks like that too - and has designed the one duffle which rules them all: The Carrier Duffle Series. </p>
+<p>The second thing I do not recommend: Walk through a bog with them. Along the IAT in Ireland I crossed several swamps, and the combination of bog flora &amp; fauna + my own sweat created an unbearable smell in the shoes. It was absolutely terrible and I felt slightly afraid to go sit with them in a plane for several hours. At home I first tried the <a href="http://www.bergzeit.de/grangers-universal-spray-cleaner-275ml/">Granger’s Universal Spray Cleaner</a> but that showed no success in terms of getting rid of the smell (probably should have used the <a href="http://www.bergzeit.de/grangers-odour-eliminator-60ml/?pid=81">Granger’s Odour Eliminator</a>), so they went into the washing machine with <a href="http://www.bergzeit.de/nikwax-tech-wash-pflegemittel-002/?pid=81">Nikwax Tech Wash</a> which got rid of the smell for the most part. So I would not recommend them for walking in swamps right now, unless there’s a good way to get rid of the smell. If you’re in alpine environments where there’s no bogs this will not be of concern, but in Ireland, Scotland, Wales, England and Scandinavia you’re likely to encounter swamps in the hills, so keep this in mind (It might be of course that your sweat germs in combination with a bog’s flora &amp; fauna creates an irresistible odour and it’s just my sweat that’s wrong!).</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22303936419/in/album-72157659948633968/" title="Arc&#x27;teryx Carrier Duffle 35, 50 and 100"><img src="https://farm1.staticflickr.com/679/22303936419_3b4ae731b5_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Carrier Duffle 35, 50 and 100" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17182071337" title="Arc’teryx Acrux² FL GTX by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7728/17182071337_162901961c_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX" /></a></p>
 
-<!-- more -->
+<p>Finally, I hope Arc’teryx will release at the coming <a href="https://hikinginfinland.com/blog/categories/outdoor-fair-2014/">OutDoor</a> an membrane-free bootie liner. It really is missing for me in their bootie line-up, and I think it would make the shoe even more attractive for those of us who don’t need a Gore-Tex or Insulated bootie. Make it highly breathable with good drainage, with a material that’s odour-neutral, and it could be a winner.</p>
 
-<p>Carrying gear on mountaineering and <a href="https://hikinginfinland.com/2015/08/love-the-dolomites-tour.html">climbing trips</a>, heading out for a <a href="https://hikinginfinland.com/2015/04/winter-family-adventures-in-pyha-luosto.html">winter trip with the family</a> or travelling with the kids to visit my relatives in the Netherlands &amp; Germany means I need to carry a much bigger load then if I’d hit the trail alone backpacking. After having a close look over the options - from really heavy &amp; durable suitcases to heavy duffles - I quickly ended up deciding that I should get an <a href="http://arcteryx.com/ProductFind.aspx?language=EN&amp;category=Packs&amp;subcat=Duffle_Bags">Arc’teryx Carrier Duffle</a>. It ticked all the boxes which are important for me:</p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17387539812" title="Arc’teryx Acrux² FL GTX - Shell Inside by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7721/17387539812_572df856b7_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Shell Inside" /></a></p>
 
-<ul>
-  <li>It is Ultralight</li>
-  <li>Waterproof</li>
-  <li>Comfortable to carry</li>
-  <li>Easy to pack</li>
-  <li>Durable</li>
-</ul>
+<h2 id="competing-products">Competing Products</h2>
 
-<p>The Carrier Duffle 100 l duffle weighs just 689 g empty, with the 50 l duffle being 538 g and the small 36 l duffle being 383 g. If you compare this with <a href="http://www.bergfreunde.co.uk/travel-bags/">other duffles</a> on the market you realize that these are quickly one kilogram or more empty. While in comparison with a suitcase or one of these <a href="http://bit.ly/1KAlU0a">wheeled luggage carriers</a> that’s still “light” I always found that still too heavy and was using a large waterproof stuff sack to transport big amounts of gear. That was until I found the Arc’teryx Carrier Duffle.</p>
+<p>I am not aware right now if there’s similar shoes that are made of a liner + shell, but I have no doubts that there could be. For ultralight backpackers and weight-conscious alpinists a combination of a unlined approach shoe + a <a href="http://bit.ly/1F5m1op">Gore-Tex sock</a> or <a href="http://bit.ly/1F5lXVO">Neoprene Sock</a> could also create this combination of a quick-drying shoe and a waterproof liner that you can dry easily over night. </p>
 
-<p>Besides being ultralight it is also waterproof. If you’re out with a pulka in winter, canoeing with kids or camping in the Alps, wetness is always a possibility so a waterproof duffle is mandatory for me. The Arc’teryx Carrier Duffle has taped seams and is made from  N400r-AC2 nylon 6 ripstop fabric, which I have found to be highly waterproof on my excursions. The material is also really durable and can take the hardest abuse on the planet: Airport luggage handlers. These guys don’t seem to know how to treat gear gently, and I have often enough seen my gear tossed &amp; thrown on the conveyor belt - or next to it. My 50 l duffle has been across Europe with me in the last two years and besides a bit of dust - it still is like new.</p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17387540382" title="Arc’teryx Acrux² FL GTX - Made for approaches by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7786/17387540382_19e7fb9a24_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Made for approaches" /></a></p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22464747756/in/dateposted/" title="Arc&#x27;teryx Carrier Duffle 50 with the straps packed away cleanly"><img src="https://farm1.staticflickr.com/672/22464747756_a456cb2ca6_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Carrier Duffle 50 with the straps packed away cleanly" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/21868029174/in/dateposted/" title="Arc&#x27;teryx Carrier Duffle 50 with the straps packed away cleanly"><img src="https://farm1.staticflickr.com/658/21868029174_8e74863e7d_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Carrier Duffle 50 with the straps packed away cleanly" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22302813810/in/dateposted/" title="Taped seams of the Arc&#x27;teryx Carrier Duffle 100"><img src="https://farm6.staticflickr.com/5732/22302813810_ca89507e08_b.jpg" width="1024" height="768" alt="Taped seams of the Arc&#x27;teryx Carrier Duffle 100" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<h2 id="bottomline">Bottomline</h2>
 
-<p>The inside of the duffle is white which makes it easier to find stuff, and the large zipper makes it easy to pack. The cords of the zippers can be treaded together or can take a lock if you want to make sure that nobody gets inside without permission. What is also important with a duffle for me is the ease of carrying. The Arc’teryx Carrier Duffle can be worn like a backpack which is great for walking from terminal to terminal at the airport or hauling gear to camp or the canoe. It also can be worn over the shoulder which is OK with the smaller models, though I find pulling the straps tight, rolling the ends to get them out of the way and carrying it at one of the four haul loops more comfortable than over a shoulder. These haul loops also are great to attach the duffle to e.g. a donkey or canoe.</p>
+<p>The Acrux² FL GTX is a shoe that brings fresh wind into the approach shoe market. A comfortable, removable liner paired with a hydrophobic, stylish shell and a grippy Vibram MegaGrip sole make this a great shoe for approaches, Via Ferratas and scrambles. The price of 250€ puts it at the high-end, but then you get essentially two shoes for the price of one. Add in the versatilty the Acrux² offers with the interchangable, removable liners and you have a great shoe for your mountain adventures, and you can get rid of a stinky liner bootie if you have hiked through a bog! Finally, as this is the first Generation of Arc’teryx footwear we can be curious to see what they will come up with the next Generations!</p>
 
-<p>I own three of the four available Carrier Duffles: The small <a href="http://arcteryx.com/product.aspx?language=EN&amp;category=Packs&amp;subcat=Duffle_Bags&amp;model=Carrier-Duffle-35">35 Carrier Duffle</a> which was a gift for all participants of the <a href="https://hikinginfinland.com/2015/06/arcteryx-alpine-academy-chamonix-2015.html">2015 Arc’teryx Alpine Academy</a>, a black <a href="http://arcteryx.com/product.aspx?language=EN&amp;category=Packs&amp;subcat=Duffle_Bags&amp;model=Carrier-Duffle-50">Carrier Duffle 50</a> which has been along on many, many trips during the last two years and the massive <a href="http://arcteryx.com/product.aspx?language=EN&amp;category=Packs&amp;subcat=Duffle_Bags&amp;model=Carrier-Duffle-100">Carrier Duffle 100</a> which carried all my climbing and backpacking gear on my two week hiking and climbing trip to the Dolomites this year. I also use them at home to store gear in an orderly fashion, that’s easily moved when cleaning the house - true multi-use! If you only want one, here’s how I’d pick the right size:</p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/sets/72157651938930537">More photos on Flickr</a>.</p>
 
-<ul>
-  <li>Solo traveller: 35 l Carrier Duffle - Big enough to carry extra gear besides what’s in your Carry-On</li>
-  <li>Couple travellers: 50 l Carrier Duffle - Carries climbing ropes and a rack as well as some garments and equipment</li>
-  <li>Family of three or four: 75 l Carrier Duffle - Plenty of space for toddler toys, clothes and everything you need with kids on the road</li>
-  <li>Family and expedition traveller: 100 l Carrier Duffle - A Tardis = Just bring it all</li>
-</ul>
+<h2 id="where-to-buy-the-acrux-fl-gtx">Where to buy the Acrux² FL GTX</h2>
 
-<p>What could be better? Well, for starters I would wish the carrying straps would be treaded just the other way around, so that the long, lose end can be easily stowed underneath the cushioned carrying strap and don’t hang around. I also think the duffle would be even easier to pack if it had a U-Zipper, though this likely would increase the weight a bit - but would making finding something and packing the pack in an orderly fashion easier. </p>
+<p>You can get them directly from <a href="">Arc’teryx</a> or at <a href="http://www.bergfreunde.de/arcteryx-acrux-2-fl-approachschuhe/">Bergfreunde</a>, <a href="http://www.bergzeit.de/arcteryx-alpha2-fl-gtx-schuhe-black-big-surf-uk6-5/?pid=81">Bergzeit</a>, <a href="http://bit.ly/1F5uZCc">Backcountry.com</a>, <a href="http://bit.ly/1GOzXhD">CampSaver.com</a> and <a href="http://bit.ly/1GYO9XR">REI</a>.</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22303071268/in/photostream/" title="Arc&#x27;teryx Carrier Duffle 50 worn (side)"><img src="https://farm1.staticflickr.com/681/22303071268_250181524f_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Carrier Duffle 50 worn (side)" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/21869565143/in/dateposted/" title="Arc&#x27;teryx Carrier Duffle 50 worn as a Shoulder bag"><img src="https://farm6.staticflickr.com/5683/21869565143_88cd1287cf_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Carrier Duffle 50 worn as a Shoulder bag" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22302800810/in/dateposted/" title="Arc&#x27;teryx Carrier Duffle 50 carried"><img src="https://farm6.staticflickr.com/5747/22302800810_68d53aefa9_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Carrier Duffle 50 carried" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p><strong>The Bottomline</strong>: The Arc’teryx Carrier Duffle is a simple and useful piece of kit if you need to transport large amounts of equipment. It is waterproof, ultralight &amp; swallows large amounts of gear and ensures the content arrives safely &amp; dry at your destination. You can wear it like a backpack, over the shoulder or on one of the haul loops, it looks very minimalistic &amp; stylish and is an excellent choice to transport gear on expeditions, family travel holidays and climbing trips. Available in four sizes and plenty of cool colours there’s a Carrier Duffle for any need, so get one if you are not always travelling ultralight!</p>
-
-<p>Buy a Carrier Duffle 50 at <a href="http://www.bergfreunde.de/arcteryx-carrier-duffle-50-umhaengetasche/?pid=10239">Bergfreunde</a>, <a href="http://bit.ly/1GD8HbU">Backcountry</a>, <a href="http://www.bergzeit.de/arcteryx-carrier-duffel-50-cayenne-50-liter/">Bergzeit</a>, <a href="http://bit.ly/1renam3">CampSaver</a> and <a href="http://bit.ly/1PPE8BV">REI</a> - <strong>All On Sale!</strong> </p>
-
-<p>Buy a Carrier Duffle 100 at <a href="http://bit.ly/1R8JHKg">Backcountry</a>, <a href="http://www.bergfreunde.de/arcteryx-carrier-duffle-100-umhaengetasche/?pid=10239">Bergfreunde</a> (<strong>On Sale for 75€!</strong>), <a href="http://bit.ly/1PPDSmq">CampSaver</a> or <a href="http://bit.ly/1R8K4V6">REI</a>.</p>
-
-<p><em><a href="https://www.flickr.com/photos/hendrikmorkel/albums/72157659948633968">More photos on Flickr</a></em>.  </p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22477361062/in/photostream/" title="The Arc&#x27;teryx Carrier Duffle 100 is a Monster that swallows massive loads"><img src="https://farm1.staticflickr.com/594/22477361062_c547de058a_b.jpg" width="1024" height="768" alt="The Arc&#x27;teryx Carrier Duffle 100 is a Monster that swallows massive loads" /></a><script async="" src="http://hikinginfinland.com//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p><em>Disclaimer: The Arc’teryx Carrier Duffle 100 was provided to me by Arc’teryx for free, but I was under no obligation to review it. This article represents my objective view.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mountain People: Greg Grenzke, Apparel Designer at Arc'teryx]]></title>
-    <link href="http://hikinginfinland.com/2015/03/mountain-people-greg-grenzke-apparel-designer.html"/>
-    <updated>2015-03-25T18:49:00+02:00</updated>
-    <id>http://hikinginfinland.com/2015/03/mountain-people-greg-grenzke-apparel-designer</id>
-    <content type="html"><![CDATA[<p><em>“There is no bad weather, only bad clothes.”</em> </p>
-
-<p>That’s a popular saying here in the North, and it is easy to imagine that this saying drives <a href="http://arcteryx.com/">Arc’teryx</a> Designer Greg Grenzke and his team forward to design the best possible apparel for their <a href="http://arcteryx.com/ProductFind.aspx?language=EN&amp;Collection=Ascent">Ascent Line</a>. What goes into designing garments that are lightweight, functional and durable enough to survive in the mountains but are timeless in appearance you can read in this <em>Mountain People interview</em>.</p>
-
-<p><a href="http://hikinginfinland.com" title="Greg Grenzke, Craftsmanship"><img src="https://farm8.staticflickr.com/7634/16923034802_92c6824283_b.jpg" width="1024" height="683" alt="Greg_Craftsmanship_AM0W9770" /></a></p>
-
-<!-- more -->
-
-<p><strong>Hi Greg, thank you for taking the time for answering my questions.  Could you please introduce yourself briefly so we have an idea  what’s  your background?</strong></p>
-
-<p>I studied industrial design at the University of Cincinnati as part of the DAAP (Design, Architecture, Art, and Planning program). Part of this program is cooperative education where they require the students to rotate between school and internships every 3 months year round for the last 4 years of the 5 year program. I did various internships throughout school such as with companies like Salomon Sports, Specialized Bicycles, and design firms. Anytime I had the opportunity to select the type of product I could work on it was always outdoor/ sports related, pretty much to the point my classmates would make fun of me because that was always my focus. This really helped me get my foot into the sports industry as I started building a portfolio of concepts/ products that I was really passionate about. I was offered a job before I graduated University from Specialized Bicycles. I worked there for 8 years designing all sorts of products such as footwear, bikes, bike graphics, helmets, saddles, gloves, really a huge variety of different products utilizing both hard goods and soft goods. The design approach was very hands on at Specialized which is also how things work at <a href="http://arcteryx.com">Arc’teryx</a>. I have been at Arc’teryx now for over 3,5 years where I am the Designer/ Design Manager of the Ascent Apparel category. It’s been a fun challenge resolving soft good problems with more of an industrial design approach and methodology.</p>
-
-<p>I have been active outdoors for as long as I can remember growing up in Michigan. Once I could drive (age 16 back then) that was really my door to freedom. I would borrow my mom’s car and go on road trips with friends to bike, hike, climb, ski, any opportunity I could typically heading west to the mountains.  </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16898393366" title="Greg bootpackin' by Hendrik Morkel, on Flickr'"><img src="https://farm9.staticflickr.com/8694/16898393366_a4e282d544_b.jpg" width="768" height="1024" alt="gg bootpackin" /></a>
-©Rich Kupskay</p>
-
-<p><strong>As a Category Manager for the Ascent line I imagine you’re a mountaineer and climber yourself. What are some of your favourite  routes and places?</strong></p>
-
-<p>I still feel like I’m on vacation living in Coastal Mountain Range in North Vancouver as it’s somewhere I would come for vacation if I didn’t live here. You know you live in a pretty incredible place when you are traveling to other naturally beautiful countries and you still just want to get back home.</p>
-
-<p>Some of my favorite places are very local like the Tantalus Mountain Range for alpine climbing which is about a 45 minute drive near Squamish BC, Canmore Alberta where I just went for my first time ice climbing with some of our athletes, and <a href="http://hikinginfinland.com/2015/03/learn-mountaineering-at-the-2015-arcteryx-alpine-academy.html">Chamonix</a> where there are endless options! One of my other passions is ski touring/ mountaineering where again BC continues to stun me with its vast space and mountains where you often don’t encounter another soul sometimes for days at end.  </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16301931724" title="Greg and Tanja Schmitt, photo credit Matthias Scherer"><img src="https://farm8.staticflickr.com/7627/16301931724_253140ddc9_b.jpg" width="1024" height="768" alt="Greg and Tanja Schmitt, photo credit Matthias Scherer_Austria" /></a></p>
-
-<p><strong>We met at the <a href="http://hikinginfinland.com/2014/07/arcteryx-alpine-academy-2014.html">Arc’teryx Alpine Academy 2014</a> at the “Insulation  types  for alpine environments” Seminar, where you introduced us with your  colleague Jon to the synthetic &amp; down insulation garments from  Arc’teryx. Some of these garments just came out - but can you give  us  a brief glimpse at what we could expect in the next season from  Arc’teryx?</strong></p>
-
-<p>Well, let’s just say you can expect to see more insulation from us building upon our current offerings. There is a lot happening in the insulation world with new technologies and manufacturing processes. We are pretty conservative until we can prove the technology is substantially better than what we currently use and that it can stand the test of time. However, we are always experimenting with new ideas and technologies.  </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/14784519783" title="Heatgun by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3847/14784519783_f6aee8fa98_b.jpg" width="1024" height="768" alt="Heatgun" /></a></p>
-
-<p><strong>The Arc’teryx down insulation line has been available since 2013,  has it been more popular than your synthetics line?</strong></p>
-
-<p>I’m not a sales guy so I’m definitely not the one to ask about sales numbers. However, the down line was a huge success after the 2013 launch and it is really growing extremely fast.  </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16304283443" title="Design Room"><img src="https://farm9.staticflickr.com/8702/16304283443_9a7406a0f8_b.jpg" width="864" height="576" alt="S15 Craftsmanship_DesignRoom_Dec13-45" /></a></p>
-
-<p><strong>What’s your own favourite layering setup when you head out into  the  mountains for a day of mountaineering or climbing?</strong></p>
-
-<p>This really depends on where I am, weather conditions, how long I plan on being out, etc. But if I were to take a versatile system that works in many different situations I prefer to use something like a <a href="http://arcteryx.com/product.aspx?language=EN&amp;gender=mens&amp;model=Solo-Hoody">Solo Hoody</a> using our very hydrophobic Thermatek insulation as a belay/insulation layer, an <a href="http://arcteryx.com/product.aspx?language=EN&amp;gender=mens&amp;model=Alpha-FL-Jacket">Alpha FL shell</a> as it is very light weight, durable, and very breathable utilizing Gore-Tex Pro, a mid layer with high air permeability that provides light insulation but can dump heat/ moisture when you are pushing hard, and a slight synthetic base layer.   </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16923318411" title="Greg in Canmore"><img src="https://farm9.staticflickr.com/8740/16923318411_1906e7e4ef_b.jpg" width="1024" height="768" alt="greg_canmore" /></a>
-©Jon Rockefeller</p>
-
-<p><strong>How long do you on average work on designing a garment? Is it a  couple of weeks from idea to prototype to fabrication sample, or  can  many months or even years go by?</strong></p>
-
-<p>This also depends on if the product is a new style or a redesign of an existing style. Sometimes all the answers are in your head and the design time could be very quick. Other times, yes it can take months or even years to validate a design and it may not even make it to the market.  </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16923316131" title="Craftsmanship in the Arc'teryx Design Room"><img src="https://farm9.staticflickr.com/8754/16923316131_2288edaba7_b.jpg" width="864" height="576" alt="S15 Craftsmanship_DesignRoom_Dec13-90" /></a></p>
-
-<p><strong>Can you walk us through the different steps that go into making e.g. a Alpine climbing jacket like the Alpha FL?</strong></p>
-
-<p>The first step is always defining the users need for a product. The Alpha FL is for travelling light &amp; fast while trying not to sacrifice durability. We had a really good starting point with the previous Alpha FL but we knew we could improve the product by minimizing seams, seam tape width, unnecessary glue/ fabric, and using a more durable face fabric with the Gore-Tex Pro membrane. We had various prototypes we tested in the field as well as in a lab for breathability testing. We ended up with a much more durable product at almost the same weight, about 69% less surface area from seam tape, more breathable, and more ergonomic feature set.  </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16301928864" title="Design tools"><img src="https://farm9.staticflickr.com/8743/16301928864_22360c83f6_b.jpg" width="864" height="576" alt="S15 Craftsmanship_DesignRoom_Dec13-63" /></a></p>
-
-<p><strong>Are you &amp; your colleagues inspired by ideas from other companies  that make alpine climbing lines, or do you try to work in a vacuum  and  insulate yourself from what the others are doing?</strong></p>
-
-<p>Ha, well North Vancouver can be a bit of a vacuum. We have a pretty unique work atmosphere and designers often challenge each other to make better products. Just walking around seeing what others are working on can be very inspiring and that’s where a lot of ideas stem from. We like to look forward and think about what could be done and not what has been done.</p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/16304283403" title="2014-Northwoods-HO by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8752/16304283403_723db53bf1_b.jpg" width="1024" height="683" alt="2014-Northwoods-HO" /></a></p>
-
-<p>  <strong>What role do your athletes have in the design process? Are they  involved from the start or does their feedback first come in when  they  are using what you have designed?</strong></p>
-
-<p>We have some pretty amazing athletes in that they are so down to earth and easy to work with. They are some of the best testers we have as they literally live in the product. If their needs aren’t being met they will let us know and we will work with them to fill that need. Sometimes they will have ideas and we will make some prototypes for them to test. We do typically try to involve them early in the design process. We spend as much time with our athletes as we can, especially in the field as it’s a good excuse to get out of the office. Many of them are more like friends, as we share the same passions.    </p>
-
-<p><a href="https://www.flickr.com/photos/hendrikmorkel/14731353344" title="Self-arrest by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2896/14731353344_f604fca9f0_b.jpg" width="1024" height="576" alt="Self-arrest" /></a></p>
-
-<p><strong>What are the three most important attributes when you’re setting  out  designing a garment?</strong></p>
-
-<p>Designing for longevity is typically one of the most important attributes that is always on our mind. This is really in the dna of the brand and it’s always rewarding to hear the stories of how someone’s jacket has lasted them over a decade, you can just see their face light up when they are telling you about it. </p>
-
-<p>Another element of designing for longevity is building in timelessness. The brand has a very strong design language and we continue to build off this strong foundation. Although the materials and constructions continue to improve we want a product we design today to still look modern in 5 or 10 years. If you look at the lineage of something like the Beta AR or SV jacket, you can look at one from ten years ago and see the commonality. When we build in this timelessness we are also building in value.  </p>
-
-<p><strong>Arc’teryx is well known for not resting on its laurels and  pushing  the boundaries. You’ve developed better water-resistant zippers,  were  one of the first companies to laminate seams, minimizing cuts so  that  seams are at an absolute minimum and many other innovations. Can we  expect another such innovation breakthrough from Arc’teryx in the  next  years?</strong></p>
-
-<p>Arc’teryx always strives to push the boundaries and challenge conventional thinking. We still have some of the genius minds that helped create what the brand is today, as well as many new additions. We are definitely working on various future concepts but first we need to validate that they are feasible.</p>
-
-<p><strong>Greg, thank you for taking the time for answering my questions!</strong></p>
-
-<p><em>Liked this? Then please share this post with your friends on <a href="http://facebook.com/hikinginfinland">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://plus.google.com/u/1/b/105082905705272949032/105082905705272949032/posts">Google+</a>!</em></p>
-
-<p><a href="http://arcteryx.com/" title="Screen Shot 2015-03-25 at 14.00.13 by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8711/16738448720_5cfc100c7d_b.jpg" width="1024" height="598" alt="Screen Shot 2015-03-25 at 14.00.13" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lightweight Hiking Pants]]></title>
-    <link href="http://hikinginfinland.com/2013/05/lightweight-hiking-pants.html"/>
-    <updated>2013-05-28T18:35:00+03:00</updated>
-    <id>http://hikinginfinland.com/2013/05/lightweight-hiking-pants</id>
-    <content type="html"><![CDATA[<p>Together with a <a href="http://hikinginfinland.com/2013/05/lightweight-hiking-shirts.html">lightweight shirt</a> you’ll need something lightweight to cover your legs - unless you like sunburn, nettle and mosquito stings, and dust - lots of dust because you are so fast &amp; light!</p>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/6966862963/" title="Seven-legged hiking pants by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7176/6966862963_aa9a9fffb2_b.jpg" width="1024" height="680" alt="Seven-legged hiking pants" /></a></p>
-
-<!-- more -->
-
-<p>Pants =/= Pants. I didn’t think so in the beginning, but have realized through much experience since that lighter pants are a lot more comfortable than <em>“heavy”</em> pants. I don’t have objective proof that they make you hike faster and better, but a well fitting, light pants just makes the hiking in my experience more comfortable. All pants underneath I have picked with durability, windproofness, comfort and quick-drying in mind and they’ve seen years of use, so if you’re looking for a new pair of pants - check these out! <a href="http://www.flickr.com/photos/hendrikmorkel/sets/72157629182054730/">More photos of all pants on Flickr</a>.</p>
-
-<h2 id="arcteryx-palisade">Arc’teryx Palisade</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Size: 32</td>
-      <td> Weight: 307 g</td>
-      <td> Material: 94% TerraTex—nylon, 6% Spandex</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>My go-to pants since they arrived three years ago. Have they held up well in those years? Absolutely. The only damage to them is a tiny burn hole in the leg as I was sitting too close to the fire and a spark burned through it, but other than that they’re still in tip-top shape. And I haven’t been kind to them: Backpacking, bouldering, climbing, bikepacking, hiking, and because they’re so comfortable I’ve also worn them during “normal” activities whenever I could get away with it. All pockets are zipped which is superb, because that way your phone, wallet, keys and whatnot stays inside and doesn’t fall out of your pocket while you hike, run, climb or sit. They are absolutely windproof, dry very quickly, are a slim fit and very minimalistic in their appearance so fit well under a pair of rain pants. </p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Get a pair at <a href="http://www.bergzeit.de/arcteryx-palisade-pant-graphite.html">Bergzeit</a></td>
-      <td> <a href="http://bit.ly/10Fk74J">Backcountry.com</a></td>
-      <td> <a href="http://bit.ly/13XfHu6">CampSaver.com</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/8870574360/" title="Arc'teryx Palisade pants by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7291/8870574360_d19a99c37e_b.jpg" width="1024" height="680" alt="Arc'teryx Palisade pants" /></a></p>
-
-<h2 id="backpacking-light-thorofare-pants">Backpacking Light Thorofare Pants</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Size: M</td>
-      <td> Weight: 113 g</td>
-      <td> Material: 100% Nylon (I guess)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>The Thorofare pants get’s a honourable mention - not because it’s the lightest pants I own, but because it ain’t available anymore (unless you happen to pick one up on Gear Swap). Windproof, light like a feather, quick drying, two pockets and two cargo pockets, and an elastic “belt” to keep the pants up (don’t overload those pockets thus). In hot environments where there’s no wind going they might be a tad hot, but other than that they’re excellent. If you can get your hands on one, get a pair for those SUL trips where the lightest pants is what you want.</p>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/8870106505/" title="BPL Thorofare pants by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5453/8870106505_333a97a2a7_b.jpg" width="1024" height="680" alt="BPL Thorofare pants" /></a></p>
-
-<h2 id="rab-traverse-pants">Rab Traverse Pants</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Size: 32</td>
-      <td> Weight: 295 g</td>
-      <td> Material: 93% Polyamide, 7% Spandex</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>The second-most worn pants, the <a href="http://rab.uk.com/">Rab</a> Traverse pants also sports zipped pockets, which in my book is always good as it is just a bit safer. It has a push-button closure, which is very comfortable and is bomb-proof. UPF 35 gives plenty of UV protection for your legs, and if you only carry one pant and want to wash it on the trail - the Traverse pants will be dry again in no time. A very comfortable fit that’s also excellent for acrobatic climbing moves, this is a pants that is great in the backcountry as well as in town. </p>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/8870099019/" title="Rab Traverse Pants by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2880/8870099019_9bc4a6648d_b.jpg" width="1024" height="680" alt="Rab Traverse Pants" /></a></p>
-
-<h2 id="patagonia-zip-off-pants">Patagonia Zip-Off Pants</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Size: 32</td>
-      <td> Weight: 326 g</td>
-      <td> Material: 96% Polyamide, 4% Spandex</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><em>A Zip-off pants?</em> Yes! <em>Why?</em> Because in very hot &amp; humid environments I like shorts. So instead of trapping my athletic calves in polyamide, I let them taste the sun and wind. It’s getting too windy? Just zip them back on. Patagonia was extremely smart when making the zippers for this pants: They’re two different colours, so no more mixing up left &amp; right legs. Also this pant is durable, windproof and dries very fast, and if you walk a lot in environments where the weather lets you wear shorts during the day while in the evenings a long pair of pants is preferable, check these out.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><a href="http://www.bergzeit.de/patagonia-nomader-zip-off-hose-stone.html">Bergzeit</a></td>
-      <td> <a href="http://bit.ly/18x7PAt">Backcountry.com</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/8870750934/" title="Patagonia Pants by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3783/8870750934_9dcbf1d205_b.jpg" width="1024" height="680" alt="Patagonia Pants" /></a></p>
-
-<h2 id="fjllrven-greenland-trousers">Fjällräven Greenland Trousers</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Size: 44</td>
-      <td> Weight: 537 g</td>
-      <td> Material: G-1000 aka 65% polyester, 35% cotton</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><em>Fjällräven pants?</em> Yes, because I still own a pair. The defacto standard trouser for the outdoors man &amp; women population in Scandinavia, it feels like it’s the pants you gotta wear when you go to the Fjell. I thought so too when I was a young grasshopper, but not anymore. If you waxed them before you head out they’re OK waterproof-ish, though they will soak through in a deluge just as much as the other pants above. And then they need more time to dry. They got seven pockets, which would mean an SUL backpacker could just carry his gear in this pants. I also needed a belt with these pants, as the sizing of them is even in the smallest size too big for me.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><a href="http://www.bergfreunde.de/s/fj%C3%A4llr%C3%A4ven/">Bergfreunde</a></td>
-      <td> <a href="http://www.bergzeit.de/fjaellraeven-trekkinghose/">Bergzeit</a></td>
-      <td> <a href="http://bit.ly/13Xglb4">Backcountry.com</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/8870061787/" title="Fjällräven Greenland trousers by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8546/8870061787_7a2846ab8b_b.jpg" width="1024" height="680" alt="Fjällräven Greenland trousers" /></a></p>
-
-<p>There are a lot more pants - but I haven’t worn them and hence can’t judge them. The most worn ones for me are the Arc’teryx and Rab pants, as I like their zippered pockets, I know that they’re super-durable and allow enough movement for climbing and bouldering, they’re windproof and dry quickly if they get wet. Oh, and they look both also rather good! <strong>What are your favourite lightweight pants?</strong></p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17182073947" title="Arc’teryx Acrux² FL GTX - Side by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7713/17182073947_cbcd710c7c_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Side" /></a></p>
 ]]></content>
   </entry>
   
