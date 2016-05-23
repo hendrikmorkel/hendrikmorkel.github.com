@@ -3803,10 +3803,6 @@
         <lastmod>2016-05-02T10:35:19+03:00</lastmod>
     </url>
     <url>
-        <loc>http://hikinginfinland.com/2016/05/a-leg-for-laufbursche.html</loc>
-        <lastmod>2016-05-03T18:49:12+03:00</lastmod>
-    </url>
-    <url>
         <loc>http://hikinginfinland.com/2016/05/laufen-essen-schlafen.html</loc>
         <lastmod>2016-05-06T11:37:44+03:00</lastmod>
     </url>
@@ -3815,16 +3811,24 @@
         <lastmod>2016-05-19T10:40:55+03:00</lastmod>
     </url>
     <url>
+        <loc>http://hikinginfinland.com/2016/05/a-leg-for-laufbursche.html</loc>
+        <lastmod>2016-05-23T09:45:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hikinginfinland.com/2016/05/twir-236.html</loc>
+        <lastmod>2016-05-23T14:01:44+03:00</lastmod>
+    </url>
+    <url>
         <loc>http://hikinginfinland.com/about/</loc>
         <lastmod>2016-04-18T11:45:28+03:00</lastmod>
     </url>
     <url>
         <loc>http://hikinginfinland.com/blog/archives/</loc>
-        <lastmod>2016-05-19T10:40:55+03:00</lastmod>
+        <lastmod>2016-05-23T14:01:44+03:00</lastmod>
     </url>
     <url>
         <loc>http://hikinginfinland.com/blog/</loc>
-        <lastmod>2016-05-19T10:40:55+03:00</lastmod>
+        <lastmod>2016-05-23T14:01:44+03:00</lastmod>
     </url>
     <url>
         <loc>http://hikinginfinland.com/destinations/</loc>
@@ -3840,7 +3844,7 @@
     </url>
     <url>
         <loc>http://hikinginfinland.com/</loc>
-        <lastmod>2016-05-19T10:40:55+03:00</lastmod>
+        <lastmod>2016-05-23T14:01:44+03:00</lastmod>
     </url>
     <url>
         <loc>http://hikinginfinland.com/interviews/</loc>
