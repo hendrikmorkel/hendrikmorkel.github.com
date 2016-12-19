@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Ocún Paddy Dominator Crashpad"
+date: 2013-07-04 15:38
+comments: true
+categories: [bouldering, Ocún Paddy Dominator, crashpads]
+published: true
+---
+
+**Do you want to fall soft, or do you want to fall hard,** that is the question. Bouldering is a great sport to practice on your own - to improve your climbing skills, to get fit and to be outdoors. If you go on your own, though, you should consider taking a crashpad with you - because falling from four or more meters high could be rather painful if you land on the ground. The Ocún Paddy Dominator Crashpad ticked all boxes for my needs, and I have been very happy using it over the past months.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192511664/" title="Ocun Paddy Dominator In use by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7416/9192511664_91b659e0d0_b.jpg" width="1024" height="768" alt="Ocun Paddy Dominator In use"></a>
+
+<!-- more -->
+
+*"You look like Sponge Bob Square Pants with that pad on your back!"* my wife said as I came home one evening from bouldering. Well, she is right in some ways - Sponge Bob and the Ocún Paddy Dominator Crashpad both are yellow, and if the only thing you see beneath a yellow, moving rectangle are a pair of legs and feet, then yes, that connection could certainly be made. The Paddy Dominator is also soft like Sponge Bob - another similarity! But unlike the aquatic invertebrate with a porous body who lives in the ocean, the Ocún Paddy Dominator is a closed cell foam-filled crashpad, living at the foot of the boulder problem you're tackling, catching your fall when that crimpy hold was two much for your three weak fingers.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192458202/" title="Ocun Paddy Dominator Sponge Bob Square Pants by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7302/9192458202_79d4217d4e_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Sponge Bob Square Pants"></a>
+
+[Ocún](http://www.unterwegs.biz/ocun.html), in case you're wondering, is Czech and translated means [Colchicum](http://en.wikipedia.org/wiki/Colchicum), more commonly known as *autumn crocus*. Ocún manufacturers its products - besides crashpads they make harnesses, quickdraws, slings and more - in the Czech Republic, right in the heart of Europe, and the quality is top-notch. The [Paddy Dominator](http://www.unterwegs.biz/paddy-dominator-496254.html) is one of six crashpads the company makes, and is their fattest pad available - perfect for Highball problems (a highball is a problem on a high boulder, where falling becomes more dangerous). 
+
+The Paddy Dominator is 14 cm thick, and can be configured in two ways: One square-ish which measures 100 x 132, or one more like a rectangle with a 200 x 66 measurement. The latter, btw, also is an excellent size for a mattress - indeed it does work superb as a mattress if you like to sleep on a rather hard surface. For bouldering as protection I use the square-ish, or wide configuration, 95% of the time, as it gives me a better landing zone in most cases. It usually also fits that way better in front of the rock, and is in my experience more stable. That the pad doesn't fold together by accident you can use to Velcro straps at the bottom to fixate the pad - nifty. 
+
+Adjusting the pad from wide to narrow is very simple via a zipper. The two-way zipper lets you in seconds switch the configuration. So far the zipper has held up very well, and my son has been playing with it on a daily basis. It is one of the weak spots, though, so it will be interesting to see how it holds up during the years to come.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192458040/" title="Ocun Paddy Dominator Wide by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7376/9192458040_c4e07da555_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Wide"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9189662793/" title="Ocun Paddy Dominator Narrow by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7342/9189662793_58617b0a1a_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Narrow"></a>
+
+The Paddy Dominator is unique in a way, in that way, this way, that it has three layers of foam inside. I didn't even need to take my puukko and cut it open to find that out, but could do so via the zipper, which gives us an insight into the inner workings of this crashpad. So three layers. White, salmon, grey. 10 mm, 110 mm, 20 mm. The surprise? The salmon layer is porous (maybe even more in common with Sponge Bob?), filled with holes, which in turn are partly filled with more grey polyethylene tubes for added support. This gives the pad in every spot superb suspension, also on the sides, as it spreads the impact force evenly on the whole crashpad. That should give it a long life, I imagine (and hope). It does make falls soft, too - even if I only fell on it from moderate heights.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192458768/" title="Ocun Paddy Dominator Foam by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2805/9192458768_050e3f579e_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Foam"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192458980/" title="Ocun Paddy Dominator Foam by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7415/9192458980_7501c6bf87_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Foam"></a>
+
+Besides falling and sleeping on it, you will also carry the crashpad. Depending on the length of the approach, that might be longer or shorter. The Paddy Dominator has padded shoulder straps, which are comfortable. They can be removed, too, in case you prefer to use the two handles. I use the shoulder straps for the approaches, and the handles when moving from boulder to boulder in a sector if it are short walks. The pad weighs something between 5 and 6 kg - the weight of an ultralight backpack with kit - and hence is easy and comfy to carry, even on longer walks. What needs more getting used to is the massive size - it has a pack size of 66 x 100 x 28 so you will look like Sponge Bob Square Pants walking around with it. Going through doors can be a challenge, too.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9189658987/" title="Ocun Paddy Dominator Shoulder straps by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7444/9189658987_31fb0a9cb1_b.jpg" width="680" height="1024" alt="Ocun Paddy Dominator Shoulder straps"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9189656735/" title="Ocun Paddy Dominator Handles by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5483/9189656735_840de27a5c_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Handles"></a>
+
+That are the inner workings. Keeping it together is a layer of yellow Cordura Ballistic on top and a rubber-like material on the bottom. The Cordura is super durable, and even after dozens of times of jumping on it, falling on it, standing on it, does not show any abrasion. Dirt is seen easily on the yellow, obviously, but so far I could brush everything easily off and there are no stains. The rubber-like back seems waterproof, as water just perls off. It can get a bit sweaty in summer, though. Aluminium buckles keep everything in place and closed, and let you adjust the shoulder straps size. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192458722/" title="Ocun Paddy Dominator Buckle by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5486/9192458722_99d9979c7a_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Buckle"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192454534/" title="Ocun Paddy Dominator backside by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3771/9192454534_9c64a0c26b_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator backside"></a>
+
+Also included is a felt "door mat" on which you can clean your climbing shoes in case they get wet or dirty - which can happen in the outdoors. It stores away in a flat pocket on the crashpad, and is out and back in in seconds. Very useful for late winter days and just after a rain shower to get the shoes clean to tackle a problem, or standing around and waiting for your turn on a rock.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9189661091/" title="Ocun Paddy Dominator Mat by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3790/9189661091_f2211f629b_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Mat"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9189716107/" title="Ocun Paddy Dominator Mat by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5329/9189716107_b350c8fe1d_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator Mat"></a>
+
+**Bottomline:** I have used the Ocún Paddy Dominator crashpad for the last three months, a couple of evenings each week in my neighbourhood where I have been establishing new boulder problems (or rediscovering old ones, depending on whom you ask =). It was a pleasure to have the pad along, knowing that in case of a fall I'd land soft and not break my foot or worse. It's light to carry, easy to deploy and thanks to the yellow easy to aim for when you fall! Superb cushioning, great quality, Made in Europe - if you look for a bouldering crashpad to catch you if you fall, this is it. [More photos on Flickr](http://www.flickr.com/photos/hendrikmorkel/sets/72157634438812611/).
+
+You can [buy the Ocún Paddy Dominator](http://www.unterwegs.biz/paddy-dominator-496254.html) at [Unterwegs.biz](http://www.unterwegs.biz) - they have free delivery on this pad in Germany, which is rather nice, considering how large a package it is!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9192511442/" title="Ocun Paddy Dominator In use by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7361/9192511442_4b2c8b18df_b.jpg" width="1024" height="680" alt="Ocun Paddy Dominator In use"></a>

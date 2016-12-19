@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Sea Stack Climbing in Ireland"
+date: 2015-04-20 23:16
+comments: false
+categories: [Trip Report, Ireland, Donegal, climbing, sea stack climbing]
+keywords: sea stack climbing, Ireland, Donegal, 
+description: Adventure - A journey with an uncertain outcome. That's what each sea stack climb is, an adventure.
+---
+
+Ashfall Quartz. Ebb. Tide. Swell. Mix it together, throw in a rubber dinghy and you have the stuff for a Sea Stack climbing adventure.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17002240157" title="The sea worthy vessel to cross over to the sea stack by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7626/17002240157_6342150a0a_b.jpg" width="683" height="1024" alt="The sea worthy vessel to cross over to the sea stack"></a>
+
+<!-- more -->
+
+From the distance Berg Stack looks like a wee little rock in the North Atlantic Ocean, just off the cost of An Port in County Donegal, Ireland. We - Iain, our guide, a photographer and an US American journalist - slept the last night in the Port Cottage and now a blue sky & sunshine have us frolicking in the superb weather. *"Lets go and check out the swell and tide"* Iain announces. We pack up our climbing gear and the 40€ rubber dinghy, bought at a Toy Shop - three at a time, they're not that durable and walk the [IAT](http://www.walkni.com/iat/) path up to the sea stack.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16589476163" title="Berg Stack on the right, Vertical Picnic stack on the left by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8697/16589476163_e1526639df_b.jpg" width="1024" height="683" alt="Berg Stack on the right, Vertical Picnic stack on the left"></a>
+
+What looked like a wee sea stack from the lawn of the cottage turns out to be a 25 m high sea stack with a large ledge at the bottom, beautiful cracks and pin scars lining it from bottom to top and a Great black-backed gull with its nest on top. Oh, and an angry Atlantic Ocean with a two to four metre swell, making for not a good time to cross. We still inflate the unnamed dinghy, Iain gives me the instructions of how to assist him when he will board the sea worthy vessel to establish a tyrollean traverse on Berg Stack so I can get over, too.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17023512169" title="Iain from Unique Ascents having a look at the sea, Berg Stack in the background by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8693/17023512169_4922bee743_b.jpg" width="1024" height="683" alt="Iain from Unique Ascents having a look at the sea, Berg Stack in the background"></a>
+
+The we sit & wait. Observe the swell. Finally Iain decides we'll come back at high tide later in the afternoon, when the sea should be calmer. Adrenaline that was build up in anticipation disappears, shoes go back on and we go for a nice hill walk, checking out Cnoc na Mara - the Sea Stack we had originally planned to go up, but with this sea that would have been too much risk. The views are spectacular, the valley deserted and I can make out a dozen of superb spots for a wild camp.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17021928808" title="A look up Berg Stack by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5322/17021928808_206ed924b5_b.jpg" width="1024" height="683" alt="A look up Berg Stack"></a>
+
+Sea stack climbing is less about climbing, really. Sure, it helps if you can climb well and know how to place gear - it's all trad - but it is just as much about the skill set an Alpinist has: Patience, Risk Assessment, Speed & Efficiency. Maritime skills & knowledge are also essential, knowing when the tide is coming in, how high the swell is, if it is safe, being patient. Finally, a bit of daring for an adventure is also needed. After all, if you think paddling in a toyshop rubber dinghy on the Atlantic is insane, then sea stack climbing is nothing for you.
+
+We're back on the main land and observe the sea. It is high tide, the swell is still high but every now & then there's a calm moment - and one of these Iain uses to paddle over to Berg Stack. An euphoric cry echoes over the sea and you can see how a load is off his shoulders. He sets up an anchor for the tyrollean traverse, and during the next calm moment he's back on the main land. We discuss the strategy and then it all goes quick: the dinghy is back in the water and Iain is in it, surfing the swell, a 240 cm sling connecting him to the tyrollean. A calm moment comes, he paddles in and I jump in - and just as quick out again off on Berg Stack. We both howl a cry of victory, a victory over the tide and swell.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17021935758" title="Berg Stack by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5343/17021935758_1ab7fb492e_b.jpg" width="1024" height="683" alt="Berg Stack"></a>
+
+From here on it's all basic rock climbing: Harness and rock shoes come on, Iain racks up and we tie into the rope. I stand barefoot on the ledge, the swell crashing on the rocks around. Iain leads up a variation the *Cormorant* which he probably has climbed a dozen times and before long an "Off belay" call echoes down to me. It is a nice route with great hand and foot holds up till the middle to the arête, then it goes around the arête and up a wet corner, which is also the toilet of the Great black-backed gull and its offspring which were kind enough to let us top out there. A moment later I stand on the top of Berg Stack next to Iain, high-fiving him, and again we both let out a howl of victory. But this is not a sports climb where you just clip into the chain and then rappel off. No, this is a sea stack. And the sea is angry.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17002250497" title="Roping up by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7651/17002250497_95a7de41ea_b.jpg" width="683" height="1024" alt="Roping up"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17002062747" title="Me on Berg Stack by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8706/17002062747_44b293c870_b.jpg" width="576" height="1024" alt="Me on Berg Stack"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17209684205" title="Iain on top of Berg Stack, Vertical Picnic stack in the background by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5448/17209684205_822563f419_b.jpg" width="683" height="1024" alt="Iain on top of Berg Stack, Vertical Picnic stack in the background"></a>
+
+The easiest way off the top back to the ledge is to down-climb a corner to about two meters above the rushing sea, and then traverse the sea stack on superb ledges & holds back to where we started. We short-rope and five minutes later stand next to our dinghy. The sea is lower, more rocks can be seen as the ebb comes in, but the swell is still high. *"Lets wait till the tide is out and then walk off"* Iain says, and so we deflate the dinghy which has served us so well on the way here, pack up and wait. Wait for the water to retreat, for the swell to let us escape from this rock.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16589483823" title="Iain down climbing from Berg Stack by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5342/16589483823_e771dc38d7_b.jpg" width="683" height="1024" alt="Iain down climbing from Berg Stack"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17183741396" title="Our dinghy on the ledge, the crossing with a bit of swell by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8700/17183741396_a98415b910_b.jpg" width="1024" height="683" alt="Our dinghy on the ledge, the crossing with a bit of swell"></a>
+
+The sea does not see a reason for letting us off, it wants to keep us. The swell is high and white foam rushes over the barnacle-covered rocks, which would otherwise allow us to easily walk off. The sun throws its last rays on the main land, we can see the hut from our ledge and the comfort of the warm fire in the cozy cottage and slowly we're getting cold & hungry. Low tide arrives, but the swell still throws up large, foamy waves over the rocks we should have just walked off.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17183747146" title="Cold feet by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7633/17183747146_b904d8e834_b.jpg" width="683" height="1024" alt="Cold feet"></a>
+
+Iain goes first, jumps the large gap and makes it just to the top of a big rock when a wave comes in. He brings me my approach shoes and throws them over, as I do not fancy jumping barefoot on wet, slimy rocks and risking a broken ankle. Waiting for the right moment I too make the jump, and a final victory cry echoes from the rocks - the land has me again. We pack up and in the falling dusk walk to the cottage, where a warm fire and cool beer are waiting for us. My appetite for sea stack climbing is awakened, but first I'll need to hike further on the International Appalachian Trail to Northern Ireland, to return another day for more sea stack climbing adventures.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17022143920" title="Patience by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7714/17022143920_703730e92f_b.jpg" width="1024" height="683" alt="Patience"></a>
+
+## Practicalities
+There's a [free Sea Stack Guide book](http://www.uniqueascent.ie/sea_stack_guide) if you want to go sea stack climbing - it has almost all sea stacks in it. A selection of sea stacks you also find in the [Rock Climbing in Ireland](http://threerockbooks.com/index.php/rock-climbing-in-ireland/) book. I would suggest you do your first sea stack with Iain from [Unique Ascents](http://www.uniqueascent.ie/) and learn the ins & outs from him about the sea and getting safely on and off the sea stack. He's also a great guy and you'll have a lot of fun on a day out with him. You'll need a sea-worthy vessel - maybe [loan a packraft](http://www.packrafting-store.de/Rentals:::34.html), but be sure you also know how to use it and have an idea about the tide, swell and weather forecast. If a sea stack is too much adventure, check out the [Donegal rock climbers guide](http://www.uniqueascent.ie/undiscovered_donegal) and visit one of the local crags, though there are also [calm days on Berg Stack](https://m.youtube.com/watch?v=CfM3DTcHcS8).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17208905321" title="Port Donegal Cottage by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8763/17208905321_de9c296ae9_b.jpg" width="1024" height="683" alt="Port Donegal Cottage"></a>
+
+If you plan to climb in the area around An Port stay in the [Port Donegal Cottage](http://port-donegal.com/) - either book via their website or on [Owners Direct](http://www.ownersdirect.co.uk/accommodation/p8069109). It has a wonderful cozy feel and relaxing in the bathtub after a day out on the sea will be so good that you don't wanna go out. It sleeps eight and with some luck Roland, the owner, will be around and delight you with his stories from far away places.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17021740458" title="Port Donegal Cottage Inside by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7725/17021740458_6b9517e048_b.jpg" width="1024" height="683" alt="Port Donegal Cottage Inside"></a>
+
+The nearest village via a road is Ardara where you find several accommodation options like the [Bayview Country House](http://www.bayviewcountryhouse.com/) and also shops and the [Nancy's of Ardara Pub](http://www.nancysardara.com/) for a after-climb pint, though it adds at least 45 minutes driving to your approach. For rest days go to Glencolmcille in the neighbouring valley and visit the [Folk Museum](http://glenfolkvillage.com/) where you can see how people lived in the last centuries in the area, grab a good cup of coffee and a bite.
+
+Gear wise you will need Trad gear as there are no bolts. Bring cord and slings if you want to abseil and need to build an anchor. Most of all, be patient with the sea and be open for the adventure!

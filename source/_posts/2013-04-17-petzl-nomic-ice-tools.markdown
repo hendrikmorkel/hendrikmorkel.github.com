@@ -1,0 +1,102 @@
+---
+layout: post
+title: "Petzl Nomic Ice Tools"
+date: 2013-04-17 21:45
+comments: true
+categories: [Petzl Nomic Ice Tools, ice climbing gear, ice axes, ice tools]
+published: true
+---
+
+After boots and crampons ice tools are the third essential piece of gear when climbing ice. As with the other equipment, I did plenty of research online, in magazines and books before I decided to get the [Petzl Nomic ice tools](http://www.petzl.com/en/outdoor/ice-climbing-tools/nomic), and once I used them I understood why they're so highly regarded. *A Living Review*.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8576322159/" title="Great Ice! by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8251/8576322159_bf671406fd_b.jpg" width="1024" height="768" alt="Great Ice!"></a>
+
+<!-- more -->
+
+## Time
+I have used the Petzl Nomic ice tools for seven full days of ice and mixed climbing. This review thus should be considered as an initial review, which I will update during the next winter season when I have used them more. 
+
+## Function
+Ice tools replace your hands when climbing ice falls or mixed terrain. The Nomics are to be used in a pair, and excel in climbing steep ice and mixed routes, though can be used on alpine ascents if you're aware of their shortcoming for these undertakings.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8656049698/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8103/8656049698_a9f2a24da7_b.jpg" width="680" height="1024" alt="Petzl Nomic"></a>
+
+## Features
+- Ergonomic, offset handle design - can be used with both hands
+- Modular head for adapting the ice axe to the activity you're doing: Without weights for drytooling, with weights for ice climbing, and a possibility to attach an adze and a hammer to place pitons
+- Interchangeable pick: ICE for ice climbing, DRY for drytooling
+- Serrated blade on the bottom of the griprest
+- Adjustable Griprest: Pivots to accommodate larger and smaller hands/ gloves
+- Great griptape above handle
+- Leashless
+- Strong curve for ice and mixed climbing
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8654940515/" title="Petzl Nomic Grip by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8122/8654940515_c2f027864d_b.jpg" width="1024" height="680" alt="Petzl Nomic Grip"></a>
+
+## Fit
+The Nomics arrived in a Medium setting on the Griprest, which suited me just fine in my ice climbing gloves. With the supplied Allen key it is easy to change the size if one has bigger or smaller hands. If you need an adze or hammer, or want to use the Nomics for drytooling, then it is equally easy to attach these accessories or remove the weights on the head. 
+
+## Technical Innovations
+My research indicates that Petzl was partly responsible for the introduction of leashless climbing tools with the first iteration of the Nomics in 2008. Leaving something away - in this case the leashes - is a form of optimising and minimalizing a design, which set a standard back then which other companies have followed since.
+
+The overall design has a few innovations (serrated blade on grip rest, you can attach hammer and adze) though please check the other reviews listed below to read up them as some of these climbers have used the old and new tools. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8655076087/" title="Petzl Nomic Grip by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8120/8655076087_fc3d88d9ee_b.jpg" width="1024" height="680" alt="Petzl Nomic Grip"></a>
+
+## Quality
+Exceptional quality as always from Petzl. The Nomics are very well made tools, from the overall design which swings superbly to the use of material, even on details like the griptape which gives a bit of insulation and lets you grip the tool safely (as in it doesn't slip). Made in France, 3 years of guarantee. 
+
+## Weight
+The Nomics weigh 608 g per tool including the weights on the head. Take these off with the supplied Allen key and the weight drops to 544 g per tool. Without the weight they are better for Drytooling, with the weights they're superb for ice climbing as the added weight improves the swing and helps to drive the pick better into the ice. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8654949139/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8102/8654949139_5138d21d58_b.jpg" width="1024" height="680" alt="Petzl Nomic"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8654952203/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8102/8654952203_ff4a44dc0d_b.jpg" width="1024" height="680" alt="Petzl Nomic"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8656158690/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8117/8656158690_db3838c378_b.jpg" width="1024" height="680" alt="Petzl Nomic"></a>
+
+## Sustainability & Recyclability
+Steel is used in the pick and spike, the shaft is made of an aluminium alloy and the grip is of plastic with a rubber griptape. You could recycle the pick easily, though as grip and shaft are one unit you might want to take them to your outdoor shop and let them handle the recycling of the tool. Unless you knock up the shaft a lot while drytooling I don't expect that one needs to replace them at all, and happily it is very easy to replace the picks, which is the part which sees the most use. Though at 50€ a pick that can become rather costly, especially if you do a lot of mixed climbing.
+
+## In use
+The swing of this tool feels great. It is a very well-balanced tool, with a beautiful swing. Reading up on technic I started with a big swing, but quickly realised that I didn't need it to drive the pick into the ice. A small to medium move with a good wrist flick at the end is on all but the driest ice sufficient, as the head weights help sink the tool into the ice very effectively. The pick thus goes easily into the ice, and just as easily comes out again. 
+
+The blade at the bottom of the griprest - mine is set to medium to accommodate my small-ish hands, buffed up with a thick pair of gloves - grips well into the ice on steep terrain, and helps in going up steep ice. Also the angle of the shaft and handle help to reduce knuckle bashing - something that with straighter tools in the past was a problem. Even as a beginner I haven't hit my knuckles once on ice or rock with the Nomics, which I'm very happy about.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8656167084/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8111/8656167084_1f9aef50de_b.jpg" width="1024" height="680" alt="Petzl Nomic"></a>
+
+Leashless climbing seems to be the norm nowadays, and while the danger of dropping a tool was something I was concerned about it really wasn't an issue. I once dropped a tool - two meters above ground the first time I was climbing - and if dropping a tool is something you're worried about then a [springer leash](http://www.bergzeit.de/camp-x-gyro-leash.html) is a useful accessory to get. Leashless ice tools make it very easy to swap tools on the ice. They're also not restricting blood circulation as could be the case if you hang in your leashes. Thus switching tools on a route was very easy, and once I realised that I have this possibility it made some climbs significantly easier. For me the biggest benefit of this possibility was that I'm stronger with my right arm, and hence could first place the right tool, then switch hands and place also the second (left) tool with the right arm in those situations where the ice was crappy.
+
+I tried a pair of [Petzl Quarks](http://www.bergzeit.de/petzl-quark-hammer-ice-tool.html) and did not like their grip. The GRIPREST/ TRIGREST piece in the grip was above my index finger, which hindered blood circulation and I got cold hands - colder hands than I never got with my Nomics. You can apparently flick the Trigrest up and eliminate this problem. I also tried a pair of [Grivel Quantum Tech](http://www.bergzeit.de/grivel-quantum-tech-eisgeraet.html) tools which were wonderfully light, though their owner commented that he liked the slightly heavier Nomics as they go easier into the ice - with the Quantum Tech, which don't have extra weights on the head, a little bit of extra power is needed for a good placement. These are not concerns for me at the moment, as these kind of factors are getting important if one climbs routes with 5+ Pitches and I'm not just there, yet =) 
+
+The Nomics are made for vertical, technical routes. Because of the aggressively curved shaft and angled pick it is easier to clear bulges and other features on ice routes, but if the ice gets less than 80° steep, the Nomics start to be less than optimal - for topping out on a climb they're fine, though if you're planning to get up a long, mildly steep ice field there are better tools available.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8655067165/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8116/8655067165_a4732968cc_b.jpg" width="680" height="1024" alt="Petzl Nomic"></a>
+
+## Competing Products
+The [Edelrid Rage](http://www.bergzeit.de/edelrid-rage-eisgeraet.html) is 660 g, the [Black Diamond Fusion](http://www.bergzeit.de/black-diamond-fusion-ice-tool.html) is 672 g and the [Grivel Quantum Tech](http://www.bergzeit.de/grivel-quantum-tech-eisgeraet.html) is 520 g. There's probably more, please feel free to let me know in the comments (include a link to the tool, please).
+
+## What Others Say
+[Sheldon Kerr reviewed the Nomics](http://www.sheldonkerr.com/?p=447) for Alpinist Magazine and gave them 4 Stars. Dave Burdick compares the [Black Diamond Fusion & Petzl Nomic in a Review](http://cascadeclimbers.com/black-diamond-fusion-vs-petzl-nomic-review/). Dane from Cold Thistle compares the [Old versus New Nomics](http://coldthistle.blogspot.fi/2010/11/old-nomic-and-new-nomic.html). Kevin Avery reviews them favourably on [UK Climbing](http://www.ukclimbing.com/gear/review.php?id=1790). Genevieve Hathaway also finds the [Petzl Nomics](http://www.pembaserves.com/2011/02/petzl-nomics-the-ice-climber%E2%80%99s-samurai-sword/) a superb choice for vertical, aggressive, and technical routes.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8656163088/" title="Petzl Nomic by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8121/8656163088_03e8d78479_b.jpg" width="1024" height="680" alt="Petzl Nomic"></a>
+
+## Bottomline
+The Nomics are easy to use and I felt confident with them on the ice. Getting a good placement with them didn't needed a lot of power, also because the superb ICE picks go into the ice like a hot knife into butter. Also getting them out again is easy, and thanks to their aggressively curved shaft and great grip I didn't hit my knuckles once this season. Sometimes you need to grip your tool a bit higher on a climb, and thanks to the rubber griptape you can do so without fear of slipping. Switching tools is easy thanks to the Nomics being leashless and helps on difficult routes or rotten ice. The serrated blade at the bottom gives a bit of extra hold on steep ice, and if you need a hammer or an adze then you can attach them easily. 
+
+They are very well made tools with innovative details which make ice climbing a tiny bit easier and comfortable. I'm super happy with them, and look forward to using my two Nomics again next winter!
+
+[Plenty more photos on Flickr](http://www.flickr.com/photos/hendrikmorkel/sets/72157633258195413/). 
+
+## Where to buy the Petzl Nomic
+Buy them at [Camu](http://www.camu.fi/pages/kiipeily/vuorikiipeily/jaahakut/nomicjaahakku.html) | [Mountain Shop](http://www.mountainshop.fi/) ON OFFER - only 200€! | [Varuste](http://www.varuste.net/Petzl+Charlet+Nomic+2012) | [Backcountry](http://bit.ly/16YR1l6) | [Bergfreunde](http://www.bergfreunde.de/petzl-charlet-nomic-eisgeraet/) | [Bergzeit](http://www.bergzeit.de/petzl-nomic-eisgeraet.html) | [CampSaver](http://bit.ly/15gFks0) 20% off - only $240 | [REI](http://bit.ly/16YR8gx)
+
+Replacement [ICE Pick](http://www.bergfreunde.de/petzl-ice-ersatzhaue/) | Replacement [DRY Pick](http://www.bergfreunde.de/petzl-dry-ersatzhaue-fuer-eisgeraete/)
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8656176754/" title="Petzl Nomic | Serrated Blade on the Grip Rest by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8100/8656176754_0a9e54fa36_b.jpg" width="1024" height="680" alt="Petzl Nomic | Serrated Blade on the Grip Rest"></a>
+
+## In the next update
+- In the next season I will add more on how they're in use climbing ice and mixed, possibly for alpine trips, if there were any failures, and more overall experiences
+
+*Disclaimer*<br>
+Petzl's [Finland Distributor Vandernet](http://www.vandernet.com/) provided me the Nomic ice tools free of charge for testing, and paid me 1 bazillion € to review them.*
+
+<sub><sup><sub><sup>* One of these statements is not true.</sup></sub></sup></sub>

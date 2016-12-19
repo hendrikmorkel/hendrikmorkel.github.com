@@ -1,0 +1,103 @@
+---
+layout: post
+title: "Marmot Speed Light Jacket"
+date: 2013-10-22 09:04
+comments: true
+categories: [Marmot, hardshells, Speed Light Jacket, Gore-Tex]
+published: true
+---
+
+A Gore-Tex® Pro jacket which is light, durable and has an excellent hood - that's the [Marmot Speed Light Jacket](http://marmot.com/products/speed_light_jacket). I've put it to the test for the past year, so here's my insights into this hardshell jacket!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416921593/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3748/10416921593_e9007c8bba_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+
+<!-- more -->
+
+## Time
+
+It arrived in October 2012 and has been on backpacking and skiing trips since. It has seen a fairly decent amount of day hikes and pram strolls, too. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416697306/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3786/10416697306_8b6c285bce_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+
+## Function
+
+As a hardshell its purpose is to sit lightly in your pack until it starts to pour down, the wind picks up, and you're climbing a snowy mountain. In those situations, and others which include inclement weather, the hardshell comes out of the pack and on, with the aim to keep you dry, warm and comfy while the weather tries to make you turn around and go inside. But as you're wearing the Marmot Speed Light Jacket, you hike/ climb/ paddle happily on, until the weather understands that you're not going home.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416893513/" title="Marmot Speed Light Jacket Gore-Tex Pro by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5518/10416893513_2a75c7717e_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket Gore-Tex Pro"></a>
+
+## Features
+
+What I liked about the Speed Light Jacket is the clear focus on the essentials. It has a pretty low-key feature set, but that's exactly what I appreciate about it:
+
+- Made of the durable GORE-TEX® Pro Fabric
+- Excellent Gale-Force Hood with a laminated Wire Brim, which is helmet compatible, too!
+- One chest pocket, two harness/ hipbelt compatible hand pockets
+- Elastic drawcord hem and Velcro cuffs
+- Angel-Wing Movement™ design for pretty great freedom of movement
+- Lightweight
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416717185/" title="Marmot Speed Light Jacket Pit Zips by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5516/10416717185_23945cbfe2_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket Pit Zips"></a>
+
+## Quality
+
+Quality of this hardshell is superb. Clean seams, good design, this is a top-notch jacket which will satisfy your hardshell needs very well.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416753666/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5523/10416753666_7b8626e607_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+
+## Weight
+
+The Marmot Speed Light Jacket in Size Medium weighs in at 405 gram. That's not the lightest hatdshell available, but good for such a durable hardshell.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416834063/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5536/10416834063_94d495d24d_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+
+## Sustainability & Recyclability
+
+Marmot Europe has a [Responsibility](http://2013.marmot.de/content/en/company.responsibility/) website in which they detail their philosophy and how they think about social and ecological things, which is great. They're a member of the European Outdoor Conservation Association, which tries to protect the wild areas we enjoy so much. They have a code of ethics which you can read on their website, and support social initiatives across the globe. 
+
+In some of their products they us recycled polyester, these are labelled UpCycle® as the bottle has e.g. become a fleece jacket. They also try to use sustainable fabrics whenever they can and use organic cotton in some products. This hardshell is made of Gore-Tex, which back in the day (1993 onwards till it stopped) you could recycle in the GORE™ BALANCE PROJECT™. However, that isn't possible nowadays any more, so this is what [Gore suggest](http://www.gore-tex.com/remote/Satellite/content/customer-service/faq/5) you do with the jacket at the end of its life-cycle:
+
+*Garments or footwear made from GORE® fabrics can be safely disposed of just like any other apparel product.*
+
+[...]
+
+*Finding ways to extend the useful life of a product has always been the environmentally preferred option over product disposal. One might wish to consider donating footwear or garments to charities or repurposing the product for other applications.*
+
+## In use
+
+The Speed Light Jacket has been used for hiking, backpacking and skiing, but sadly not for any alpine activities. Nevertheless, for these activities it performed admiringly. It ticked all the right things for me: The drawstring hem with the cut of the jacket made it stay in place and not ride up, the cuffs were large enough to vent but could be closed with the Velcros, the pockets were large and the hood was perfect.
+
+Yes, the hood and its brim are superb, this is the kind of hood & brim any hardshell that wants to call itself a hardshell should have. The very wide brim keeps snow and rain off your face, can be bend and adjusted thanks to the wire to your needs and the hood closes nice and tight around the face. Sure, the hood adjustment strings could be on the outside - now they're on the inside - but you still can get a very great fit. From the back you can adjust it further, too, and it fits a helmet so mountaineers and alpinists will really like this jacket.
+
+Size-wise this Medium was a bit too large for me, though as it was the only Size Marmot had available for test I made it work. There's plenty of space for layering underneath the trim fit of it, and as I loaned the jacket to my brother to see how it'd works for him, it was perfect (he's a tad taller than me) and still offered plenty of space for layering a puffy jacket underneath it.
+
+I'm pretty much neutral nowadays if it comes to WPB materials, Gore-Tex, eVent, NeoShell and Co. all seem to work equally well for me. Gore-Tex Pro is a pretty nice material, though - very durable, breathable and the DWR on it is superb - even after months of use the rain would still roll off nicely from it. Carrying backpacks, be it light packs on day hikes or heavy backpacks full of groceries had no negative effect on it, and I'm sure that even a large rucksack loaded with two weeks food wouldn't trouble this jacket.
+
+A subjective like is the colour, although because of the green - blue mix I'm often remembered of a [sketch](http://open.spotify.com/track/64KxqiGLYHkyxdiLKXDVAR) by Badesalz. Nevertheless, the blue is a good colour and the green details make it pop nicely. I'm also happy with the weight, it's light enough to carry it in the pack on good days, and it also feels light when wearing. The fabric is pretty stretchy and allows for some great freedom of movement, so for (ice) climbing this is a very good choice.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416783466/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2849/10416783466_2c18984105_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416928913/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3781/10416928913_e51dfe9c73_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416752296/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7443/10416752296_7e0b8278d4_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+
+## Competing Products
+
+Plenty of competition, though if we just look at hardshells made of the new Gore-Tex Pro then we have the [Arc’teryx Alpha SV](http://bit.ly/16sZ9Je), [Adidas Terrex Advance](http://www.adidas.com/us/product/mens-outdoor-terrex-advanced-jacket/G72286X), [Mammut Meron](http://bit.ly/1h5mRTe), [Patagonia Powslayer](http://bit.ly/17GGfil), [The North Face Kichatna](http://bit.ly/1cbMmmd) and the [Norrøna lofoten Gore-Tex Pro Jacket](http://bit.ly/16q9VFg). However, all of these are more expensive than the Marmot Speed Light Jacket and also are more geared towards skiers.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416761235/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3776/10416761235_4a6d39391d_b.jpg" width="1024" height="759" alt="Marmot Speed Light Jacket"></a>
+
+## What Others Say
+
+[James](http://blessedoutdoors.blogspot.fi/2012/11/marmot-speed-light-first-impressions.html) likes his a lot and [Tyler](http://www.trektechblog.com/2013/03/marmot-speed-light-jacket-review.html) loves his, even if it has a ketchup and mustard colour.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416760005/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2880/10416760005_625b592cbb_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a>
+
+## Bottomline
+
+It's a great, durable jacket that you can take backpacking, mountaineering & ice-climbing and you don't need to be afraid that contact with rock & ice would harm it. Personally I could have done without the Pit Zips, which would have made the jacket even lighter, but they're there even if I don't use them. If you're in the market for a new hardshell which keeps you dry in the rest of autumn, winter and spring, then this could be it!
+
+[More photos](http://www.flickr.com/photos/hendrikmorkel/sets/72157636822996153/).
+
+## Where to buy it
+
+[Bergzeit](http://www.bergzeit.de/marmot-speed-light-jacke-dark-azure/) | [Bergfreunde](http://www.bergfreunde.de/marmot-womens-speed-light-jacket-hardshelljacke/) | [Backcountry](http://bit.ly/176AJZP)  | [CampSaver.com](http://bit.ly/176B8eQ) *Best Deal! Just $255* | [REI.com](http://bit.ly/19XZbJd) | [Partioaitta](http://www.partioaitta.fi/Marmot_Speed_Light_Jacket)
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10416898253/" title="Marmot Speed Light Jacket by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2856/10416898253_47721804df_b.jpg" width="1024" height="680" alt="Marmot Speed Light Jacket"></a> 

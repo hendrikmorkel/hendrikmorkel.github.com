@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Isbjörn of Sweden Winter Jumpsuit"
+date: 2013-10-21 19:32
+comments: false
+categories: [Isbjörn of Sweden, baby gear, toddler gear, Winter Jumpsuit]
+---
+
+Dad is on the trail, so it's time I review my [Isbjörn of Sweden Winter Jumpsuit](http://www.isbjornofsweden.com/en/articles/2.17.676/winter-jumpsuit-dermizax-ev-150)! 
+
+<a href="hikinginfinland.com/2013/10/isbjorn-of-sweden-winter-jumpsuit.html" title="Isbjörn of Sweden Winter Jumpsuit"><img src="http://farm8.staticflickr.com/7396/10405577576_0f4ed4807f_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Winter Jumpsuit"></a>
+
+<!-- more -->
+
+Last autumn I reviewed the [Isbjörn of Sweden Rib Fleece Jumpsuit](http://hikinginfinland.com/2012/10/isbjorn-of-sweden-rib-fleece-jumpsuit.html) which I outgrew pretty quickly, plus it got cold also rather fast, so the kind people at Isbjörn of Sweden sent dad a [Winter Jumpsuit](http://www.isbjornofsweden.com/en/articles/2.17.676/winter-jumpsuit-dermizax-ev-150) for me to wear. I did wear it a whole six months last winter, and I was always nice warm in it - be it walking in the snow, sleding, or going for a pram walk with mom & dad. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10405730903/" title="Isbjörn of Sweden Winter Jumpsuit Velcro Windflap by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7328/10405730903_c08a6786e2_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Winter Jumpsuit Velcro Windflap"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10405639085/" title="Isbjörn of Sweden Winter Jumpsuit  Inside by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3789/10405639085_5b88920483_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Winter Jumpsuit Inside"></a>
+
+Isbjörn knows a few hundred things about designing garments for kids. The Winter Jumpsuit is made of the Entrant W™ Toray material, which has a hydrostatic head of 20.000 mm and a pretty high breathability, too. In practice this means I can jump into puddles and crawl through the snow without getting wet, while at the same time during those sweaty winter walks I never overheated. Seams are taped, too, and waterproof zippers are used. All the kind of stuff you also find on the good jackets for adults!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10405584744/" title="Isbjörn of Sweden Winter Jumpsuit Cest pocket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3691/10405584744_d831f07231_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Winter Jumpsuit Chest pocket"></a>
+
+It has a large hood which can be removed, and usually I was outdoors without it - except when it snowed or rained, then mom or dad put it on and pulled it over my [hat](http://www.isbjornofsweden.com/en/articles/2.18.954/winter-cap-squirrel-209). It protected my head very well from the cold wind and snow, which is nice - I don't care for snow on my nose! The cuffs are elastic and fitted well over my [gloves](http://www.isbjornofsweden.com/en/articles/2.18.839/winterglove-babyzip-173), and the rubber loop at the trouser legs is super durable and also didn't bother when running around. Elastic trouser legs didn't let any snow into my felt boots, which is pretty nice. Then there's those large reflectors on shoulders and legs, which makes it easy to be seen in the dark. And as soon it's dark again for some 18 hours per day, that comes in pretty handy when we walk to the playground or on the bike to the shop.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10405576215/" title="Isbjörn of Sweden Winter Jumpsuit Elastic cuffs by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3687/10405576215_9aec29bdc0_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Winter Jumpsuit Elastic cuffs"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10405597346/" title="Isbjörn of Sweden Winter Jumpsuit Trouser legs by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5527/10405597346_5c661b90ea_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Winter Jumpsuit Trouser legs"></a>
+
+But that ain't all! It's warm, too. That's because of the recycled polyester padding on the inside, and the drawstrings which help with getting a nice, tight fit. So I could jump around with mom & dad at -20°C in the snow and don't get cold! And even when dad was carrying me in the backpack I stayed nicely warm when we were [winter hiking on the Kvarken Archipelago](http://hikinginfinland.com/2013/05/a-family-hike-on-the-bodvattnet-runt.html). 
+
+<img src="http://farm4.staticflickr.com/3769/10408710295_012de682fc_b.jpg" width="1024" height="768" alt="Isbjörn of Sweden Winter Jumpsuit"></a>
+<img src="http://farm4.staticflickr.com/3690/10408703975_fc0cff5c94_b.jpg" width="1024" height="550" alt="Isbjörn of Sweden Winter Jumpsuit"></a>
+
+Dressing up is OK, I didn't particularly enjoy that the zipper was not going down one of the legs which would have made dressing up easier, but I guess that would have created more possibilities for cold spots or wind to come in. It's OK so, and is a lot easier with the felt boots already attached to the suit! I like that the zipper has a long tab, that makes it easy for me to close it myself, and the windflap with Velcros doesn't let wind through. The articulated knees and arms allowed me to climb on the playground all the cool stuff, it's just a shame dad didn't want to loan me his ice tools and crampons for ice climbing!
+
+Size-wise you should know that Swedish babies & toddlers are apparently very tall, and that their 80 cm garment size fitted me as I was between 14 and 20 months old, but even now (I'm 2+ years!) I still - just! - fit in there. If you’re unsure, ask the Isbjörn people, they will help you to pick the right size - or try one on, if you can. They’r easy to clean in the washing machine in case the get dirty - mom appreciated that - and come in a couple different colours to suit each taste. As you can guess, I’m very happy with my Isbjörn of Sweden Winter Jumpsuit, and a bit sad that I have outgrown it yet again so quickly! 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721721035/" title="On the trail by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7406/8721721035_db42d1b69c_b.jpg" width="1024" height="680" alt="On the trail"></a>
+
+You can buy the Isbjörn of Sweden Winter Jumpsuit on the [Isbjörn of Sweden website](http://www.isbjornofsweden.com/en/articles/2.17.676/winter-jumpsuit-dermizax-ev-150) if you live in Sweden, at the [Scandinavian Outdoor Store](http://www.scandinavianoutdoorstore.com/haku/?q=isbj%C3%B6rn) in Finland, and at [Unterwegs.biz](http://www.unterwegs.biz/entrantv-winter-jumpsuit-488013.html) and the [PM-Outdoorshop.de](http://www.pm-outdoorshop.de/shop/product_info.php?info=p256824_Winter-Jumpsuit.html) if you like to shop online in Europe. Otherwise, here's a list of [Isbjörn of Sweden Retailers](http://www.isbjornofsweden.com/en/retailers) across the Globe!

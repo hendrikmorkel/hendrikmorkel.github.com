@@ -1,0 +1,130 @@
+---
+layout: post
+title: "OutDoor 2016 - Gear Teasers"
+date: 2016-07-11 23:46
+comments: true
+categories: [OutDoor 2016]
+keywords: #OutDoorFN, OutDoor Messe, New tents, new backpacks, new trailrunning shoes, KEEN Versago, Dachstein Spürsinn EVO, Arc'teryx Norvan VT, MSR Advance Pro 2
+description: A teaser on new ultralight tents and backpacks, hiking shoes and apparel from the OutDoor 2016!
+published: true
+---
+
+Can't wait for ultralight gear news from the OutDoor 2016 anymore? I have you covered and show you a selection of new ultralight tents and backpacks, new shoes and apparel to make your hiking, climbing, backpacking and camping lighter! 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28115365671/in/dateposted/" title="#OutDoorFN 2016 is coming!"><img src="https://c8.staticflickr.com/8/7304/28115365671_6eee8bb41d_b.jpg" width="1024" height="1024" alt="#OutDoorFN 2016 is coming!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- more --> 
+
+While the [OutDoor 2016]() kicks off first in two days I already got a lot of information on new gear coming in 2017. Please keep in mind that I haven't actually seen, touched or tested these items so all information are to be taken with a grain of salt and they still might change until they stand in stores in 2017. I will try to try on, lie in and walk in many of the items seen here while on the fair, but that also is just to get a taste of them and not a final judgement.
+
+Instead of going by company in this teaser update, I will just go by categories. And as everyone loves tents and shelters, those make the start!
+
+## Tents & Shelters
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28202203836/in/dateposted/" title="Nordisk Lofoten 1 ULW"><img src="https://c5.staticflickr.com/9/8899/28202203836_45182594ba_b.jpg" width="1024" height="683" alt="Nordisk Lofoten 1 ULW"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The **Nordisk** takes the Ultralight crown this year with the Lofoten 1 ULW, as it has a claimed weight of just 490 g with a pack size of 11 x 22 cm. It's a two layer tent with mesh doors, aluminum poles, Dyneema cords and Titanium stakes, and a repair set is also included. No info on Price or if you can sit in it, which I hope to find out on the fair =)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28158403041/in/dateposted/" title="Vaude Hogan SUL 1-2P"><img src="https://c2.staticflickr.com/8/7292/28158403041_8a334f8656_b.jpg" width="1024" height="788" alt="Vaude Hogan SUL 1-2P"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Vaude** is revamping their Hogan tents which are especially popular with cyclists. The Vaude Hogan SUL 1-2P will weigh around 1.100 g and has a size of 235 x 110 cm. The larger tents which sleep two and three are a bit more heavy and wider, and a new model called Invenio has two doors opposite of each other. All these tents will have 5 years of warranty on them, too.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27955414880/in/dateposted/" title="Marmot Bolt 2P tent"><img src="https://c1.staticflickr.com/8/7580/27955414880_d37d27d22e_b.jpg" width="1024" height="683" alt="Marmot Bolt 2P tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Also **Marmot** comes out with a new lightweight tent. The Bolt 2P tent weighs 1.040 g and sleeps two. It will cost 500 € and will be in the shops from February 2017 onwards. The Specs: 20 D Polyester Fly, large entry, full mesh inner which can be pitched on its own on fine, mosquito-infested days, and there should be good sitting height.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27622202004/in/dateposted/" title="MSR Advance Pro 2"><img src="https://c5.staticflickr.com/8/7465/27622202004_960a5ac09e_b.jpg" width="1024" height="767" alt="MSR Advance Pro 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**MSR** launches a great looking Alpine/ Ultralight backpacking tent, the Advance Pro 2. It weighs 1.300 g packed and will retail for 585 € and should be available from Spring 2017. It has very durable Easton Syclone poles which are made from a carbon and aluminium composite. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28133567382/in/dateposted/" title="Therm-A-Rest Tranquility 6 Tent"><img src="https://c7.staticflickr.com/8/7308/28133567382_f5b719952b_b.jpg" width="1024" height="599" alt="Therm-A-Rest Tranquility 6 Tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And lastly **Therm-A-Rest** enters the Camping (Glamping!) Market with their Tranquility™ 4 and 6 tents. These weigh 5,19 kg and 7,87 kg respectively, sleep four or six people, have standing height and cost 530€ or 650€.
+
+## Backpacks & Packs
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27955415580/in/photostream/" title="GREGORY Paragon 48"><img src="https://c5.staticflickr.com/8/7320/27955415580_a36fa460e3_b.jpg" width="683" height="1024" alt="GREGORY Paragon 48"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The **GREGORY** Paragon 48 weighs 1.450 g and is one of several light-ish packs. The Paragon is the Male model while the Maven is the Women's model. Available in four volumes from 38 l to 68 l these packs will cost between 160€ and 240€. It comes with an Aerolon carrying system which can be adjusted in length to your body and if you want to lighten it further up you can remove the top lid and use the inside compartment divider as one. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28158403401/in/photostream/" title="Vaude Zerum 48+ LW Backpack"><img src="https://c2.staticflickr.com/9/8623/28158403401_31584c1521_b.jpg" width="788" height="1024" alt="Vaude Zerum 48+ LW Backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Zerum 48+ LW Backpack from **Vaude** concludes the German company's step to offer lightweight versions for the big 3 (The [Alpstein 450](https://www.bergfreunde.de/vaude-alpstein-450-down-decke/?pid=10239), which I helped design & test, launched last year). The pack comes in three sizes - 38 l, 48 l and 58 l. The medium 48 l pack weighs 1.180 g, has a PFC-free EcoFinish to let rain and dirt pearl off and is made from a light 70 D Rip-Stop. It has a light version of the Vaude Tergolight Carrying system.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27959237640/in/dateposted/" title="Ortlieb Bikepacking Packs"><img src="https://c1.staticflickr.com/8/7317/27959237640_24dbd89364_b.jpg" width="1024" height="631" alt="Ortlieb Bikepacking Packs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And **Ortlieb** enters the Bikepacking Framebag market (see my [Bikepacking Framebag Manufacturer List](https://hikinginfinland.com/2015/02/bikepacking-bag-manufacturers.html) to see smaller companies making custom and Multi-size bags). The German company launches a Framebag (which comes out next year) and a Handlebar bag and Seatbag, both which are already available. The Seatpack is 430 g light and costs 130€, while the Handlebar Bag is 417 g and costs 100€. The former has a volume of 5 to 16,5 l while the latter packs 15 l of gear, with an Accessory-Pack for the Handlebar pack (206 g and 55€) which adds 3,5 l more. 
+
+## Climbing Gear
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27955807950/in/dateposted/" title="Petzl GriGri 2017"><img src="https://c7.staticflickr.com/9/8880/27955807950_30cd44dc42_b.jpg" width="1024" height="841" alt="Petzl GriGri 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Petzl** seems to be launching a new GriGri - at least that's my guess going by the above photo which was in my invite to their booth =) 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28236552315/in/dateposted/" title="Black Diamond Ropes"><img src="https://c4.staticflickr.com/8/7782/28236552315_c09b4b94c5_b.jpg" width="1024" height="695" alt="Black Diamond Ropes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Black Diamond** enters the rope market. Available will be four different ropes: The 7,8 Half- and Twin-Rope, a 9,2 Triple Certified Rope and two Single Ropes in 9,6 and 9,9 diameter. They have a Full-Dry finish and will be available in lengths of 35 m, 40 m, 60 m and 70 m. 
+
+## Footwear
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28132885632/in/dateposted/" title="Merrell Agility Peak Flex"><img src="https://c1.staticflickr.com/8/7330/28132885632_1916b41a48_b.jpg" width="1024" height="737" alt="Merrell Agility Peak Flex"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The new **Merrell** Agility Peak Flex above is a new trailrunning shoe which has the new FlexConnect midsole. A Hyperlock Heel construction should lock in your heel while the breathable mesh upper makes it a solid choice on hot days. The shoe has a drop of 6 mm, 5 mm deep lugs on the sole and is available from spring/ summer 2017 onwards.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28203030476/in/dateposted/" title="Scarpa Epic Lite OD"><img src="https://c5.staticflickr.com/9/8702/28203030476_116bcc28d8_b.jpg" width="1024" height="717" alt="Scarpa Epic Lite OD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+From **Scarpa** comes the Epic Lite OD, with OD standing for OutDry, the waterproof-breathable membrane. It's an approach shoe which should do well on Via Ferratas and hiking in the mountains. Again we have a Sock-Fit upper construction, and the laminated OutDry® membrane should keep your feet dry - from the inside and out. Underneath a Vibram Megagrip sole ensures you don't slip away if its wet.
+ 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28237378245/in/dateposted/" title="Dachstein Spürsinn EVO"><img src="https://c6.staticflickr.com/8/7426/28237378245_0d8bb01408_b.jpg" width="1024" height="683" alt="Dachstein Spürsinn EVO"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Dachstein** is a new brand to me and their Spürsinn EVO shoe sounds really great. It has a sock-like, knitted shaft and has been developed with the blind mountaineer Andy Holzer. It is supposed to have a great feeling of what's under your foot with the Vibram EVO 2.0 sole, and a shoe weighs 340 g in Size 42. The upper is made from mesh for breathability, and it has a climbing zone in the front which make sit good for Via Ferratas and approaches. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27623441363/in/dateposted/" title="KEEN Versago"><img src="https://c4.staticflickr.com/9/8700/27623441363_e244f52796_b.jpg" width="990" height="1024" alt="KEEN Versago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**KEEN** is another new company for me and their Versago is a shoe that combines great looks for urban use and functional details which should make him great on your hikes and runs. The upper and tongue wrap around your foot like a sock and are made from mesh, while the midsole has the S3™-Technology which gives stability and cushioning on demanding terrain. It comes in four colours and will retail for 110€. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28206488956/in/dateposted/" title="Arc&#x27;teryx Norvan VT"><img src="https://c5.staticflickr.com/9/8724/28206488956_62d94be9cd_b.jpg" width="1024" height="165" alt="Arc&#x27;teryx Norvan VT"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The **Arc'teryx** Norvan VT is the latest shoe of the Canadians. This trailrunning shoe weighs 300 g in Men’s Size 8,5 UK or 320 g as a GTX shoe. The last 2/3 of the shoe have a Vibram Megagrip sole which ensures grip on wet & dry terrain alike, while the front one-third has a Vibram Idrogrip sole which ensures you can scramble well on your Via Ferratas and approaches. Arc'teryx built the shoe for *alpinists and climbers who use trail running to increase their fitness, and dedicated trail runners looking for new territory to explore*. And the 360⁰ Support System should help you with that, as you can decrease the volume and ensure a climbing-like fit when you tighten it, and release it again for the running sections of the trail. They will cost 165€ for the non-lined version and 190€ for the GTX shoe, available from spring 2017 onwards.
+
+## Apparel
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27955412350/in/photostream/" title="Marmot Airlite Jacket"><img src="https://c7.staticflickr.com/9/8668/27955412350_a66b834307_b.jpg" width="683" height="1024" alt="Marmot Airlite Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Marmot** launches the Airlite Jacket which will make UL backpackers and trailrunners happy, as it only weighs 102 g - and will "only" cost 120€. Made from Nylon Ripstop Stretch it is stretchy so great for running in the rain. It is supposed to be very breathable and of course keeps wind and rain at bay, with a hood and a zippered pocket, too. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28158404561/in/photostream/" title="Vaude Zebru UL 3L Jacket"><img src="https://c2.staticflickr.com/8/7471/28158404561_db0eb2d21c_b.jpg" width="788" height="1024" alt="Vaude Zebru UL 3L Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The **Vaude** Zebru UL 3L Jacket weighs 198 g in Size L and is a hardshell with a PFC-free finish. It is made of a 3-layer Ceplex Pro-Membrane which should keep you dry and out of the wind and is also breathable. If that's too heavy for you then the Zebru Windshell Jacket and the Zebru Windshell Vest which weigh 90 g and 70 g respectively might be more interesting!
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28158406361/in/photostream/" title="Vaude - 95% PFC Free from 2017 onwards"><img src="https://c2.staticflickr.com/9/8620/28158406361_5d168437f4_b.jpg" width="1024" height="683" alt="Vaude - 95% PFC Free from 2017 onwards"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Another great news from **Vaude** is that 95% of their range will be PFC-free from 2017 onwards. They will use almost exclusively PFC-free DWRs on their jackets and already faced the harmful substances out in other areas of the manufacturing chain. Great news for users and the environment!
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28203717286/in/dateposted/" title="OMM AVA Jacket Womens"><img src="https://c7.staticflickr.com/9/8841/28203717286_a2e3050061_b.jpg" width="1024" height="1024" alt="OMM AVA Jacket Womens"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And **OMM** launches the AVA Jacket, a sub-200 g fully featured mountain running jacket made from a new eVent DVSTORM 3 layer fabric. The OMM Team was focused on creating innovative closures around the wrist, waist and face and I am very much looking forward checking it out in person. It has an Dynamic Droptail to keep you bottoms a wee bit more dry in the rain, YKK Aquaguard zips and a newly designed Multi-Cuff. 
+
+## Materials
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27959054270/in/dateposted/" title="THERMORE® ECODOWN®"><img src="https://c7.staticflickr.com/9/8824/27959054270_c78701c88d_b.jpg" width="961" height="453" alt="THERMORE® ECODOWN®"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Thermore** Ecodown is a synthetic down which is made completely from recycled PET bottles. It is available in 8 variations (60, 80, 100, 115, 130, 150, 170, 200 g/m2) and in 20 different thicknesses, allowing manufacturers to create your favourite puffy jacket with a environmentally friendly material. Available immediately I hope many companies will start to use this material soon. 
+
+## Accessories 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/27956036160/in/dateposted/" title="Exped Care Line"><img src="https://c1.staticflickr.com/8/7454/27956036160_c186d35f27_b.jpg" width="850" height="710" alt="Exped Care Line"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Exped** launches their own Care Line products. Prices range from 3,95€ for the Down Cleaner to 8,95€ for the Tent Cleaner. Additionally there will be products for Gear Waterproofing, a Mat and Backpack Spray Cleaner and a Sleeping Bag Spray Cleaner. Expect them from March 2017 onwards.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28159489101/in/dateposted/" title="Katadyn BeFree"><img src="https://c6.staticflickr.com/8/7330/28159489101_bacdf0c0e4_b.jpg" width="964" height="830" alt="Katadyn BeFree"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Katadyn** launches this September their BeFree Waterbottle & Filter. The soft bottle has an integrated 0,1 Micron hollow fibre filter in it, which can be replaced. The soft flask is 0,5 l and from Hydrapak. Usage is super-simple: Fill the bottle, screw on the filter and drink! 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28239138305/in/dateposted/" title="Outdoor Tech Kodiak Plus 6"><img src="https://c2.staticflickr.com/9/8858/28239138305_93497e20f7_b.jpg" width="1024" height="1022" alt="Outdoor Tech Kodiak Plus 6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Kodiak Plus 10 from **Outdoor Tech** is a 10k mAh Powerbank which weighs 308 g and will cost 80€. The Lithium battery is obviously rechargeable, and with two USB Ports it's easy to keep several gadgets charged when out on the trail. It's a compact size and best of all, it should be available already this October.
+
+## And more
+
+Stay tuned on [Twitter](https://twitter.com/hendrikmorkel), [Instagram](https://instagram.com/hendrikm/) and [Youtube](https://www.youtube.com/user/Habichtshorst/) for more updates from the OutDoor in Friedrichshafen and expect the full low-down when I'm back at Hiking in Finland HQ next week!

@@ -1,0 +1,38 @@
+---
+layout: post
+title: "TrailPix Ultralight Tripod"
+date: 2013-10-15 12:42
+comments: false
+categories: [photography, TrailPix]
+---
+
+Do you enjoy taking photos when hiking? Do you carry a pair of trekking poles? Then you want a [TrailPix](http://www.kickstarter.com/projects/1312251870/trailpix-ultralight-tripod) to create a truly Ultralight Tripod!
+
+<a href="hikinginfinland.com/2013/10/trailpix-ultralight-tripod.html" title="TrailPix Custom"><img src="http://farm8.staticflickr.com/7373/10290298325_d976bd2c90_b.jpg" width="1024" height="680" alt="TrailPix Custom"></a>
+
+<!-- more -->
+
+Multi-functionalism is one of the ideas of ultralight backpacking. Gear you carry should have more than one function. Trekking poles are superb multifunction items - besides walking aides they can be used to pitch your shelter, be transformed into a paddle for packrafting, can be used as a tenkara rod, and with the TrailPix they make your trekking poles a superb tripod!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10290300815/" title="TrailPix Custom w/ ball head"><img src="http://farm4.staticflickr.com/3736/10290300815_3e6db8a058_b.jpg" width="1024" height="680" alt="TrailPix Custom w/ ball head"></a>
+
+I first got aware of TrailPix last year when [Brian Green](http://briangreen.net/) posted about the original design on his blog. I liked the idea a lot, though didn't find the design too refined. Apparently I wasn't alone, as the Kickstarter project didn't reach its goal. In the end, this was positive for us, because Andy - the inventor of TrailPix - didn't give up and started to refine the TrailPix during the last nine months, and the result is a truly superb tool to transform your trekking poles into a tripod.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8752858727/" title="Trail Pix Early Prototype from nv8design.com"><img src="http://farm4.staticflickr.com/3797/8752858727_f88d56390e_b.jpg" width="1024" height="680" alt="Trail Pix from nv8design.com"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10290190004/" title="TrailPix Custom vs an earlier Prototype"><img src="http://farm4.staticflickr.com/3796/10290190004_969dcbfb71_b.jpg" width="1024" height="680" alt="TrailPix Custom vs an earlier Prototype"></a>
+
+I have been testing one of the earlier Prototypes (see above), which I liked a lot. But the final design, the one you can get if you [back Andy's Kickstarter project](http://www.kickstarter.com/projects/1312251870/trailpix-ultralight-tripod) is even better. There are two versions available, the Universal and the Custom. I have a Custom version, made for the tips of my [Ruta Locura Yana poles](http://www.rutalocura.com/trekking_poles.html). These poles have Black Diamond Flex Tech Tips which also are used on my [Gossamer Gear LT4 poles](http://gossamergear.com/trekking/trekking/lt4-trekking-poles-all.html). They also do fit well on my [MSR Surelock poles](http://bit.ly/1cRcjH7) and OK-ish on my [Black Diamond Z-Poles](http://www.bergfreunde.de/black-diamond-ultra-distance-trekkingstoecke/). However, they have the tightest and hence most secure fit with the Ruta Locura Poles, which the TrailPix Custom was made for.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10290300105/" title="TrailPix Custom and suitable trekking poles for it"><img src="http://farm4.staticflickr.com/3784/10290300105_18d701d7fe_b.jpg" width="1024" height="680" alt="TrailPix Custom and suitable trekking poles for it"></a>
+
+The Custom version (27 gram) has the option of an accessory pole which is the third leg, and at 70 g the accessory pole is not too heavy. It's custom made for your trekking poles, and you can let Andy know which size you need when you're ordering it. The Universal version on the other hand fits a wide variety of poles, so if you hike with a friend you could loan one of his poles, or use a tent pole to make your tripod. The Custom version is excellent if you have one pair of poles and usually hike solo, the Universal version is for you if you have many different trekking poles and want your TrailPix to fit each pair.
+
+In use on the trail TrailPix is quickly deployed. I keep the accessory pole and TrailPix with the Ballhead in a side pocket, so I can quickly grab them when I need a tripod. I turn the trekking poles around, put the poles in the holes, unfold the accessory pole and insert it, and *Voilá* - there's your tripod. Now you just add your camera, switch it on and you can start taking photos. It's very fast and you don't need to take off your backpack, either!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10290196014/" title="TrailPix Custom &amp; Panasonic GH2"><img src="http://farm4.staticflickr.com/3717/10290196014_1f1f0985d4_b.jpg" width="1024" height="680" alt="TrailPix Custom &amp; Panasonic GH2"></a>
+
+Andy has made it really easy to chose the version you need, and offers a host of useful extras. I highly recommend getting a ball head (49 gram) additionally to the TrailPix (unless you already have one) and the accessory pole (70 gram) if you go for the Custom Version. If you're a [Peak Designs](http://www.peakdesignltd.com/) Capture user, you can even get a ARCA-style quick release base from him and make them compatible! So, if you want one, [back Andy's Kickstarter project](http://www.kickstarter.com/projects/1312251870/trailpix-ultralight-tripod) now - it closes on Friday morning. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10290418393/" title="TrailPix Custom Set"><img src="http://farm4.staticflickr.com/3747/10290418393_cc175766b8_b.jpg" width="1024" height="680" alt="TrailPix Custom"></a>
+
+[Some more photos](http://www.flickr.com/photos/hendrikmorkel/sets/72157636580175493/).

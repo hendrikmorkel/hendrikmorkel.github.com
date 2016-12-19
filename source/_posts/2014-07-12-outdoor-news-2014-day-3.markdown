@@ -1,0 +1,238 @@
+---
+layout: post
+title: "OutDoor News 2014 - 3"
+date: 2014-07-23 13:20
+comments: false
+keywords: OutDoor 2014, gear news, Mountain Equipment, Jetboil, Ortovox, Rab, La Sportiva, Exped, Montane, Black Diamond
+description: The lightest, brightest, smartest and coolest new gear from the 2014 OutDoor fair!
+categories: [OutDoor Fair 2014, gear, news]
+published: true
+---
+
+There was rain, there was sun, then the sky opened up and everyone was happy he had a hardshell and umbrella to stay dry on day three of the OutDoor 2014.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14484713518" title="Impressions by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5033/14484713518_faa92f7317_b.jpg" width="768" height="1024" alt="Impressions"></a>
+
+<!-- more -->
+
+## Jetboil
+
+[Jetboil](http://www.jetboil.com/) killed the Sol (Ti) cooking system. The company realized it's too specialist and that the Ti pot and aluminium heat exchanger didn't get along well, so the new stove for 2015 is the MiniMo. It's a 415 g system with a wide, low pot that in my indoor test at the OutDoor boiled 1 l of water in 3:08 minutes. The pot is easier to attach to the stove unit and the stoves valve and regulator have been redesigned and were easier to use and you can put the flame really low - it actually might be possible to cook in it now. There's still the Piezo ignition on it, and the pot also got a pair of silicone-covered metal handles. Those cozies are interchangeable, and there's four different ones available from the time the MiniMo hits the shelves. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14634124075" title="Jetboil MiniMo by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3846/14634124075_7848cea831_b.jpg" width="768" height="1024" alt="Jetboil MiniMo"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14633668832" title="Jetboil MiniMo by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2900/14633668832_b46321911c_b.jpg" width="768" height="1024" alt="Jetboil MiniMo"></a>
+
+The [Jetboil Joule Group Cooking System](http://bit.ly/1roxKFj) is on the shelves and ready to power your next group trek. 
+
+## Ortovox
+
+[Ortovox](http://www.ortovox.de/) introduces a really cool looking Cargo Pants which is made from Cordura® Wool - a mix of 55% Merino wool and 45% Cordura with an ecorepel® finish which makes it dirt and water-repellant and is PFC-free. Stretch inserts and an athletic cut mean you'll have freedom of movement in these, and for very hot summer days there will also be a Shorts available from the same material - also in some cool colours. Supergeil they look, especially in orange. Equally Supergeil is the Rock'N'Wool Double Check Shirt which I sport here. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447506168" title="ORTOVOX Rock&#x27;N&#x27;Wool Double Check Shirt by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2929/14447506168_633cb20f00_b.jpg" width="880" height="1024" alt="ORTOVOX Rock&#x27;N&#x27;Wool Double Check Shirt"></a>
+
+The 100% Merino wool shirt in a light 133 g/ m2 quality which makes it well suited for summer use. It combines all the good stuff you like about Merino wool with a kickass style - gone the times of boring black shirts. You probably want to wear a pair of Sports Rock'N'Wool Cool socks with the shirt & pants or shorts. What looks like you dressed in a hurry in the morning actually is on purpose: The socks are of different colours. And they employ Tencel which cools your feet, which makes them ideal for the tropic temperatures we currently enjoy in Finland. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447504788" title="ORTOVOX Sports Rock&#x27;N&#x27;Wool Cool by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3879/14447504788_0ba8a13d0e_b.jpg" width="1024" height="768" alt="ORTOVOX Sports Rock&#x27;N&#x27;Wool Cool"></a>
+
+On those fresh summer 2015 evening you can put on the Swisswool Light Tec Vest. It's swiss wool - wool which in the past was treated as waste as the fibres are too short. But Ortovox figured out how to use the wool - as an insulation material in their Swisswool garments. The Vest here will weigh 263 g and has a fine hood, zipper pockets that are sitting high on the vest and thus won't interfere with your hipbelt or harness.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447701057" title="ORTOVOX Swisswool Light Tec Vest by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5528/14447701057_22de3aa1c3_b.jpg" width="1019" height="1024" alt="ORTOVOX Swisswool Light Tec Vest"></a>
+
+## Mountain Equipment
+
+[Mountain Equipment](http://www.mountain-equipment.com/) from the UK has a few nice pieces coming for the next year. I like off-set zippers so I did enjoy trying on the Squall Hooded Jacket. It's a climbing softshell jacket, 310 g light and retails for 120€. It's a climbing specific fit with good freedom of movement, articulated sleeves and a helmet compatible hood. The asymmetric zipper not just looks good, it's also practical as so the zipper won't rub against the front of your chin/ face. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447709677" title="Mountain Equipment Squall Hooded Jacket by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5471/14447709677_8e3652e80c_b.jpg" width="768" height="1024" alt="Mountain Equipment Squall Hooded Jacket"></a>
+
+The Kinesis Jacket will be a 325 g Polartec Alpha garment and from the quick test at the booth convinced me with a good fit, being stowable in its own pocket and a nice waffle fleece lining on the sleeves and hood. It uses the ME Helium 30 fabric as a shell which makes it windproof. It was a good fit and should work well on its own or as a midlayer under a shell/ windjacket for some extra warmth.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447499859" title="Mountain Equipment Kinesis Jacket by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5593/14447499859_0f1dd52ef9_b.jpg" width="1024" height="768" alt="Mountain Equipment Kinesis Jacket"></a>
+
+The Foil Jacket is a 85 g wind jacket with an interesting hem drawstring. It's going above the butt as you can see underneath, so that the fabric covering your buttocks - which is longer - has some movement. This might mean the jacket won't ride up as jacket with drawstring at the hem often do - testing will show this in the future. It has thumbloops, articulated sleeves and packs into its own chest pocket.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14633664532" title="Mountain Equipment Foil Jacket by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3905/14633664532_26582576e6_b.jpg" width="768" height="1024" alt="Mountain Equipment Foil Jacket"></a>
+
+The Aurora Synthetic sleeping bag uses Climashield Apex for insulation, the same material many cottages uses in their quilts. There's three models available with Comfort ratings of 3°C, -1°C and -4°C and will start at 180€. They have a wind-resistant shell fabric, a 3/4 zipper and a collar, and if the weight is good (don't know, sorry) these might be interesting for those that prefer synthetic sleeping bags.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14634120375" title="Mountain Equipment Aurora Synthetic Sleeping bag by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3861/14634120375_8be8531d7c_b.jpg" width="768" height="1024" alt="Mountain Equipment Aurora Synthetic Sleeping bag"></a>
+
+## PrimaLoft
+
+[PrimaLoft](http://www.primaloft.com/uk/performance/home.html) showed off their Performance Down Blend material, a material that combines European down (EDFA and ADFC monitored) with PrimaLoft microfibres. The down is given a PFC-free water-repellent coating and then is *bound homogenously with the ultra-fine PrimaLoft® fibers that root the water-repellent qualities permanently in the fibers so they cannot be washed out.* It's supposed to retain its structure even when wet and more than 90% of the heat is still stored then, too. It's bluesign certified and I got a down short with the material here so will put those claims to the test in a bit - right now it's a bit too hot to wear them.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719184525" title="Primaloft Performance Down Blend Insulation by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5553/14719184525_30a0bf9329_b.jpg" width="768" height="1024" alt="Primaloft Performance Down Blend Insulation"></a>
+
+## Rab
+
+The [Rab](http://rab.uk.com/) Guidebook was hands down the best workbook/ catalogue I was given at the entire fair. Five Rab athletes tell stories in it, and Rab highlights six clothing systems in it. Gorgeous photos, superb layout and typography choices, these are the small highlights at the fair which delight me. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14531665589" title="Rab 2015 Guidebook by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3871/14531665589_dc52bccf53_b.jpg" width="1024" height="768" alt="Rab 2015 Guidebook"></a>
+
+Oh, the gear from them wasn't bad, either. The Polar Bedding Bag allows you to store your sleep system largely uncompressed on top of your pulka. I can see how you can use this even as a groundsheet in a snow cave or similar - just throw the Polar Bedding Bag in, open the zipper and lay down in bed. It's a 800 g heavy item, so you really will want to have that pulka to transport it. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447698807" title="Rab Polar Bedding Bag &amp; Pulk Bag by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2927/14447698807_98fe2b4331_b.jpg" width="1024" height="768" alt="Rab Polar Bedding Bag &amp; Pulk Bag"></a>
+
+The MeCo shirts get updated colours including striped versions, but most importantly now all garments will also be available in a women's fit. So get ready to give your better half a lovely MeCo hoody, Meco Boxers and MeCo pants.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14634111675" title="Rab MeCo line by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2937/14634111675_387a9d0466_b.jpg" width="1024" height="768" alt="Rab MeCo line"></a>
+
+The Vapour-rise family has gotten a couple of additions with the Women's Vapour-rise Flex Jacket and for men there will be the Vapour-rise Flex Pull-On, Flex Vest and Flex Jacket. These use, as you might guess from the name, Vapour-rise in the front and back with stretch side panels. These are more minimalist and will tip the scales at 180 g for the vest and 250 g for the Pull-On.
+
+The Ventus and Lunar (for the Ladies) Jackets pictured underneath are made from the Matrix SWS fabric with a Polygiene treatment. They're windshells that are breathable, have an under the helmet hood, thumbloops and weigh 335 g for the Men and 255 g for the Women. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447500928" title="Rab Ventus (front) and Lunar (back) Jackets by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3857/14447500928_214b6ffc6b_b.jpg" width="1024" height="768" alt="Rab Ventus (front) and Lunar (back) Jackets"></a>
+
+## Haglöfs
+
+The Swedes from [Haglöfs](http://www.haglofs.com/en-US/) have (re-)discovered L.I.M. and have created an outfit (pants, midlayer, shell jacket, shoes) and backpack with sleeping bag that's a mighty fine 1.492 g. Throw in your shelter and cooking system of choice and you could end up with a SUL setup. Costs for the outfit and gear will set you back probably an amount similar to the weight, but lets ignore the money for a moment and concentrate on the fact that here's a global outdoor company that has created a very light outfit, sleeping bag and backpack. While we have seen many UL attempts in the past from several companies it often were stand-alone pieces - a windjacket here, a light pants there. But here you get a complete outfit, in rocking materials and colours if I may say so. That's pretty nifty.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14532836337" title="Haglöfs L.I.M. by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3838/14532836337_c54a6fc73c_b.jpg" width="768" height="1024" alt="Haglöfs L.I.M."></a>
+
+OK, lets look a bit at the different components. The L:I:M: Down sleeping bag uses a 7D shell fabric and 800 cuin, bluesign certified down. It's 473 g and has no zipper, but the foot box is open so you could just slip it over your head. Or walk with your sleeping bag outside at night when you can't hold it anymore (pull it up before you let it run, though). It has a +6°C Comfort rating so is something for those sumer hikes.
+
+The L.I.M. Low shoe weighs 220 g in UK Size 8. It has a 5 mm heel drop, some rear cushioing, a water-repellant mesh upper (water-repellant mesh?) and the idea is, yes, fast hiking. The sole looked and felt grippy and it's a super flexible shoe.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14739134983" title="Haglöfs L.I.M. Low by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3839/14739134983_d7163b9ce1_b.jpg" width="768" height="1024" alt="Haglöfs L.I.M. Low"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14532619168" title="Haglöfs L.I.M. Low by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3887/14532619168_32f0b71853_b.jpg" width="1024" height="768" alt="Haglöfs L.I.M. Low"></a>
+
+The L.I.M. Wind Pull is a 65 g (Size L) wind shirt, made from a 7D fabric. It has a DWR coating so will be a bit water-repellant. It has a hood and a long zipper and even a zippered Napoleon pocket. The 175 g (Size L) L.I.M. II Trek Pant are made from a polyamide/ polyester double weave fabric that's bluesign certified. UPF 30, quick-drying and comfy, soft feeling on the skin. Nice. Then there's the Midlayer, the 155 g (Size L, you guessed it)  L.I.M. Power Dry Top. It uses Polartec PowerDry fabric, that awesome material that wicks sweat super-fast away and makes you feel dry and warm. Long zipper, zippered chest pocket. Besides the garments there's several shell jackets and pants, down and synthetic insulation jackets, a softshell, shorts, T-Shirts and longsleeves and a hoody - all very light: The heaviest L.I.M. garment is the Active Jacket which weighs 350 g. 
+
+And then there's still the L.I.M. backpack. 355 g, frameless, 25 l volume (it felt bigger), a good compression system, a zippered lid pocket and two elastic side pockets, this was a high-riding pack that felt pretty good. How it really carries with a UL load and a week's food we'll need to test.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14739136043" title="Haglöfs by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5561/14739136043_371e8c4fbf_b.jpg" width="768" height="1024" alt="Haglöfs"></a>
+
+## Suunto
+
+[Suunto](http://bit.ly/1qInObH) launched the Ambit3 Peak and Sport. For us outdoor-types the Peak is of interest, though both are Bluetooth compatible. The Movescount app will get an update shortly which will allow you to update Movescount on the go via your iPhone or iPad. The watch itself can also communicate with the new Bluetooth accessories and has the ABC and GPS tools you know from the Ambit already. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14716413881" title="Suunto Ambit3 Peak by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3838/14716413881_52151886fa_b.jpg" width="768" height="1024" alt="Suunto Ambit3 Peak"></a>
+
+## La Sportiva
+
+[La Sportiva](http://lasportiva.com/) has won a OutDoor Award with their Primer GTX shoe, which is a 390 g (per shoe) Gore-Tex Surround shoe. The *SURROUND technology guarantees unequalled breathability, thanks to the breathable surface that makes up the upper and the midsole*. That cool, H.R. Giger-esque look also has some function, and is called a Nano-Cells construction method. These should be breathable cells, give structure to the shoe and promote the elimination of humidity. It's like you have an alien on your feet! The Primer GTX is a traditional lacing shoe while the Synthesis GTX is amid-cut boot with a quick-lace system (and is 395 g per shoe). Both have Ortholite insoles and Vibram soles that look grippy. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14533217647" title="La Sportiva Primer GTX by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3887/14533217647_dbee305e7a_b.jpg" width="1024" height="768" alt="La Sportiva Primer GTX"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14716481631" title="La Sportiva Primer GTX by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2914/14716481631_ce2063e5cb_b.jpg" width="1024" height="768" alt="La Sportiva Primer GTX"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14532989860" title="La Sportiva Synthesis GTX by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3902/14532989860_7c1021720b_b.jpg" width="1024" height="768" alt="La Sportiva Synthesis GTX"></a>
+
+The Genius is the Italians latest climbing shoe and is made for sport, trad, free climbing and normal to wide volume feet. The pair is 440 g, it has a 3 mm Vibram XSGrip2 sole and a suede leather combined with microfiber upper. The No-Edge technology means the the shoe adapts better to the rock because of the larger surface of the shoe that comes in contact with the holds.  The asymmetric lacing system should make for a good fit and the P3 stands for Permanent Power Platform which should make the shoe more long-lasting as it helps with keeping the down-turned shape over time.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14716484481" title="La Sportiva Genius by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3890/14716484481_d4ffa00fe8_b.jpg" width="1024" height="768" alt="La Sportiva Genius"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14532991300" title="La Sportiva Genius by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5583/14532991300_b996eaab95_b.jpg" width="1024" height="768" alt="La Sportiva Genius"></a>
+
+The Mutant is a new Mountain Running shoe. 320 g per shoe, 10 mm drop, a FriXion XF ultra grippy sole and an integrated gaiter, it looked like a very fine shoe for running or lightweight hiking. The lacing system is called FusionGate and allows for volume regulation in the heel and foot adherence. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719654535" title="La Sportiva Mutant by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3914/14719654535_825cd600fb_b.jpg" width="1024" height="768" alt="La Sportiva Mutant"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14532987820" title="La Sportiva Mutant by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2924/14532987820_b7906fc1bd_b.jpg" width="1024" height="768" alt="La Sportiva Mutant"></a>
+
+Finally, the Helios SR is a 240 g, 2 mm drop shoe. Mesh uppers for breathability, a 4 mm Ortholite Mountain Running Ergonomic insole, again a FriXion XT ultra grippy sole for grip on any terrain and a slip-on construction, it's an interesting, lightweight shoe.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14739510563" title="La Sportiva Helios SR by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3888/14739510563_daf06150b3_b.jpg" width="1024" height="768" alt="La Sportiva Helios SR"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719655505" title="La Sportiva Helios SR by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2925/14719655505_d1070cabbf_b.jpg" width="1024" height="768" alt="La Sportiva Helios SR"></a>
+
+## Montane
+
+[Montane](http://www.montane.co.uk/) has established itself since a while as a serious company when it comes to lightweight, durable and functional garments. Their 2015 line continues with these premises. The Featherlite Shell Jacket with eVent DVStorm membrane technology weighs 298 g in Size M and is a fully featured alpine climbing shell. It will give you the freedom of movement and protection you need during stormy ascents or even climbing the sky, as I so aptly demonstrate here.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719577775" title="Montane Featherlite Shell Jacket by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2922/14719577775_94dd174a9d_b.jpg" width="768" height="1024" alt="Montane Featherlite Shell Jacket"></a>
+
+The Habu 22 is one of two new Montane packs for women (the other one is the Yarará 32). It's 917 g light and is a versatile pack that's suited to any activity you might want to do with it: Strap your ice tools to it and go ice climbing or take it on a summer ultra distance run. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14717190954" title="Montane habu 22 pack by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2931/14717190954_cb11afd2a5_b.jpg" width="768" height="1024" alt="Montane habu 22 pack"></a>
+
+The Rapide Softshell Jacket has a hood that stows away in the collar. On your head it has a snug fit and won't flap annoying around while you're running in the drizzle, and it weighs 346 g. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14696579336" title="Montane Rapide Softshell Jacket by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3847/14696579336_a95a2dacc9_b.jpg" width="1024" height="768" alt="Montane Rapide Softshell Jacket"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14739441003" title="Montane VIA by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5589/14739441003_2bb89e79b7_b.jpg" width="768" height="1024" alt="Montane VIA"></a>
+
+## NEMO Equipment
+
+[NEMO Equipment](http://www.nemoequipment.com/) has 8 new tents coming out in 2015, one tarp, and a whole bunch of more gear. The Dagger 2P is a 1,6 kg two person tent with two doors and two vestibules. Features include an overhead pocket light and a privacy panel on the inner tent. It did look nice and 1,6 kg for a 2P tent is reasonable. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14697110576" title="NEMO Equipment Dagger 2P by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5581/14697110576_b2c26b1973_b.jpg" width="1024" height="768" alt="NEMO Equipment Dagger 2P"></a>
+
+However, the Blaze 2P (that name reminds me of a club I used to go as a student =) is a 2P tent with a minimum weight of 910 g. That's already a serious number for ultralighters. Add in that there's two doors and also two vestibules and it's much the same as the Dagger above, just lighter! It's achieved by the pole construction - there's one pole that goes corner-to-corner while a short pole on top creates a large interior living space. NEMO says they will be waterproof, durable and tear-resistant, so this really could be a interesting 2P tent to check out next year.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14716926531" title="NEMO Equipment Blaze 2P by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3851/14716926531_9fa14bef3f_b.jpg" width="768" height="1024" alt="NEMO Equipment Blaze 2P"></a>
+
+But NEMO Equipment also makes quilts and sleeping bags. The Tango Solo 30 (there's a Tango Duo, too) is their new quilt. 810 g light, filled with 330 g DownTek treated 700 cuin down it has a comfort rating of -1°C. Interesting was the hood which you can slide under your pad and then connect the quilt to it via push buttons, this way the quilt stays in place and possibly drafts are minimized.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14697110626" title="NEMO Equipment Tango Solo 30 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3854/14697110626_df8e65e34d_b.jpg" width="1024" height="768" alt="NEMO Equipment Tango Solo 30"></a>
+
+## Black Diamond
+
+[Black Diamond](http://blackdiamondequipment.com/) had a load of new gear so here some highlights. The ladies get a [Alpine Start Hoody](http://hikinginfinland.com/2014/05/black-diamond-alpine-start-hoody.html) and the Men some new colours.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14533609139" title="Black Diamond Women&#x27;s Alpine Start Hoody by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2915/14533609139_3a213a6a2a_b.jpg" width="768" height="1024" alt="Black Diamond Women&#x27;s Alpine Start Hoody"></a>
+
+The [Distance Carbon Z](http://hikinginfinland.com/2014/05/black-diamond-ultra-distance-trekking-poles.html) got a new hand loop and the Distance Carbon FLZ gets a FlickLock Pro in addition, giving it a very compact pack size and an easy way to adjust the length. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14533598410" title="Black Diamond Distance Carbon Z by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3842/14533598410_a1a7a9d110_b.jpg" width="768" height="1024" alt="Black Diamond Distance Carbon Z"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14740126313" title="Black Diamond Distance Carbon FLZ by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5574/14740126313_ec1f593913_b.jpg" width="1024" height="768" alt="Black Diamond Distance Carbon FLZ"></a>
+
+The Index is their new ascender. It has a trigger-finger slot to help you manipulate the cam for easier operation, a dual-density grip and a large clip hole lets locking carabiners rotate 360-degrees to eliminate the possibility of cross loading. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14533829157" title="Black Diamond Index by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5588/14533829157_d50b4bdfeb_b.jpg" width="768" height="1024" alt="Black Diamond Index"></a>
+
+The Axis 24 is a technical all-mountain daypack and features a zippered top-loading design and the reACTIV suspension for added comfort. Crampon straps, ice tool pocket and attachment, hydration compatible, removable hipbelt.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14717090941" title="Black Diamond AXIS 24 by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2900/14717090941_ebd36bbb50_b.jpg" width="768" height="1024" alt="Black Diamond AXIS 24"></a>
+
+The Pipe Dream 45 is a crag pack that carrie sall your kir and functions then as a start pad for bouldering or a place to keep your gear spread out and not get dirty.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14697277536" title="Black Diamond Pipe Dream 45 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3887/14697277536_bdc5fd31fe_b.jpg" width="768" height="1024" alt="Black Diamond Pipe Dream 45"></a>
+
+## Exped
+
+The Swiss brand [Exped](http://www.exped.com/finland/) had a wide selection of new gear. The Summit Lite 15 is new for 2015 and is the small brother of the already available Summit Lite 25. The 15 weighs 290 g and the 25 310 g, both pack flat away in the lid in a minute. They're made of Triple Ripstop Nylon and have Daisychains and once ice axe look, so are well suited to work as a summit pack. There's even a stretch outside pocket!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719889682" title="Exped Summit Lite 25 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3926/14719889682_18a3f743da_b.jpg" width="1024" height="768" alt="Exped Summit Lite 25"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719889332" title="Exped Summit Lite 25 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3907/14719889332_a1342a393a_b.jpg" width="601" height="1024" alt="Exped Summit Lite 25"></a>
+
+The Thunder comes in a 50 and 70 l volume size, and does remind me a bit of past GoLite packs. These 1400 g or 1490 g respectively, three entries to the main compartment stretch mesh side and front pockets and side compressison straps which also can be used across the front. Maybe something for long backcountry trips where you carry a lot of food?
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14717014571" title="Exped Thunder 50/ 70 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3849/14717014571_264b458a01_b.jpg" width="768" height="1024" alt="Exped Thunder 50/ 70"></a>
+
+The Downmat TT is an expedition pad with interchangeable insulation tubes. It's pretty versatile: You can adjust the width by leaving tubes out choose between down or synthetic tubes for the insulation you need for the trip in question. The regular length (184 cm) is 840 g and has an R-Value of 8. It has five years of warranty and the Octupus Inflation bag is included. You'll pay 260€ for the M length.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14740047243" title="Exped Downmat TT by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5594/14740047243_8a988fb301_b.jpg" width="768" height="1024" alt="Exped Downmat TT"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14719883982" title="Exped Downmat TT by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3922/14719883982_945e363f89_b.jpg" width="768" height="1024" alt="Exped Downmat TT"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14533743397" title="Exped Downmat TT by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5592/14533743397_e44104c693_b.jpg" width="1024" height="768" alt="Exped Downmat TT"></a>
+
+Lighter and likely more interesting for the majority of readers here is the Winterlite pad. The 180 cm long pad is 495 g light and has the same R-Value as the Expedition TT: 8. It's claimed to keep you insulated down to -38°C and has a small pack size, too. It comes with a nozzle pump sack which also works as the stuff sack and will start at 220€.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14533742847" title="Exped Winterlite by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3910/14533742847_7000b0ed9e_b.jpg" width="768" height="1024" alt="Exped Winterlite"></a>
+
+The Synmat Hyperlite is 330 g light in 180 cm length and has still an R-Value of 3.1. The pack size is pretty good too as you can see, and it will cost 150€.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14720185875" title="Exped Synmat Hyperlite by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3856/14720185875_9558534b17_b.jpg" width="1024" height="430" alt="Exped Synmat Hyperlite"></a>
+
+Finally, SIM Hyperlite is a self-inflating pad that come sin three sizes. An R-Value of 3.2 keeps you warm till -5°C and with a weight of 370 g for the Torso length mat it's still lightweight (the 183 cm long pad is 520 g). They'll cost between 80 and 100€.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14720185865" title="Exped SIM Hyperlite by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2930/14720185865_1f9ebb0f42_b.jpg" width="1024" height="551" alt="Exped SIM Hyperlite"></a>
+
+## NW Alpine
+
+[NW Alpine](http://nwalpine.com/) hails from Portland, Oregon and is one of many innovative companies from that area. The Eyebright Jacket I'm wearing there is a breathable cuben fibre jacket that tips the scales at 140 g. It has a climbing-specific fit and will get some minor updates for the next season. Other new garments include a Polartec Alpha Hoody, Jacket and pants, a couple of normal pants, a new Men's and Women's WPB Jacket and several more garments - all made in Portland. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14720887991" title="NW Alpine by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5594/14720887991_aca22fc1b9_b.jpg" width="768" height="1024" alt="NW Alpine"></a>
+
+## Vargo
+
+On the shuttle bus from the Airport to Friedrichshafen I had the good luck to sit next to Brian [Vargo](http://www.vargooutdoors.com/) and so we had a interesting discussion during the two hour ride to the fair grounds. During the weekend I then swung by to see the new gear he already had told me about on the bus, and it was good stuff. The Ti Flask with an integrated silicone funnel which fold down when not needed certainly was cool and I can see the use of this on long winter treks. Tasty Scottish whisky from a Ti flask? Yes please.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14683328433" title="Vargo by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3901/14683328433_8abe12d25a_b.jpg" width="768" height="1024" alt="Vargo"></a>
+
+The Ti running crampons should be around 60 g for one and fold up when not needed. Eight spikes under the front and middle foot give grip on ice and snow and are easy to take off/ put on. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14476803118" title="Vargo Ti Running crampons by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5512/14476803118_06276d920a_b.jpg" width="1024" height="768" alt="Vargo Ti Running crampons"></a>
+
+The Titanium external Frame with cuben compartment is 940 g light. Certainly a product for a very limited audience but I totally can see a market for it. You can strap a bear canister to the bottom and generally lash gear to the frame. The frame was comfy to wear and is the same as in the [Ti-Arc pack](http://www.vargooutdoors.com/ti-arc-backpack.html) which has a pack from another material. Packrafters, hunters and bushcrafters and people who head for long time into the wild are most likely to find this pack attractive. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14476979387" title="Vargo by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5527/14476979387_b7dd79be8f_b.jpg" width="768" height="1024" alt="Vargo"></a>
+
+And then there was [Titanium apparel](http://www.vargooutdoors.com/apparel.html). Sadly it doesn't make you Iron Man or his Titanium Brother, but it claims it has some good benefits like staying non-smelly and dry. Tests will show if this will be the case, though it's an interesting development. Every UL backpacker loves Titanium, and the idea to wear it just plain awesome. 
+
+**Enjoyed this?** Follow along on [Facebook](http://facebook.com/hikinginfinland), [Twitter](https://twitter.com/hendrikmorkel) and [Google+](https://plus.google.com/u/1/b/105082905705272949032/105082905705272949032/posts). More photos you can find on the [Flickr OutDoor 2014](https://www.flickr.com/photos/hendrikmorkel/sets/72157645582553771/) set. 
+
+<a href='http://ko-fi.com?i=8d16909703c77d0' target='_blank'><img style='border:0px' src='http://ko-fi.com/img/button-1.png' border='0' alt='Buy Me A Coffee :) @ ko-fi.com' /></a>

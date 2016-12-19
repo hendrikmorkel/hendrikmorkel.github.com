@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Planning a Trip in the Lake District"
+date: 2014-04-28 19:14
+comments: false
+keywords: Trip planning, maps, Lake District, England, Great Mountain Days in the Lake District, Pictorial Guide of the Lakeland Fells, Ordnance Survey Lake District Maps, BMC Lake District Map
+description: The Lake District in England is a beautiful area for hiking and backpacking. This article helps you to plan fine walks in the region, be it day hikes or a traverse!
+categories: [books, maps, planning, Lake District, England]
+published: true
+---
+
+The Lake District in [England](http://www.visitengland.com/) is a beautiful area for hiking, backpacking, climbing and scrambling. While the area might seem small there's hundreds of different paths up the fells and mountains, and an equally large amount of fine pubs, B&Bs and Hotels where you stay and get some after-walk refreshments or spend the night. This makes planning a Lake District hike something that can seem overwhelming - but fear not, it's not that difficult! In this handy article I highlight some of the best books and resources to plan your next Lakeland adventure.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13982573296" title="Sign up Sca Fell by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7383/13982573296_379bef8909_b.jpg" width="1024" height="680" alt="Sign up Sca Fell"></a>
+
+<!-- more -->
+
+## Books & Paper Maps or Blogs & GPS?
+
+That's a question you will need to answer yourself first. Both have their advantages - blogs and some digital maps are free to use and so you don't need to spend a lot of money on planning your hike. But as there's no pleasure like anticipation planning with paper maps and a few good books is at least for me the way to go. I like to spread out the maps, look for routes, read up on nice walks, and then maybe look up some things online. You also can carry along a paper map and book without needing to worry that the batteries run out on a multi-day hike!
+
+In the end it's as always: A smart combination of both make planning your trip a lot easier. Maybe you have seen some nice mountain panoramas in a blog that you'd like to see for yourself, or an article on a website has sparked your interest for a certain area. That's a great starting point to plan your hike. If on the other hand you have no clue about the Lake District then a good book can give you that inspiration to spark your planning and make arrangements a lot easier. 
+
+*For my planning I used pretty much exclusively books and paper maps. I try to spend less time in front of a computer screen, so taking a book and reading was not just relaxing for me, but also gave me so many hills, views, and sights I wanted to include in my trip that I had a hard time fitting them all in. I had six mountain days, and **I wanted to see a lot**. So early on I decided to make a traverse - hike from one side of the Lake District to the other.*
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14046349912" title="Start your Lake District planning adventure! by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2909/14046349912_c06ed000cd_b.jpg" width="1024" height="576" alt="Start your Lake District planning adventure!"></a>
+
+## Great Mountain Days in the Lake District
+
+This [Cicerone](http://cicerone.co.uk/) book is an absolute recommendation. While a book about day walks might seem an odd choice for a Lake District traverse, it was a superb inspiration. Of the 50 described walks I ended up walking parts of 14 of them, be it for a view I wanted to see, a scramble I wanted to do, a Pub I wanted to visit or - you guessed it! - a summit I wanted to bag. The book has beautiful photos which will get you super-excited for the Lakes, and has detailed Harvey Maps with a Wainwright Pictorial Diagramm of the route thrown in too. If you do the hikes as they're intended you almost could rely solely on the book for navigation (though I highly recommend you take a real map with you). 
+
+It describes the route in detail, illustrates it with the beautiful photos and has the map and Wainwright drawing to help you find you way. The fifty described walks are all absolutely stunning and I am a bit bothered that I only had six days to spend in the Lakes - thanks to this book I am certain I will be back in the future, and then head out for some of the described day hikes. 
+
+Get a copy [directly from Cicerone](http://www.cicerone.co.uk/product/detail.cfm/book/516/title/great-mountain-days-in-the-lake-district#.U15IzeaSyIc), at your local book shop or online at [Amazon.co.uk](http://amzn.to/1hGIA59), [Amazon.com](http://amzn.to/1itpNpQ) or [Amazon.de](http://amzn.to/1rwFkL3).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14001648741" title="Great Mountain Days in the Lake District by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5447/14001648741_50b9def0e1_b.jpg" width="1024" height="680" alt="Great Mountain Days in the Lake District"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14005267824" title="Great Mountain Days in the Lake District by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2932/14005267824_12711128da_b.jpg" width="1024" height="680" alt="Great Mountain Days in the Lake District"></a>
+
+## A Pictorial Guide of the Lakeland Fells
+
+It is a rubbish planning guide that does not mention Alfred Wainwright's work. The complete [Wainwright Pictorial Guides](http://franceslincoln.co.uk/wainwright-pictorial-guides-boxed-set) from [Frances Lincoln Publishers](http://franceslincoln.co.uk/) is a gorgeous work of art that not just looks superb on any hill walkers bookshelf, but is even more useful in a hikers hands while he walks up a valley to bag his first Wainwright - the mountain tops named after the author. The seven books in this boxed set are all works of art and the first thoughts that crossed my mind when I opened the books was that these look as gorgeous as some of Tolkien's books. Just that in this case the maps, hills and forests are real and not fantasy. 
+
+In 13 years Wainwright wrote the Pictorial Guide of the Lakeland Fells, and as I arrived in Windermere and climbed Orrest Head it was with some sadness that I looked back on the Hills and Lakes that I just walked through these past days. At the same spot there is a small plaque naming the panorama that opens up to you from Orrest Head, which also was the first hill Wainwright walked up on his first outing to the Lakes. These books are beautiful and very useful, and while they miss photos the drawings more than make up for that - indeed, it's the lack of them that makes these guide books so wonderful. They're very detailed books, and I spotted quite a few of them up on the hills. They describe the routes, short cuts and scrambles up the hills, and what's very unique are the diagrams which describe the view you will have from the summit. These diagrams will help you identify the hills and mountains you're seeing, as well as the Lakes and tarns. Like me, you probably will find these books an inspiration and most useful resource for planning your Lakeland hike and might want to get the whole Boxed Set just so that you're set for your future Love-Affair with the Lake District.
+
+Get a boxed set or the single books from [Frances Lincoln](http://franceslincoln.co.uk/wainwright-pictorial-guides-boxed-set), at your local book shop or online from [Amazon.co.uk](http://amzn.to/1h6i5Wd), [Amazon.com](http://amzn.to/1foEyzw) or [Amazon.de](http://amzn.to/1isiKUi).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14004820125" title="The Pictorial Guide to the Lakeland Fells by A. Wainwright by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2940/14004820125_91a7056da2_b.jpg" width="1024" height="680" alt="The Pictorial Guide to the Lakeland Fells by A. Wainwright"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/13981823816" title="The Pictorial Guide to the Lakeland Fells by A. Wainwright by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2922/13981823816_e90ba33b97_b.jpg" width="1024" height="680" alt="The Pictorial Guide to the Lakeland Fells by A. Wainwright"></a>
+
+## Tour of the Lake District
+
+This book is useful for those who like to spend a week in the heart of the Lakes and not bother with tarps, quilts and boiling water for dinner and breakfast - in short, backpackers who value to spend the day outside in the hills and relax in the evening in a nice B&B, Youth Hostel or Hotel. The Tour of the Lake District book from [Cicerone](http://cicerone.co.uk/) offers you a loop of 149 km, separated into twelve stages which allows you to design your own itinerary. There's a high & low alternative so depending on the weather you can either bag some summits & enjoy the views or stay underneath the clouds. It has lots of useful info in it, and really is great if you want to experience both the sights & hospitality of the Lake District.
+
+Get a copy from [Cicerone](http://www.cicerone.co.uk/product/detail.cfm/book/496/title/tour-of-the-lake-district#.U15JDuaSyIc), at your local book shop or online at [Amazon.co.uk](http://amzn.to/1itqcIX), [Amazon.com](http://amzn.to/1fkPwX2) or [Amazon.de](http://amzn.to/1k2T0t0).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14001623362" title="Tour of the Lake District by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7185/14001623362_b6a029af36_b.jpg" width="1024" height="680" alt="Tour of the Lake District"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14001645291" title="Tour of the Lake District by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5330/14001645291_ab62bdda1a_b.jpg" width="1024" height="680" alt="Tour of the Lake District"></a>
+
+## Ordnance Survey Lake District Maps
+
+These were the maps I used to plan my traverse. They're available in two versions: A [standard paper version](https://www.ordnancesurvey.co.uk/shop/explorer-map-the-lake-district-south-eastern-area.html) and a weatherproof active version. With a scale of 1:25.000 (4 cm = 1 km) they are very large and detailed maps which are ideal for planning. For my traverse the three maps I would have needed would have been to heavy for my liking, but if you are going to explore the Lake District from one location then these certainly would be my map of choice. There's more details and paths on theOS maps than in the BMC map, and if you plan to do a lot of off-trail walking, fell-running or orienteering then I'd recommend these hands down. For my planning I really was happy to make use of these: I had them spread out (all four of them!) on the floor in my office and so could get a very good idea of where I'd like to go. Especially in connection with the Wainwright and Great Mountain Days books it is easy to lose track of time while thinking about where to go and what to see, trying to squeeze in just one more summit and one more view - so beware!
+
+Get the four maps bundle directly at [Ordnance Survey](https://www.ordnancesurvey.co.uk/shop/map-set-lake-district-explorer.html) with a 20% discount, at your local book shop or online at [Amazon.co.uk](http://amzn.to/1lZUJSr), [Amazon.com](http://amzn.to/1pVnF0F) and [Amazon.de](http://amzn.to/1lZUSFn).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13981715576" title="Ordnance Survey Lake District Maps by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5188/13981715576_e39b2b853c_b.jpg" width="1024" height="680" alt="Ordnance Survey Lake District Maps"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/13661393415" title="Old-school planning by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7080/13661393415_64de8e48ec_b.jpg" width="1024" height="768" alt="Old-school planning"></a>
+
+## BMC Lake District Map
+
+The BMC Lake District Map uses the Harvey Maps and comes in a 1:40.000 scale (2,5 cm = 1 km) and is printed on a waterproof material. It's durable, but after six days of folding in some areas the print has left which I found a bit annoying. With the larger scale you obviously lose some detail, but overall this is a superb map for hiking. If you're a climber you will appreciate that on this map also climbing crags are marked. For hikers and backpackers this is a very good map, even if my starting point of Ravenglass was missing (happily you can print out the missing bits from online maps or make a copy of the missing part from an Ordnance Survey map). Towns and cities only have the main streets on them so if you have difficulties navigating in urban environments you might want to open your phones' map app to find your way, but for the hills, valleys and moors this map does the trick. As it's waterproof you even can leave your map case at home! 
+
+Get a copy at your local book shop or online at [Amazon.co.uk](http://amzn.to/1rEd8rw), [Amazon.com](http://amzn.to/1j7kuku) or [Amazon.de](http://amzn.to/1lZV2N3).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14004824075" title="BMC Lake District Map by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2918/14004824075_c5ef1317d9_b.jpg" width="1024" height="680" alt="BMC Lake District Map"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14050000664" title="BMC Lake District Map up on Sca Fell by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5492/14050000664_7b48b92a0e_b.jpg" width="1024" height="680" alt="BMC Lake District Map up on Sca Fell"></a>
+
+## Digital Maps
+
+Walk Highlands has a free digital [map](http://walkhighlands.co.uk/maps/) of the Lake District which allows you to plan your hike. I haven't used this myself but have toyed with a map software from a UK map company in stealth mode, which has worked fine to get a good idea of where to go. If you navigate with a GPS or an app on your smartphone then this is certainly a good way to plan your walk and also comes in very useful when the mountains are covered in mist and you can not navigate by sight with map & compass. As for planning - I try to reduce the time spent in front of a screen so really liked to plan with the paper maps.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14048007905" title="Walk Highlands Map by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7092/14048007905_fc2731bc5f_b.jpg" width="1024" height="640" alt="Walk Highlands Map"></a>
+
+## Conclusion
+
+With a couple of these books and maps you won't run short of options on what to do on your next Lake District visit. The books give you valuable information on where to go, what to see and insider tips on exciting scrambles, short-cuts and views. The maps help you to plan your hike at home, and navigate on the ground in England. In fact, these resources deliver enough inspiration and information for a year of walking in the region, and even then you won't have seen it all!

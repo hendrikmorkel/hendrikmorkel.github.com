@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Ultralight Summit | Daytrippin'"
+date: 2012-09-18 10:41
+comments: true
+categories: [trip report, ULSummit, Slovenia]
+published: true
+---
+
+A month has passed since I returned from Slovenia, time I used to think about the event, gather feedback, read the excellent trip reports by other participants, and think about the next one. I know many of you have been waiting for this trip report, so fetch yourself a cuppa and hit *Read On ->* for Part I of this trip report.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7752879138/" title="Time for a ridge walk by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8436/7752879138_36b3da88f0_b.jpg" width="1024" height="449" alt="Time for a ridge walk"></a>
+
+<!-- more -->
+
+Sunday morning, 8:30 o'clock. I kiss my wife and son good bye, this being the first time that I won't see him for over a week since he was born last year. With mixed feelings I walk to the railway station in Vaasa, get a ticket out of the machine and board the train. iPad in hand, Instapaper fully loaded with plenty of articles which were saved to be read later, the train rolls out of the station, soon passing fields, lakes and forests. My mind is less on the articles in front of me, but more on the trip ahead - *Did I pack everything? Do I have my spoon? Will the new shoes be fine? How will it be to not see my family for eight days?*
+
+Fast forward twelve travel hours, and I step out of the airport in Ljubljana. [Velimir](https://twitter.com/vkemec), our Slovenian co-organizer, waits for me, and I ride with him, his son and wife to their flat in Kranj, where I am offered a shower and sweet dumplings. I also meet [Benjamin](https://twitter.com/benjaminkelley), who travelled from the USA to go hike with us, and [Thomas](http://goinglighter.blogspot.com), who came from closer by Norway and whom I have met earlier. After shower and food gear is re-packed, and the gear talk commences. We continue to talk as we jump into Velimir's car and drive off into the dusk. The evening is still warm, and the twilight shines over the distant mountains. Velimir tells us the names of the different peaks, which we will be seeing up close in this coming week.
+
+But first we pick up Philip and [Marius](https://twitter.com/mariusheiland) from along the road. We squeeze with four on the back bench, arranging who will duck in case a police car passes us, and head to Bohinjska Bistrica, where we stay for the night at the camping place. We wake [Steven](https://twitter.com/stevenhorner) and [Traci](https://twitter.com/traci_howarth) from their TrailStar and after a welcome head to the small bar after five more UL shelters went up.
+
+There's some unfortunate news: [Jotaro](https://twitter.com/jotaro_yoshida) and [Tatsuya](https://twitter.com/bmp) missed their connection flight in Paris (coincidentally Benjamin's luggage also was lost in Paris), so we discussed what to do. The easy decision was to wait for them till Tuesday morning, the more difficult one was how to adapt our plan. The Solution: *Daytrippin'*. Doing part of what we planned to hike on Day One as a day hike, get acclimatized, and see how we work as a group. The plan is to go up to Crna Prst, onwards along the ridge to Mt. Rodica, then down to the valley from where we can hail a cab or walk back to Bohinjska Bistrica, if we're still capable. Decided, done. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751491946/" title="Flowers, bee and mountains by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7130/7751491946_3a33e125aa_b.jpg" width="1024" height="563" alt="Flowers, bee and mountains"></a>
+
+Monday morning we're all up early, and showers are visited. Several stoves make an appearance, as water is boiled for breakfasts. Our colourful arrangement of UL shelters gather the views of our neighbours, who in their massive family tents and camper vans dwarf our habitations several times. Still, try taking that up a hill and find a good place to pitch it! After breakfast we walk together to town, where we visit a supermarket for much-needed groceries: Cheese, sausages and salami, torillas and bread, fruits and local candy are puchased for the days ahead. We won't starve, that's for sure. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7987723341/" title="Cows by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8039/7987723341_e5f946a17b_b.jpg" width="1024" height="680" alt="Cows"></a>
+
+Back at camp we start packing for our day trip. Philip and me share a backpack, as I rather not would carry my Porter for just a bit of food, water and a jacket. It's a good arrangement, as we found during the trip, and a few others did the same. It's quarter to ten when we leave the campground and head for the trail head, through the little town of Bohinjska Bistrica. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7987850302/" title="Crna Prst by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8449/7987850302_c1c22dbe14_b.jpg" width="1024" height="680" alt="Crna Prst"></a>
+
+We reach the trail head without consulting map or compass, and head through the gate. We wander over a forest road along fields, from where the smell of cow poo rises, and then take a turn into the forest. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751496934/" title="Up by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7279/7751496934_f2be74de50_b.jpg" width="1024" height="487" alt="Up"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751518266/" title="Further up by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8299/7751518266_d45f02d8f1_b.jpg" width="1024" height="680" alt="Further up"></a>
+
+It's a lovely path, slightly washed out from the rain in parts, but once those parts are passed we continue on a nice, albeit rocky path through the forest and past small meadows up. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751517482/" title="Arrow by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8434/7751517482_438e488d56_b.jpg" width="1024" height="680" alt="Arrow"></a>
+
+[The Guidebook](http://hikinginfinland.com/2012/08/the-julian-alps-of-slovenia.html) wrote that along the trail would be an abundance of wildflowers which would be breathtaking and beautiful in their variety and colour. Maybe that put my expectations slightly too high, because I was a bit underwhelmed by what was on display. Which wasn't bad, but the book made me expect more. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751534778/" title="Magic forest by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8448/7751534778_8cb0b606cd_b.jpg" width="1024" height="680" alt="Magic forest"></a>
+
+The forests, however, were spectacular. As we got higher, we wandered through a beautiful broad-leafed forest in our run for the summit, with big boulders between the trunks. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7987764800/" title="Brotzeit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8181/7987764800_7e173c08f6_b.jpg" width="1024" height="768" alt="Brotzeit"></a>
+
+After two hours we make it to the first hut, where we sit down outside and snack. Everyone looks happy, and joyous banter erupts around the table. Bottles are refilled with water from the pump in the nearby meadow, and it takes some balancing skills to do so as cow poo and water obstruct the way. Well rested the eight of us continue upwards, through more forests, until we leave the tree line beneath us and are out in the open.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7987847780/" title="Boulder hopping by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8037/7987847780_7711bfa758_b.jpg" width="1024" height="680" alt="Boulder hopping"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751561958/" title="Winding path by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8295/7751561958_2a8b8bc6d9_b.jpg" width="1024" height="577" alt="Winding path"></a>
+
+Early down in the village I asked about the speed of the group: Shall we go as fast as the slowest member, or does everyone go at their own pace and the faster ones wait every now and then for the group to re-group? The latter option was chosen, or evolved, and worked well I think. 
+<a href="http://www.flickr.com/photos/hendrikmorkel/7751630090/" title="Slovenian Time by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8297/7751630090_225199d296_b.jpg" width="1024" height="621" alt="Slovenian Time"></a>
+
+We made it to the pass after some three hours, and waited for everyone to catch up. Another 15 minutes to the hut and summit, Velimir told us, while the clouds started to sweep by us, making the wide views we hoped for down to Bohinjska Bistrica and beyond not possible. At least the other side of the pass gave us plenty of fine views, and up here there were indeed quite a nice assortment of wild flowers.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7752667890/" title="Enter the clouds by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8440/7752667890_8b0a64890d_b.jpg" width="1024" height="484" alt="Enter the clouds"></a>
+
+We continue towards the Crna Prst summit and the hut, Dom Zorka Jelincica, underneath it. Covered in clouds we take a group summit photo of our first Ultralight *Summit* and then head towards the hut, a reconstituted barrack. What it lacks in charm and affordable food & drinks it makes up for by giving us shelter from the wind which makes it easier for us to decide how to continue. Benjamin and Thomas feel a bit tired from the ascent/ don't feel too well, so they'd like to descent back to the camping place the same way we came, while Steven, Traci, Marius, Philip and me are up for a ridge walk to Rodica and then down from there. Velimir decides to go down with Benjamin and Thomas, and so the five ridge walkers pack up and leave. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7987847322/" title="Crna Prst Summit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8173/7987847322_3e7307f5e1_b.jpg" width="1024" height="680" alt="Crna Prst Summit"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7987843629/" title="Hut on Crna Prst by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8034/7987843629_6c9e48332b_b.jpg" width="1024" height="681" alt="Hut on Crna Prst"></a>
+
+We're in luck, too, as the weather improves. The Guidebook said this would be a *fine ridge walk with some exposed scrambling* and I have to agree. However, it looked harder as it actually was. It's the mental side which played games on me here, as one part of the ridge looked pretty sketchy, and my mind was looking for reasons why I should turn around. In the end there were no seriously sketchy parts, as the path didn't run right on the crest but slightly underneath it, thus there was nothing to worry about - once you knew.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7992302673/" title="Slovenian time by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8321/7992302673_8fa2d30114_b.jpg" width="1024" height="680" alt="Slovenian time"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7752915752/" title="Mountain trail by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8306/7752915752_3bb4501e76_b.jpg" width="1024" height="453" alt="Mountain trail"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753015682/" title="Sun and shadow by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7118/7753015682_f1ca2566e2_b.jpg" width="1024" height="680" alt="Sun and shadow"></a>
+
+We summited Matajurski vrh on the way, which took us a bit of the path, but the mountain was covered in Edelweiss, that beautiful flower of the Alps, and a nice peak to go a bit off-trail for. Back on the path - we didn't want to take another shortcut - I also spotted the Zois Bellflower, a flower unique to the Julian Alps, and which grows directly out of the rock. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7992324507/" title="Edelweiss by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8458/7992324507_e67d06e9e7_b.jpg" width="1024" height="680" alt="Edelweiss"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753029838/" title="Zois Bellflower by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7276/7753029838_a2b0980e48_b.jpg" width="1024" height="680" alt="Zois Bellflower"></a>
+
+The weather improves as we hike, and while a few clouds fly overhead us, the sun is mostly our companion. We realize this, as our water supplies start to run low. But still we got enough, and as we stand on the summit of Rodica - three and a half hours after we left the hut - we enjoy the view, and almost can see Triglav in the distance. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753046100/" title="On the summit of Rodica by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7113/7753046100_aa6021b7f8_b.jpg" width="1024" height="681" alt="On the summit of Rodica"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753067930/" title="Down by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7121/7753067930_68583b97b7_b.jpg" width="1024" height="681" alt="Down"></a>
+
+Now we'll just need to go down and get back to Bohinjska Bistrica. *Head onwards towards the meadow and then go down - you can't miss it* were Velimir's words, and so we continue past grazing cows on sunny meadows towards the path which will let us descent these 1400 meters which need to be hiked still. Glad I took a pole, I think. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753089770/" title="Side light by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8285/7753089770_1662a0da03_b.jpg" width="1024" height="464" alt="Side light"></a>
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753090722/" title="Black Diamond Ultra Distance Z-Poles by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8444/7753090722_305dc0cd69_b.jpg" width="1024" height="557" alt="Black Diamond Ultra Distance Z-Poles"></a>
+
+Not being used to descents, I find it not too difficult really, though a smooth path is something different. Rocks of various sizes, from gravel to fist big and larger, are on our path down, and a small slip here and there is common among all five of us. We reach a meadow with a few huts and ruins after what felt like half an hour, and I go around looking for water - unsuccessful. Even the little stream which is marked on our maps is dry - and wet feet would have been welcomed. 
+
+And so we descent further down. The forest has us back, which means together with the sun, which decided to stay up and behind some mountains, that it is less light. No problem yet, though. It is only around 19 o'clock, and the descent should be *like two hours*. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7998978936/" title="Forest by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8455/7998978936_62134a7a89_b.jpg" width="1024" height="680" alt="Forest"></a>
+
+Two hours passed since we left the summit of Rodica, and there is neither an end of the trail nor water in sight. To some misfortune Traci has some problems with her ankle, and Philip's knee is making him trouble, too. I give Philip my trekking pole - he has more need of it now, and we all slow down. As I mention that it sounds like there's a river down in the gorge and I'd like a cup of it, Marius shares some water with Philip & me, for which we were very thankful as we ran out a while ago.
+
+It takes still another 30 minutes till we finally reach the source of the sound, a fine mountain stream of ice cold water. Bottles are refilled, photos snapped, backpacks shouldered again. The path follows the stream now for a while, and it doesn't take long till we reach a first sign of civilization. Canvas tents are pitched in rows, with a wooden house at each end - some sort of accommodation. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753121638/" title="Mountain water by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8434/7753121638_a6418de08f_b.jpg" width="1024" height="538" alt="Mountain water"></a>
+
+As we reach an asphalt road, we're in a good mood again - also because of the Slovenian time sign proclaiming it'd be four hours to the summit of Rodica - we just hiked down in three and half, so either that's mountain runner time or slightly delusional. It doesn't matter, tough. We continue to the centre of the small village of Sv. Janez Krstnik, and reach the shore of the Bohinjsko Jezero lake. There's a lot of people out on the road, and to our delight there's a kiosk which sells snacks. If you ever make it to Slovenia, make sure to taste their crepes with Nutella - they're delicious, and just what one needs after hiking over nine hours!
+
+It doesn't take long till Velimir shows up, and we all jump in his car and drive the ten kilometres back to Bohinjska Bistrica and the camp ground. Velimir, Thomas and Benjamin made it back to the camping place not too long ago, they stayed watching us at the hut and then took it easy when descending.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7998978334/" title="Scenery by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8452/7998978334_7a1d4e85b3_b.jpg" width="1024" height="425" alt="Scenery"></a>
+
+We chat with the others as we arrive at the camping place, but most of us are tired and soon retire to our shelters - it was a long day. I'm so knackered that I just lay down in my clothes on top of my bivy, quilt and mat and fall asleep. The next day the trip will start in earnest, but first Tatsuya and Jotaro need to arrive.
+
+*To Be Continued*

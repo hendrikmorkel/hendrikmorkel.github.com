@@ -1,0 +1,65 @@
+---
+layout: post
+title: "DMM Demon Cams"
+date: 2015-05-05 23:25
+comments: false
+categories: [DMM, Demon Cams, Trad climbing, climbing, climbing gear]
+keywords: DMM, Demon Cams, Trad climbing, climbing, climbing gear
+description: Build your Trad Rack™ with DMM Demon Cams.
+published: true
+---
+
+Dragons and [Demons](http://www.bergfreunde.co.uk/dmm-demon-cam-cam/) are not just part of any good fantasy novel, but also hang on the harness of many Trad Climbers. And because for longer routes you need more than just a set of [Dragon Cams](https://hikinginfinland.com/2014/03/dmm-dragon-cams.html), a pair of Demon Cams has found their way into my climbing pack. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16743368694" title="DMM Demon Cams by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7688/16743368694_34f21b81ce_b.jpg" width="1024" height="683" alt="DMM Demon Cams"></a>
+
+<!-- more -->
+
+The [DMM Demon Cams](http://www.bergfreunde.co.uk/dmm-demon-cam-cam/) arrived last spring and have been along to Olhava, the local crag close to Vaasa, [rock climbing in Poland](https://hikinginfinland.com/2014/08/mountaineering-and-climbing-in-the-polish-tatras.html) and Alpine climbing in Chamonix. But why would I need a 2nd pair of cams besides the Dragons? Well, longer routes need more protection, the Demon Cams have different size ranges than the Dragon, are a single axle design and are lighter. That was enough reason for me to get a pair from [Bergfreunde.co.uk](http://www.bergfreunde.co.uk/), and since they have free shipping on orders over 50€ in Europe it has gotten pretty easy to order from them.
+
+<iframe src="https://player.vimeo.com/video/49821137?color=cc0033&title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+The Demon is a combination of two DMM Cams: It takes the single stem of the Dragon and the Cams of the 4CU. They are single axle, single stem, with the trademark extendable Dyneema sling. The cam lobes make use of the 13.75° camming angle, have an Active strength rating of 14 kN (and a Passive rating of 10 kN) and are Made in Wales.
+
+As you might know, cams are active protection. While the [nuts and hexes](https://hikinginfinland.com/2014/02/dmm-wallnuts.html) have no moving parts, cams do have moving parts - this allows them to suit a wider range of cracks - where you might need to carry one or more different nuts to place them in a crack, a cam’s lobes can be moved by pulling on the trigger which makes them narrower & thus you can enter it in a crack. Release the trigger and the lobes will wedge themselves into the rock, being, if placed correctly, a solid piece of protection. They are also versatile in the sense that you can use them passively - that is that you just place the cam as it is into a crack, much like a Nut, without pulling the trigger. Unlike the DMM Dragon Cams the Demon Cam has a lower passive strength rating than active rating. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16743368334" title="DMM Demon Cams by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8774/16743368334_eff30e3137_b.jpg" width="1024" height="683" alt="DMM Demon Cams"></a>
+
+The Demons come without a carabiner, so I got the colour-coded [DMM Alpha Trad 'biners](http://www.bergfreunde.co.uk/dmm-alpha-trad-non-locking-carabiner/) and two [Phantom carabiners](http://www.bergfreunde.co.uk/dmm-phantom-non-locking-carabiner/) with the cams. The Trad biners are very nice and easy to clip, quite large and at 34 g they're still light. The Phantom is only 26 g but you can easily feel and note the difference in size, its gate is also a bit heavier to clip. If you get pumped or nervous and want to be sure you can easily and quickly clip the rope, take the Alpha trad carabiners, they have a far better handling. Cam Lobes, slings and Alpha Trad carabiners can (and should!) be colour-matched for easily finding the right cam when you're on the wall.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17365876125" title="DMM Demon Cams by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8824/17365876125_aaf623fb92_b.jpg" width="1024" height="683" alt="DMM Demon Cams"></a>
+
+Back to the Demon Cams, and lets look at their weights. Here's the weight of the Demon Cam alone and with a Alpha Trad carabiner.
+
+- Size 4,0: 223 g (259 g)
+- Size 3,5: 182 g (218 g)
+- Size 2,5: 129 g (165 g)
+- Size 1,5: 102 g (138 g)
+- Size 1,0: 98 g (134 g)
+- Size 0,5: 90 g (126 g)
+- Size 0: 84 g (120 g)
+
+The whole rack of seven Demon cams with Alpha Trad biners is 1.160 g. That is a tad heavier than the Dragons (the six of them including carabiners is 819 g) but the size range of the Demons here speaks for them. For comparison:
+
+- Size 4 Demon Cam (223 g) has a lobe size range of 64 to 100 mm
+- Size 4 Dragon Cam (149 g) has a lobe size range of 38 to 64 mm
+
+This difference can be seen throughout the two Cam lines. If you want to have a [Cam](http://www.bergfreunde.co.uk/camming-devices/) with a large operating range, then the Demon is the way to go my opinion.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17365533331" title="DMM Demon Cams by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8899/17365533331_95f25e7afa_b.jpg" width="1024" height="683" alt="DMM Demon Cams"></a>
+
+The 8 mm Dyneema sling is extendable to 23 cm which allows you to carry less slings and quick-draws to the hills. I love this feature of the DMM Cams and wouldn't want to miss it. DMM also thinks along and offers a service to re-sling the cams when the Dyneema slings become worn out, which is a sustainable and environmentally friendly service and makes the cams long-lasting.
+
+Which brings me to Quality. Which is fantastic. I guess you have expected this already, but I really value these cams - as all my other gear from DMM - very highly. The flexible stem, durable materials that are anodized makes them long-lasting, also at [sea stacks](https://hikinginfinland.com/2015/04/sea-stack-climbing-in-ireland.html). They have seen quite a bit of use but still look pretty good, and I expect them to last many more years.
+
+If there's something which I don't like about them, well they are expensive - but then so are most cams. I also am wondering why DMM does repeat colours on the cams and 'biners - Gold, Blue and Silver are used twice in the same series, and with there being hundreds of colours this is a bit odd. I would wish DMM would add more colours in the future, this makes it easier to choose the right cam and eliminates mix-ups. Imagine you want to grab the large blue 3.5 cam but grab the tiny blue 0 cam? Also the stem could be a tiny bit longer, which would make it easier to place them in deep cracks. I also think they could be offered as a complete set with a carabiner (preferably for a better price than buying them separately). And finally, if they'd be a *tiny* bit lighter, well, I wouldn't mind that either!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17158410927" title="DMM Demon Cams by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8854/17158410927_28d89d8448_b.jpg" width="1024" height="683" alt="DMM Demon Cams"></a>
+
+## Bottomline
+
+I really like [DMM](http://www.bergfreunde.co.uk/brands/dmm/) gear. It's well-designed and Made in Europe, which I value a lot. With the climbing trips this year I reckon the Dragons and Demons will both see plenty of use, especially in the [Dolomites](https://hikinginfinland.com/2015/03/the-dolomites-rock-climbs-and-via-ferrata.html) and here in Finland. If you're new to Trad climbing and in the market for some active protection then you might want to have a chat with your climbing partners and see what they recommend for your home crag, but eventually, and especially when you will travel to go climbing, you will likely end up with a complete rack or more. With the Demons you get a superb single stem, single axle cam. You'll value the extendable sling pretty quickly as it allows you to leave some Quick-draws at the bottom of the crag. They are easy to place and equally easy to remove if you second. These durable cams will not make you a better climber, but they are so long-lasting that they will see you become better over time. 
+
+You can get the complete DMM Demon Cam package at [Bergfreunde.co.uk](http://www.bergfreunde.co.uk/dmm-demon-cam-cam/) in Europe and [Backcountry.com](http://bit.ly/1JLrstV) in North America. And [more photos are on Flickr](https://www.flickr.com/photos/hendrikmorkel/sets/72157652287977376). 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17365531111" title="DMM Demon Cams by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7734/17365531111_16a28f5bf1_b.jpg" width="1024" height="683" alt="DMM Demon Cams"></a>

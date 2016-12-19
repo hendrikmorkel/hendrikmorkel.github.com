@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Teaser Graubünden Haute Route"
+date: 2016-03-22 23:09
+comments: true
+categories: [Graubünden Haute Route, ski-touring, Switzerland]
+keywords: Ski-touring, Graubünden Haute-Route, Suisse, Schweiz
+description: A teaser on my attempt of the Graubünden Haute Route in Switzerland!
+---
+
+In late February and early March I made a visit to Switzerland to attempt the Graubünden Haute Route. Sadly the high avalanche danger and changing weather cut us short - here's a first taste of four days ski-touring in Graubünden.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25455047716/in/album-72157665020355632/" title="Going down."><img src="https://farm2.staticflickr.com/1445/25455047716_5a5b16aa20_b.jpg" width="1024" height="684" alt="Going down."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- more -->
+
+The [Graubünden Haute Route](http://www.hauteroute-graubuenden.ch) is a five days/ four nights ski-touring trip where you visit four beautiful huts, ski great powder, test your mountaineering skills while climbing some beautiful peaks and enjoy great scenary. Well, that's at least the normal plan, but because of not really good weather and high avalanche danger our trip was cut a wee bit short. Stay tuned for a full day-to-day account of my Haute Route experience, but for now enjoy these fine selection of photos! 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25283933403/in/album-72157665020355632/" title="Madulain Railway Station"><img src="https://farm2.staticflickr.com/1589/25283933403_f69055afe7_b.jpg" width="1024" height="683" alt="Madulain Railway Station"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25886747936/in/album-72157665020355632/" title="Summit Cairn"><img src="https://farm2.staticflickr.com/1518/25886747936_6f80f77374_b.jpg" width="1024" height="683" alt="Summit Cairn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25886734586/in/album-72157665020355632/" title="D&#x27;Es-Cha Hut"><img src="https://farm2.staticflickr.com/1450/25886734586_dd1167a46f_b.jpg" width="1024" height="683" alt="D&#x27;Es-Cha Hut"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Day one we skied from Madulain to the D'Es-Cha Hut, where we spent in the end two nights because we didn't want to risk our lives in highly dangerous avalanche terrain. It's a beautiful hut with great wardens, a wide selection of board and card games as well as interesting magazines - so we didn't get bored while waiting for better weather.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25892325271/in/album-72157665020355632/" title="Anselm leading the way"><img src="https://farm2.staticflickr.com/1596/25892325271_eaa15fdc8c_b.jpg" width="1024" height="683" alt="Anselm leading the way"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25686718380/in/album-72157665020355632/" title="Will and Anselm discussing our run"><img src="https://farm2.staticflickr.com/1690/25686718380_3134f5b330_b.jpg" width="1024" height="683" alt="Will and Anselm discussing our run"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25987279595/in/album-72157665020355632/" title="On the way to the railway station in Madulain"><img src="https://farm2.staticflickr.com/1632/25987279595_e5cb3a3e25_b.jpg" width="1024" height="576" alt="On the way to the railway station in Madulain"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+In the end we skied back to Madulain, took the loveley UNESCO World Heritage train to Bergün and took the long way up to the Kesch Hut.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25354582624/in/album-72157665020355632/" title="To the Kesch Hut, the long way."><img src="https://farm2.staticflickr.com/1638/25354582624_ba4b4c4b45_b.jpg" width="1024" height="683" alt="To the Kesch Hut, the long way."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25987285185/in/album-72157665020355632/" title="Finally at the Kesch Hut."><img src="https://farm2.staticflickr.com/1719/25987285185_056018f76b_b.jpg" width="1024" height="683" alt="Finally at the Kesch Hut."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25866491312/in/album-72157665020355632/" title="Tasty meats and cheese as starter!"><img src="https://farm2.staticflickr.com/1545/25866491312_065cce596e_b.jpg" width="1024" height="683" alt="Tasty meats and cheese as starter!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Reto, the warden, welcomed us in heinous winds to his hut with a very taste cup of hot, sweet tea. His wife Ursina cooked us a delicious dinner and we slept great - ready for our fourth day, with high hopes of better weather yet again.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25686733060/in/album-72157665020355632/" title="Up!"><img src="https://farm2.staticflickr.com/1478/25686733060_06a214e1b3_b.jpg" width="1024" height="683" alt="Up!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/25892341991/in/album-72157665020355632/" title="Down through the powder"><img src="https://farm2.staticflickr.com/1578/25892341991_90cce48c02_b.jpg" width="1024" height="683" alt="Down through the powder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+But the better weather never came, so we skied back down to Bergün through sweet powder forests! Take a peek at the [Flickr Album](https://www.flickr.com/photos/hendrikmorkel/albums/72157665020355632) and keep your eyes on this blog as the full story will come this month!
+
+*Disclaimer: This trip was made possible with the support of [Graubünden](http://en.graubuenden.ch) and [Switzerland](http://www.myswitzerland.com/). As usual I maintain full editorial control of the content published on this site. Read the [Outdoor Blogger Codex](http://www.outdoorbloggercodex.com/en/?noredirect=en_US) for more information on blogger transparency.* 

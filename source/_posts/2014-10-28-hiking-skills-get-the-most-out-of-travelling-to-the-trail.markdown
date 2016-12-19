@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Hiking Skills: Get The Most Out of Travelling to the Trail"
+date: 2014-10-28 09:42
+comments: false
+keywords: hiking skills, travelling
+description: Five tips to make travelling to the trail head fun & relaxing instead of stressful and tedious.
+categories: [hiking skills, travelling, tips]
+published: true
+---
+
+If you're not heading out on a S24O from your doorstep, chances are that you will be spending quite some time on your way to the trail. With these five tips you can already make the time travelling to your hike relaxing and fun instead of stressful & tedious.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/9764088782" title="There&#x27;s the Sauna? by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2836/9764088782_aa74826384_b.jpg" width="1024" height="680" alt="There&#x27;s the Sauna?"></a>
+
+<!-- more -->
+
+Living in Scandinavia is awesome. You can start an Overnighter from your front door with your bike and can be in less than an hour in a wild place. But if you want to visit a National Park, Wilderness Area or a Long Distance Trail chances are that you will spend many hours travelling there - by bus, train, plane or car. The latter can be tedious and stress-inducing - the exact opposite of why you're heading out. These five tips get you into the right mind set and help make the journey to the trail already part of the relaxing time you’re going to spend outdoors.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13083811733" title="Road to Abisko by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7443/13083811733_5834be0283_b.jpg" width="1024" height="541" alt="Road to Abisko"></a>
+
+## Choose the right time & mode to travel
+
+Try to plan your travels to the trailhead always so that you still can walk without a hurry to a nice camp spot after having arrived. That means already planning the journey so that you arrive relaxed and at a good time at the trailhead. Several factors go into this and it's usually best start backwards:
+
+- Try to estimate the time needed to reach the camp spot - I aim usually to be there by 20 o'clock. That means I subtract the walking time from the arrival time, which gives me the latest time I should arrive at the trailhead
+- Look for the most convenient travel mode to arrive at the trailhead, be it plane, bus, train or taxi
+- It's smart to compare prices and travel-time between the transportation options - sometimes a flight can be just 20€ more expensive but several hours faster - and choose the one which suits you best
+- Whenever possible I try to use night trains: They are environmentally friendly and allow me to travel while I sleep, which means I arrive early & well-rested at the trailhead!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/9129336618" title="Calazo Maps Border by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5529/9129336618_a06884312e_b.jpg" width="1024" height="680" alt="Calazo Maps Border"></a>
+
+## Study the map
+
+Sure, you were planning your route at home and have been pouring over this [map](http://hikinginfinland.com/blog/categories/maps/) already many evenings. But now you're sitting in the daylight in the train and have another six hours of travelling in front of you - time enough to study the map anew, look if you can find an even better camp spot, consider bail-out options, see where to pick up fresh water and just simply get into the mind-set for the hike ahead. This also allows you to become more familiar with the terrain once you’re hiking, and you don’t need to get the map out every hundred meters to check for the trail.
+
+<a href="https://www.flickr.com/photos/grace_land/8681800072" title="Untitled by GraceOda, on Flickr"><img src="https://farm9.staticflickr.com/8380/8681800072_7e82294800_b.jpg" width="1000" height="667" alt="Untitled"></a>
+
+## Charge your gadgets
+
+If travelling by train, bus or plane in Scandinavia you often have the possibility to charge your gadgets while you're travelling. This being the last chance to power up the batteries of your camera, GPS or smartphone it's a good opportunity to make use of the free electricity. It also allows you to spend ample time on points 2 and 3!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14004820125" title="The Pictorial Guide to the Lakeland Fells by A. Wainwright by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2940/14004820125_91a7056da2_b.jpg" width="1024" height="680" alt="The Pictorial Guide to the Lakeland Fells by A. Wainwright"></a>
+
+## Read a book
+
+I'm old-fashioned and really like real [books](http://hikinginfinland.com/blog/categories/books/). While a [Kindle](http://amzn.to/1xyQgf1) or similar would be lighter & allow me to carry hundreds more books along on the trail, I usually have a paperback along for the hike. If you have a long journey ahead of you it might be worth it to even take two books - one for the journey, one for the hike! If you're not deeply attached to your book you even can leave it at a railway station or a wilderness hut for a fellow traveler or hiker - and make your backpack lighter, too!
+
+<a href="https://www.flickr.com/photos/infomastern/14567590309" title="Pastry with berries by Susanne Nilsson, on Flickr"><img src="https://farm4.staticflickr.com/3926/14567590309_94b84d4326_b.jpg" width="1024" height="640" alt="Pastry with berries"></a>
+
+## Fuel up on fresh coffee and pastries
+
+Coffee. Cake. Pastries. Bread. If the way to the trail head is long, make sure to have fuel breaks on the go, and have a cup of coffee and a piece of cake whenever you have a chance. On the trail it is difficult to get fresh cake & coffee and usually involves getting your stove out, so while you travel make use of the Cafés along the road or in the train. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14855955819" title="Approach to Mnich by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5585/14855955819_2b5e7f275c_b.jpg" width="1024" height="576" alt="Approach to Mnich"></a>
+
+**That's it!** These five tips help you get into the right mind set when you step out of your home and make the journey already part of your outdoor adventure, so that the door-to-wilderness-to-door experience is almost as relaxing as the hike itself. Happy trails!

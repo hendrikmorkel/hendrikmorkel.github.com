@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Urho Kekkonen National Park"
+date: 2013-09-16 15:33
+comments: false
+categories: [Urho Kekkonen National Park, Lapland, Finland, trip report]
+published: true
+---
+
+- One National Park
+- Two brothers
+- Three Lenses
+- Four Feet
+- Five Nights
+- Six Days
+
+<a href="http://hikinginfinland.com/2013/09/urho-kekkonen-national-park.html" title="Fire"><img src="http://farm3.staticflickr.com/2889/9763148185_31286687eb_b.jpg" width="1024" height="680" alt="Fire"></a>
+
+<!-- more -->
+
+The travel up north started in Tampere, the rainy city which welcomed us with sunshine. A good omen? Possibly. Re-packing, dinner, beer, and off to the night train. A cabin was paid for, 30€ extra well spent as it meant we arrived rested in Rovaniemi. Also here: Sunshine. A stroll to the waiting bus, backpacks down into the luggage compartment, and off we went. We turn right past the glass igloos and arrive four hours later at Kilopää Station, a packed parking lot letting us wonder how many people we would meet this week. But once we passed the bus-loads of pensioners on their way up to the Kilopää summit and back down, people got fewer. And once we left the marked trail behind, they disappeared.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9763646456/" title="Wideangle"><img src="http://farm6.staticflickr.com/5462/9763646456_3764c0da5e_b.jpg" width="1024" height="680" alt="Wideangle"></a>
+
+At the Rautulampi hut we drink tea. We meet a few people, but it being so early we decide to push on. A short bit on trail, before we leave it behind again. After the yellow birches: Wide views. We arrive at the hut, and decide to stay in it. Water is boiled, food eaten, drinks drunk, fire made. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9763854414/" title="Navigation in autumn can be colourful"><img src="http://farm8.staticflickr.com/7382/9763854414_9995bc480b_b.jpg" width="1024" height="680" alt="Navigation in autumn can be colourful"></a>
+
+We leave under a grey sky the next morning, but the sun comes through once in a while. The trail disappears at times, but we arrive at the first bridge after a couple of hours, lunch, tea, and off into the wild again. Traversing a mountain till we reach the other "bridge". 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9763631271/" title="Bridge"><img src="http://farm4.staticflickr.com/3809/9763631271_9270fc0f99_b.jpg" width="1024" height="680" alt="Bridge"></a>
+
+Easier trails follow. Even the sun comes through more often. Up another hill, and more wide views.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9763850285/" title="Sun &amp; Clouds"><img src="http://farm8.staticflickr.com/7335/9763850285_bbb51e324f_b.jpg" width="1024" height="680" alt="Sun &amp; Clouds"></a>
+
+Another night in a hut. The morning brings rain, and a German-Finnish doctor on his way back to civilization. We chat for a long time, waiting for the rain to stop. With hardshells on, we leave, but soon enough the sun comes through and we switch back to windjackets.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9763991044/" title="That way"><img src="http://farm3.staticflickr.com/2809/9763991044_e50a703e0b_b.jpg" width="1024" height="680" alt="That way"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9763769821/" title="Moody I"><img src="http://farm4.staticflickr.com/3708/9763769821_ed2d1baeab_b.jpg" width="1024" height="680" alt="Moody I"></a>
+
+Paradise Gorge is beautiful indeed, and a nice scramble up. I pitch the TrailStar for a tea break, before we head to the second highest summit. A rainbow hangs in the sky to the left as we descend to the Devil's Gorge, and on the way to the break hut a short rain shower sees us putting the hardshells on again.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9764143326/" title="Up Paradise Gorge"><img src="http://farm4.staticflickr.com/3770/9764143326_5c798e849b_b.jpg" width="1024" height="680" alt="Up Paradise Gorge"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9764147934/" title="Paradise Gorge"><img src="http://farm8.staticflickr.com/7348/9764147934_fe3a0854f1_b.jpg" width="680" height="1024" alt="Paradise Gorge"></a>
+
+As we arrive at Muorravaarakka hut the sun shines down from a blue sky again. A Dutch family tells us that we *just missed the rain* and then set off to Anterinmukka hut. We pack the hardshells away for the 2nd time today, eat, refill our bottles and then set off again. Twenty-five minutes later we catch up with the family, who have a coffee break at the top of the hill, enjoying the view. "See you at the hut. We'll keep the Sauna warm for you!" we tell them.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9764301996/" title="Devil's Gorge"><img src="http://farm3.staticflickr.com/2828/9764301996_cbb1cfb5a8_b.jpg" width="1024" height="680" alt="Devil's Gorge"></a>
+
+The sauna is still warm, so we pitch the shelters, grab the whiskey, kuksas and towels and head in. The river water is cold, refreshing. As we go back up, the Dutch family has just arrived, and they happily head to the warm sauna.
+
+We sleep under Silnylon and Cuben, cocooned into our warm quilts and sleeping bags. The next morning brings a grey sky yet again, but it looks like it will stay dry and get sunny. Coffee and müsli is our fuel, we pack and leave on a Quad trail onwards, following the river up in which we swam last night.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9764208401/" title="Fireplace"><img src="http://farm8.staticflickr.com/7316/9764208401_fe3dd21a8b_b.jpg" width="1024" height="680" alt="Fireplace"></a>
+
+At a lone fireplace we again leave the trail behind, following another river until we reach its origin, where it splits: One part goes east, the other west. We head north, across extensive boulder fields, through a lost valley of Eden, and up even more boulder fields. Sokosti, Eastern Finland's highest summit, is our goal, but it's ugly: A radio tower, two support huts and an array of solar panels crown it, but no rest place for hikers.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769576353/" title="Towards Sokosti"><img src="http://farm8.staticflickr.com/7429/9769576353_1cdd00a4b0_b.jpg" width="1024" height="680" alt="Towards Sokosti"></a>
+
+The descent is an exercise in finding the path. We give up, make our own, and before we reach the tree line sit down for the last tortilla and cheese lunch. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9764088782/" title="There's the Sauna?"><img src="http://farm3.staticflickr.com/2836/9764088782_aa74826384_b.jpg" width="1024" height="680" alt="There's the Sauna?"></a>
+
+At Luirojärvi another Sauna waits, and images worth of postcards. We enjoy the warmth of the sauna, the coldness of the lake, before we head on to pitch the TrailStar, make a fire, boil the chantarelles I found earlier in the morning, and enjoy this fine, starry evening.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769497594/" title="Mirror Image II"><img src="http://farm4.staticflickr.com/3665/9769497594_ee42f5826b_b.jpg" width="1024" height="680" alt="Mirror Image II"></a>
+
+The morning brings fog and sunshine. It's a spectacle worth seeing every time, and under a blue bird sky we pack and start the longest stretch of the journey. Hills covered in red, orange and yellow, wide moors and Rock Ptarmigans accompany us. It is so warm, we hike in T-Shirts, and I enjoy the opportunities to wade through cold rivers.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769573263/" title="Mirror image by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5447/9769573263_d2796379b3_b.jpg" width="680" height="1024" alt="Mirror image"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769608944/" title="Autumn trail"><img src="http://farm8.staticflickr.com/7393/9769608944_765f986ac6_b.jpg" width="680" height="1024" alt="Autumn trail"></a>
+
+Kilometers fly by, and we encounter more and more people heading in the opposite direction. Heavy-loaded external frame backpacks are still the norm, as are complaints by their bearers about aching knees and blisters. We load up on water, leave the gathering at the laavu behind and head up.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769707276/" title="Hyperlite Mountain Gear UltaMid"><img src="http://farm8.staticflickr.com/7412/9769707276_aeb0f94db0_b.jpg" width="1024" height="680" alt="Hyperlite Mountain Gear UltaMid"></a>
+
+The sun sets, but the blood red sky at the horizon lingers on for what seems like forever, until darkness from the east consumes it and shrouds the sky into its black cloak with blinking white stars. No Northern Lights, though, no matter how long I sit outside watching the sky.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769778313/" title="X"><img src="http://farm4.staticflickr.com/3748/9769778313_e05e51f5af_b.jpg" width="1024" height="680" alt="X"></a>
+
+Mist is moving across distant mountain tops in the morning, while the sun tries hard to break through the clouds. As it finally does, we start to walk. By the time we reach the Station at Kilopää we already have encountered more than two dozen hikers and backpackers. Yes, the wilderness definitely lays now behind us, and civilization has us back again.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9769750802/" title="Grey, yellow, blue"><img src="http://farm8.staticflickr.com/7328/9769750802_cbfe175257_b.jpg" width="1024" height="680" alt="Grey, yellow, blue"></a>
+
+[More photos](http://www.flickr.com/photos/hendrikmorkel/sets/72157635543361552/). Read more about it in the upcoming issue of [trekking Magazin](http://www.trekkingmagazin.com/).
+
+### Practicalities
+
+Flying is the fastest and often also the cheapest choice. There's connections from Helsinki to Ivalo, and from Ivalo airport you take the bus south to Saariselkä, Kilopää or Koilliskaira.
+
+More environmentally friendly and a lot more time consuming is the train + bus combo. Head on the night train to Rovaniemi, get a cabin, sleep, then hop in the morning on the bus to Saariselkä, Kilopää or Koilliskaira to start your adventure.
+
+Saariselkä has an [Partioaitta](http://www.partioaitta.fi/saariselka) outdoor shop where you can get gas canisters and gear. The village also has a few supermarkets which will let you shop for food. If you have spare time in Rovaniemi, head to the [Prisma](http://www.prisma.fi/market/prisma?a_Visit:rajaa=1&osuuskauppa=ARINA&pageName=Main&b_haku.paikka=Rovaniemi) there for a very wide variety of outdoor gear and food at more reasonable prices.
+
+The National Park is divided into four zones with different regulations in terms of wild camping. Outside of the Basic Zone trails are not marked, and you should know how a compass works, best in conjunction with a map. Speaking off, the Koilliskairan ulkoilukartta map is the best map if you want to explore the wild side of the National Park. Sadly it's just a crappy paper map and will fall apart after a week of use.
+
+There's six Saunas in the National Park, plenty of huts, both free (*Autiotupa*) and reservable (*Varaustupa*), as well as two dozen laavus and several turf huts. The price of a reservable hut is 10 euro/ night/ bed and all beds will be sold if there's demand. Daytrip huts are not for overnight stays, and if you go to the dry toilet throw some of the wood stuff from the box over your business. You can drink water everywhere, though if you have a sensitive stomach boil it first.
+
+- [Urho Kekkonen](http://www.outdoors.fi/destinations/nationalparks/urhokekkonennationalpark/Pages/Default.aspx) NP page with more Information.
+- [Digital map](http://www.retkikartta.fi/index.php?lang=en&id=868) for planning.
+- [Train schedules](http://www.vr.fi/en/index.html).
+- [Bus schedules](www.matkahuolto.info/lippu/fi/connectionsearch).
+- [Packraft rental](http://www.backpackingnorth.com/p/gear-rental.html) at Backpacking North.
+
+Don't want to go on your own? Keep an eye on my [Guided Trips](http://hikinginfinland.com/guided-trips/) as there will be winter and packrafting tours in UKK in 2014.

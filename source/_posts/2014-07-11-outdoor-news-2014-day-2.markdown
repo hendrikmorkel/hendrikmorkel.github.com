@@ -1,0 +1,194 @@
+---
+layout: post
+title: "OutDoor News 2014 - 2"
+date: 2014-07-17 11:20
+comments: false
+keywords: OutDoor 2014, gear news, MSR, Scandinavian Outdoor Group, Osprey, Adidas, Scarpa, Outdoor Research, The North Face
+description: The lightest, brightest, smartest and coolest new gear from the 2014 OutDoor fair!
+categories: [OutDoor Fair 2014, gear, news]
+published: true
+---
+
+Day 2 was busy, busy, busy with lots of cool gear to touch & try on!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14671353515" title="Impressions by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3856/14671353515_b5fe38b0c2_b.jpg" width="1024" height="768" alt="Impressions"></a>
+
+<!-- more -->
+
+## Outdoor Research
+
+[Outdoor Research](http://www.outdoorresearch.com/) is one of the companies I really enjoy visiting as they make very good gear. They make rather good gloves and hats so lets take a look at some of the latter. The Helium Rader is a 12 g rain cap made from Pertex Shield. It comes in nice colours and would be an ideal companion to wind jackets or hardshells that don't have a hood. On the other side of the weather spectrum the Radar Sun Runner keeps your neck protected when you forgot your sunscreen at home. The cape stows at the centre back and is deployed in less than a minute. The UPF 30 hat weighs in at 75 g and ensures that you're not becoming a redneck.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14668272351" title="Outdoor Research Helium Raider Rain Cap by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5560/14668272351_719af8fee7_b.jpg" width="768" height="1024" alt="Outdoor Research Helium Raider Rain Cap"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14484908148" title="Outdoor Research Radar Sun Runner by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2938/14484908148_aeedc684dc_b.jpg" width="1024" height="1024" alt="Outdoor Research Radar Sun Runner"></a>
+
+The sun sleeves are a really smart item. Available in a ActiveIce & Spectrum Sun Sleeves version, the ActiveIce sleeves cool you down - great for hot days on the hills. The more you sweat, the cooler they get. The Spectrum Sun Sleeves don't cool you but keep you protected from the sun's rays, and as either version has a UPF rating of 50+ you can be sure that with them on skin cancer has no chance. A smart piece of gear that is light and is increasingly often found in packs instead of a longsleeve. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14671477415" title="Outdoor Research by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3925/14671477415_98ef393272_b.jpg" width="1024" height="768" alt="Outdoor Research"></a>
+
+The award-winning Axiom Jacket got some updates: A Halo Hood™, interior phone pocket and a longer center-back-length - all very useful in the rain. It's still made from GORE-TEX® Active and now employs YKK® AquaGuard® Vislon Zippers. It's 418 g in Size L and comes in very nice colour combos. I really liked the Deviator Hoody. It uses Polartec® Alpha® insulation in the front torso area while Polartec® Power Dry® High Efficiency™ in the hood, sleeves and back panel wick moisture quickly away and keep you comfortable. Made from 7D ripstop in the front and side panels this hoody weighs 305 g in Size L and could be a very good piece for backpacking in the shoulder season and winter.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14648478526" title="Outdoor Research Axiom Jacket &amp; Deviator Hoody by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3905/14648478526_aca7bbd023_b.jpg" width="768" height="1024" alt="Outdoor Research Axiom Jacket &amp; Deviator Hoody"></a>
+
+## Scarpa
+
+Visiting [Scarpa](http://scarpa.it/) is always nice on the fairs. It still is a family run business & this time I even had the honour to shake hands with one of the owners. Then there's also great Italian coffee and good vibes, besides all the fine Italian made shoes. And of those there were quite a few new, interesting ones. 
+
+The Furia climbing shoe is designed by Heinz Mariacher and a really nice, soft climbing shoe. It has a XS GRIP 3,0 mm sole, a Microfibre upper and will weigh 195 g in Size 40. Made for bouldering, sport climbing or just for fun, this shoe is likely to be very popular.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14665410404" title="Scarpa Furia by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3870/14665410404_c5a85edfc8_b.jpg" width="1024" height="1024" alt="Scarpa Furia"></a>
+
+The Oxygen GTX is a multisport shoe that uses Oxygen GTX® with SURROUND™ technology with the new Sock-Fit DVL system. It has a speed-lacing system and weighs 440 g in Size 42 for one shoe. It's a breathable shoe that is well suited for approaches and hiking in mountain environments, and the new Vibram® Symbios sole looked like it will give good grip.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14687566133" title="Scarpa Oxygen GTX by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3835/14687566133_a73b1b4eb4_b.jpg" width="1024" height="768" alt="Scarpa Oxygen GTX"></a>
+
+The Scarpa Mojito Fresh is an update on the widely popular Mojito with a new upper. It looked & felt like a super comfy shoe for urban environments and easy hikes.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14480987050" title="Scarpa Mojito Fresh by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2915/14480987050_ea5ea8b430_b.jpg" width="768" height="1024" alt="Scarpa Mojito Fresh"></a>
+
+The Crux is a approach shoe with all-day comfort. The new Vibram® Vertical Dual Density outsole has a climbing zone in the front and offers good grip on mountainous terrain. At 380 g in Size 42 for one shoe it's a fairly light shoe that also could become popular amongst scramblers and hikers.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14481040728" title="Scarpa Crux by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3853/14481040728_dc4d597dc2_b.jpg" width="1024" height="768" alt="Scarpa Crux"></a>
+
+## Therm-A-Rest
+
+[Therm-A-Rest](http://www.cascadedesigns.com/Therm-A-Rest) continues to be staple in many Ultralight backpackers packs. Those that love their [XTherm](http://hikinginfinland.com/2013/04/therm-a-rest-neoair-xtherm.html) or XLite but would like it to be self-inflating will surely get the EvoLite mattress, which combines the best of the TAR range. The EvoLite has the lovely comfort of your air mattresses with the convenience of a self-inflating mattress. It uses a new kind of foam which is very light and can be very compressed and the mat design is alternating between foam and air. The result is a 5 cm thick mat that inflates on its own. It will be available in the three sizes S, R, and L, vary in weight from 330 g, 480 g & 650 g and will cost between 100€ and 140€. The R-Value is 2.1 and it's made in Ireland! 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625938522" title="Therm-A-Rest EvoLite by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5573/14625938522_3cc1e4ebc4_b.jpg" width="768" height="1024" alt="Therm-A-Rest EvoLite"></a>
+
+The other NeoAirs have been updates with a soft non-slip fabric on top which makes them more silent - and I can confirm that's really the case, though I have never found the mats to be noisy in the first place. A new version of the XTherm is the MAX which is just the XTherm in a square format. 
+
+The sleeping bags now employ Nikwax Hydrophobic Down and a aluminium, heat reflective layer in the bags, making them warmer and less suspect to moist environments. All the down bags have got this treatment, which also makes them warmer with less down. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439795499" title="Therm-A-Rest sleeping bags by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2925/14439795499_5d18df8624_b.jpg" width="1024" height="768" alt="Therm-A-Rest sleeping bags"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625934842" title="Therm-A-Rest Nikwax Hydrophobic Down by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5595/14625934842_58d5ca10ab_b.jpg" width="768" height="1024" alt="Therm-A-Rest Nikwax Hydrophobic Down"></a>
+
+## Norrøna
+
+The Norwegians from [Norrøna](https://www.norrona.com/) re-launched the bitihorn line as a lightweight trekking line. It now encompasses the waterproof bitihorn dri3 jacket and pants which use the dri™3 fabric and will weigh 324 g for the jacket and 309 g for the pants. The idea behind the bitihorn line is that it offers protection, insulation and breathability with lightweight fabrics in all products. It's a colourful line and I'm sure we'll see more some of these garments find their way into lightweight packs. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14645734383" title="Norrøna by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2911/14645734383_5181e99af4_b.jpg" width="1024" height="768" alt="Norrøna"></a>
+
+The fjørå line is a cycling line and now also girls will be able to wear it. It's their most sold-out concept each season so it makes a lot of sense to add women's specific cuts to it. Female riders will surely approve!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439199418" title="Norrøna fjørå by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2905/14439199418_9a4a1fa194_b.jpg" width="1024" height="768" alt="Norrøna fjørå"></a>
+
+## Osprey
+
+[Osprey](http://www.ospreyeurope.com/gb_en/) got an OutDoor Gold Award for their Atomos AG65 packs. They're around 2 kg (there's a 50 l and 65 l version) and now are sporting an all-new mesh air back panel that continues into the hipbelt. It's a fairly comfy pack to carry - the one I'm wearing there has some weight in it - so I definitely see how this got the Award. It has quite a few pockets to keep you organized, comes in a few nice colours and will cost under 200€. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14646348263" title="Osprey Atmos 65 by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2895/14646348263_2f959906c4_b.jpg" width="768" height="1024" alt="Osprey Atmos 65"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439819428" title="Osprey Atmos 65 by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5507/14439819428_21cf1928f5_b.jpg" width="1024" height="768" alt="Osprey Atmos 65"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14646344523" title="Osprey Atmos 65 backpanel by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3917/14646344523_e83a043fba_b.jpg" width="768" height="1024" alt="Osprey Atmos 65 backpanel"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625938592" title="Osprey Atmos 65 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3909/14625938592_38c835b2cb_b.jpg" width="768" height="1024" alt="Osprey Atmos 65"></a>
+
+## Hilleberg
+
+Imagine my surprise as I went to visit [Hilleberg](http://www.hilleberg.se/?set_lang=1). I didn't have an appointment. But there was that tent there, and it looked like a Moment in Dark Green and Red. With large vents. So I spoke to the young lady next to it - it turned out it was the designer of the tent! - and was rather pleasantly surprised by what I heard. Modeled on the ever-popular Akto chassis, the new Yellow Label Enan is a 1,1 kg Hilleberg tent that lives up to the company's standards. It spacious, easy to pitch, uses a new Kerlon 600 material that's still fairly weatherproof and is sold as a 3-Season tent. More Specs: Minimum weight 870 g,  packed weight 1,1 kg, inner height 95 cm (it was good for me), 1.7 m² inner space and 0,8 m² vestibule space. It uses one 9 mm pole to pitch. Lots of good design details in this tent, so expect to read more about it soon.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14646350483" title="Hilleberg Enan by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3868/14646350483_068b962779_b.jpg" width="1024" height="768" alt="Hilleberg Enan"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14476649970" title="Hilleberg Enan by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2904/14476649970_1f5258d38e_b.jpg" width="1024" height="768" alt="Hilleberg Enan"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14646351603" title="Hilleberg Enan by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2936/14646351603_505f0d8704_b.jpg" width="1024" height="768" alt="Hilleberg Enan"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14662957122" title="Hilleberg Enan by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3907/14662957122_501de69dc8_b.jpg" width="768" height="1024" alt="Hilleberg Enan"></a>
+
+## Adidas
+
+[Adidas](http://www.adidas.de/outdoor). terrex. Stealth rubber. Sponsoring some of the top climbers and outdoor athletes of the world. Of course I went and visited them! The terrex line will get a few notable additions like the the terrex Agravic Wind Jacket (105 g in Size 50), the terrex Agravic Tee (120 g in Size 50, made from 50% Merino wool and 50% ThermoCool) and the terrex Agravic Shorts 65 g in Size 50, made from Pertex Equilibrium), which together weigh just 300 g. That's pretty neat. There's also 3L jackets and pants, longsleeves, down jackets, insulated pants, and much more. But you'll still need shoes, and that's where the terrex Boost comes in. The lightweight mountain running shoe features the BOOST™ cushioning technology, which provides more energy return than any other cushioning material in the industry. It will weigh 330 g for one shoe in UK Size 8 and cost 160€. Too bad it doesn't have the Stealth rubber sole.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14640649046" title="adidas terrex by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2920/14640649046_60f80a19fb_b.jpg" width="1024" height="768" alt="adidas terrex"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14640649306" title="adidas terrex by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5554/14640649306_caf8a6c004_b.jpg" width="1024" height="768" alt="adidas terrex"></a>
+
+Cuben? Yes! Adidas makes with the terrex AllAlpine Jacket a 3-layer Cuben & Dyneema jacket that's also breathable and lightweight. With that another very big player has discovered cuben as a material for garments. We can look forward to this will pan out in the future!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14649180176" title="adidas terrex AllAlpine Jacket by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2924/14649180176_f75175b971_b.jpg" width="774" height="1024" alt="adidas terrex AllAlpine Jacket"></a>
+
+## Thule
+
+[Thule](http://www.thule.com/) is a Swedish company that is well know for their superb transport solutions for your gear - be it your bike, skis or surf board, they help you to get your kit safely to the trailhead, beach and anywhere else. But from 2015 onwards, they also will be happy to accompany you along on the trail with their new line of backpacks. There are three lines: The Guidepost, the top of the line carry-all-pack; the Capstone is the weekend backpacking pack and the Capstone Daypacks, which carry your gear on a day out. Not unmentioned shall be the Sapling series, a child carrier that's super-fast and easy to adjust in size so mom and dad can switch carrying their precious load.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14623169351" title="Thule Capstone by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5565/14623169351_64707d9b14_b.jpg" width="768" height="1024" alt="Thule Capstone"></a>
+
+The Capstone above is a nice pack for up to a week long hikes with a tensioned mesh back panel for breathability, a quick access shove-it pocket and a built in rain cover. You can lash gear to the outside, and the MicroAdjust suspension system transfers the weight to your hips and lets you adjust the size in seconds. They'll weigh 1,3 kg for the 32 l pack up to 1,5 kg for the 50 l pack, are made from Cordura and come with a 25 year warranty. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14674668565" title="Thule Women&#x27;s Guidepost 65 l pack by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3920/14674668565_cee4997b54_b.jpg" width="1024" height="1024" alt="Thule Women&#x27;s Guidepost 65 l pack"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14694552013" title="Thule Women&#x27;s Guidepost 65 l lid-pocket pack by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3877/14694552013_bd328ec2d8_b.jpg" width="1024" height="1024" alt="Thule Women&#x27;s Guidepost 65 l lid-pocket pack"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625917222" title="Thule backpacks size adjustment system by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3899/14625917222_e50ce0d739_b.jpg" width="768" height="1024" alt="Thule backpacks size adjustment system"></a>
+
+The Guidepost pack above - it's the 65 l Women's model - is 2,7 kg empty, also made of Cordura and again comes with a 25 year warranty. It has a TransHub suspension system which with a single aluminium stay and spring steel wire frame transfers the pack’s load to your hips. The hipbelt can be removed with the push of a button and turned around - great for transport. You can easily access through a large J zip side access panel your gear inside, which is cool for fishing out the hardshell when it starts to rain. I was impressed by the lid pocket pack: The Thule Guidepost lid transforms into a 24L summit backpack with proper shoulder straps. It's a nice thing to have along if you hike in to a basecamp and then are off for day hikes.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439792229" title="Thule Sapling size adjustment system by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2913/14439792229_d7ae19dbfb_b.jpg" width="1024" height="768" alt="Thule Sapling size adjustment system"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14603397906" title="Thule Sapling size adjustment system by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5593/14603397906_d1afa65be0_b.jpg" width="768" height="1024" alt="Thule Sapling size adjustment system"></a>
+
+The Sapling Child carrier has a brought range of features and comes in an Elite and normal version. The Elite has an extra daypack along, as well as a viewing mirror and extra large hipbelt pockets. On both models is a sunshade, a breathable back panel, a hydration reservoir pocket and the fully adjustable back panel and hipbelt make the transition between parents quick and easy. At 3,6 kg for the Elite or 3,3 kg for the normal Sapling they're not particularly lightweight, though.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439966147" title="Thule Glider &amp; Chariot by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5589/14439966147_01412b5f1c_b.jpg" width="768" height="1024" alt="Thule Glider &amp; Chariot"></a>
+
+And for the sporty moms and dads Thule has brought out the Glider, a sports stroller with a lightweight aerodynamic design which allows you to get the most out of your run on any terrain. It's 9 kg light, has a hand brake, rear suspension, a padded seat and a multi-position canopy for sun and rain protection. It's fast and works well on forest roads, as a member of the Thule Adventure Team assured me!
+
+## Röjk
+
+[Röjk](http://rojksuperwear.com/index.php/sv) is from Sweden as you know from my [Hoody review](http://hikinginfinland.com/2012/11/hoodylicious.html), and the guys have a hand for making winning products. Their PrimaLoft Zippen Hood has won the SOG overall award on the fair and is a hoody that combines the benefits of Merino wool with PrimaLoft polyester. It's very comfy and has great attention to details - zippered side pockets with hem adjusters inside, a protective hood and thumbloops. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14671714481" title="Röjk PrimaLoft Zippen Hood by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3908/14671714481_f3360b33e8_b.jpg" width="768" height="1024" alt="Röjk PrimaLoft Zippen Hood"></a>
+
+There's plenty more of good garments coming from them, including a beautiful Merino Helmet Hood (100% Merino!), the super chic SuperTees (also 100% Merino) which have cool art prints on them, the SleeveLess Vest and the Atlas Shorts. All of these will be available for guys and girls, and their hats and socks are Unisex either way =)
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14488458737" title="Röjk SuperTee by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3893/14488458737_32e30152b4_b.jpg" width="1024" height="768" alt="Röjk SuperTee"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14488232700" title="Röjk Atlas Shorts by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3878/14488232700_660f458995_b.jpg" width="1024" height="768" alt="Röjk Atlas Shorts"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14488248459" title="Röjk by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2921/14488248459_4cd8d5119f_b.jpg" width="1024" height="768" alt="Röjk"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14674907665" title="Röjk Everyday Socks by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3837/14674907665_5d6a49306c_b.jpg" width="1024" height="768" alt="Röjk Everyday Socks"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14651903226" title="Röjk PrimaLoft Hiker Socks by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3853/14651903226_1bb88029cf_b.jpg" width="1024" height="768" alt="Röjk PrimaLoft Hiker Socks"></a>
+
+## The North Face
+
+[The North Face](http://www.thenorthface.eu/) had several interesting news. At the top is of course their FuseForm™ Originator Jacket which uses the new FuseForm™ construction in which fabrics are not taped and sewn together but fused, making for lighter weight while still having a high abrasion resistance. The Originator is a HyVent™ 2.5L jacket, part of the Summit Series and hence made for the mountains.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14633678422" title="The North Face FuseForm™ Originator Jacket by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3863/14633678422_c3b9fb45dc_b.jpg" width="1024" height="768" alt="The North Face FuseForm™ Originator Jacket"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447718687" title="The North Face FuseForm™ Originator Jacket by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5523/14447718687_321889ce9c_b.jpg" width="1024" height="768" alt="The North Face FuseForm™ Originator Jacket"></a>
+
+The ThermoBall Hybrid Hoodie is from the Hike Collection and uses, as the name implies, the Thermoball™ insulation to keep your core warm. Stretch softshell sides and side panels make sure you don't overheat. On the back this Gentlemen is wearing the new Litus 32 pack, a 879 g rucksack that's good for *multi-day adventures*, as TNF says.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14447475250" title="The North Face ThermoBall Hybrid Hoodie by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3903/14447475250_17efa83af6_b.jpg" width="768" height="1024" alt="The North Face ThermoBall Hybrid Hoodie"></a>
+
+The Ultra MT shoe will weigh 580 g in Size 9 for the pair and uses a new Vibram® Mega-grip outsole and a breathable Ultra Airmesh over the quarter. It's a light shoe with a sole design which I [have seen somewhere before](http://hikinginfinland.com/2013/04/salomon-speedcross-3.html) so it could well be that this is going to be a very popular shoe amongst trailrunners and backpackers alike. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14633674142" title="The North Face by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3865/14633674142_3956c19d89_b.jpg" width="768" height="1024" alt="The North Face"></a>
+
+## Merrell
+
+It felt a bit like [Merrell](http://www.merrell.com/) was moving away from low drop/ barefoot style like shoes. While the drop in the AllOut Charge underneath is just 6 mm it does have 20 mm cushioning. It's a Vegan shoe and has an improved UniFly sole. It got reflective details for those dusk till dawn runs and those lugs are 5 mm deep - that's serious grip in crap terrain - and has a HyperWrap lacing system which should give a snug fit while maintaining agility. One shoe is 283 g in Size 9.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14670977632" title="Merrell AllOut Charge by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2927/14670977632_21b2a98cee_b.jpg" width="1024" height="1024" alt="Merrell AllOut Charge"></a>
+
+The Capra Series is classified for *Speed Hiking* so fastpackers will rejoice. There's a Mid and a low-cut shoe, with and without Gore-Tex lining. The low-cut Sport is 383 g heavy with a Vibram Mega Grip sole (3,5 mm deep lugs). Smelly feet or shoes will be eliminated with the M-Select FRESH odour control treatment while the UniFly midsole cushions hard impacts. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14484652858" title="Merrell Capra by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3882/14484652858_1440cf10da_b.jpg" width="768" height="1024" alt="Merrell Capra"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14484827477" title="Merrell Capra sole by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5576/14484827477_4a849cf372_b.jpg" width="1024" height="768" alt="Merrell Capra sole"></a>
+
+## REAL Turmat
+
+[REAL Turmat](http://www.drytech.no/) has two new meals for the hungry backpacker: Chocolate Müsli for breakfast and Chicken Tikka Masala for dinner. I haven't tried them yet, but I have a sample of either so expect a post on them in the future. Nom nom. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14683526103" title="REAL Turmat by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3876/14683526103_73ba89a540_b.jpg" width="768" height="1024" alt="REAL Turmat"></a>
+
+## MSR
+
+[MSR](http://www.cascadedesigns.com/en/msr) is slowly but steadily becoming an ultralight company. The MSR Windboiler is a further development of the Reactor and uses a radiant burner design and is completely enclosed - no windscreen needed. Weight? The 1L pot with cozy, lid, cup and pack towel is 284 g, claimed minimum weight with the stove unit is 432 g. MSR gives a boil time of 4,5 minutes for 1l of water. It stands higher than a Reactor, will have a Hanging Kit and Coffee Press Kit available with it and the set will be 130€. Playing around with it at the fair I can say it is a nice stove and I'm looking forward to try it out on future trips. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625930622" title="MSR WindBoiler by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3872/14625930622_4e9349fc1b_b.jpg" width="1024" height="768" alt="MSR WindBoiler"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14646335193" title="MSR WindBoiler Stove by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2919/14646335193_96f99f034f_b.jpg" width="768" height="1024" alt="MSR WindBoiler Stove"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14624305174" title="MSR Reactor and MSR WindBoiler by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5584/14624305174_b17f444bfc_b.jpg" width="768" height="1024" alt="MSR Reactor and MSR WindBoiler"></a>
+
+Another trend one was able to see at the fair was that big companies figured out that one can use trekking poles as tent poles. There were a few companies presenting shelters that employ trekking poles, and the MSR Flylite looked to me like one of the better designs. It has a minimum weight of 710 g and a claimed packed weight of 1.020 g. It's a nice design - it remembers me of our Laavus here in Finland - and some smart details: Pockets for the trekking poles at the roof, large mesh windows in the back, front and side, small storage pockets inside, large entry. It will cost 350€, which is *slightly* more expensive than many UL shelters.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14477024448" title="MSR Flylite by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2912/14477024448_43ba1039e3_b.jpg" width="1024" height="768" alt="MSR Flylite"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14660433701" title="MSR Flylite by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3874/14660433701_fe4d1dbc4a_b.jpg" width="1024" height="768" alt="MSR Flylite"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14624303634" title="MSR Flylite by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5504/14624303634_f1f2587cec_b.jpg" width="1024" height="768" alt="MSR Flylite"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14624303064" title="MSR Flylite trekking pole pocket by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3859/14624303064_7956a42c2f_b.jpg" width="768" height="1024" alt="MSR Flylite trekking pole pocket"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14683550123" title="MSR Flylite by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2920/14683550123_da4e04bc71_b.jpg" width="1024" height="768" alt="MSR Flylite"></a>
+
+On the MSR Hubba NX front we'll see now also green as a colour option. 
+
+**Enjoyed this?** Follow along on [Facebook](http://facebook.com/hikinginfinland), [Twitter](https://twitter.com/hendrikmorkel) and [Google+](https://plus.google.com/u/1/b/105082905705272949032/105082905705272949032/posts). More photos you can find on the [Flickr OutDoor 2014](https://www.flickr.com/photos/hendrikmorkel/sets/72157645582553771/) set. 
+
+<a href='http://ko-fi.com?i=8d16909703c77d0' target='_blank'><img style='border:0px' src='http://ko-fi.com/img/button-1.png' border='0' alt='Buy Me A Coffee :) @ ko-fi.com' /></a>

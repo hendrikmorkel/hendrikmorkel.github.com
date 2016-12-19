@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Julbo Trek Sunglasses"
+date: 2015-06-25 23:34
+comments: false
+categories: [sunglasses, Julbo]
+keywords: Julbo Trek sunglasses review, Zebra lenses
+description: A review of the Julbo Trek sunglasses with Zebra lenses
+---
+
+My [Julbo Dolgan Sunglasses](https://hikinginfinland.com/2011/04/julbo-dolgan-sunglasses.html) started to arrive at the end of their life-cycle, so I was looking around for a new pair that's suitable for hiking, mountaineering and cycling alike. I settled on the [Julbo Trek](http://www.unterwegs.biz/en/julbo-trek-503333.html?farbe=schwarz%2Fgrün) shades with Zebra lenses, and after using them for several months & on five trips it's time for a review.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/18954779610" title="Julbo Trek underneath Otiš and Zelena Glava in Bosnia &amp; Herzegovina by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/499/18954779610_18fc8a33e4_b.jpg" width="1024" height="683" alt="Julbo Trek underneath Otiš and Zelena Glava in Bosnia &amp; Herzegovina"></a>
+
+<!-- more -->
+
+I like sunglasses and wear a pair almost all the time, be it for cycling, walking through town, mountaineering or ice climbing, if I'm outside I 8 out of 10 times am having a pair of shades on my nose. The [Julbo Dolgan Sunglasses](https://hikinginfinland.com/2011/04/julbo-dolgan-sunglasses.html) I own have seen over five years of use and countless trips, and it started to be time to pick up a new pair. The Golgan were great, but I wanted something with lighter lenses that's more suitable for cycling in spring and autumn, when the main reason to wear glasses for me is to keep rain, dirt and bugs out of my eyes. After some research I settled on the [Julbo Trek Sunglasses with Zebra lenses](http://www.unterwegs.biz/en/julbo-trek-503333.html?farbe=schwarz%2Fgrün), and [Unterwegs.biz](http://www.unterwegs.biz/en/) was friendly enough to send me a pair for review.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/18954780390" title="Julbo Trek Zebra Front by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/526/18954780390_c17b747d74_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Front"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/19116318046" title="Julbo Trek Zebra Top by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/292/19116318046_f37bc7d342_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Top"></a>
+
+The Trek with Zebra lenses are a multifunctional pair of shades and fulfill all my needs. I have worn them backpacking in Bosnia & Herzegovina, packrafting in Austria, paragliding in Italy, cycling at home and [mountaineering in France](https://hikinginfinland.com/2015/06/arcteryx-alpine-academy-chamonix-2015.html), and have worn them almost daily since they arrived here four months ago. The pair with all parts attached weighs 45 g with the weight being broken down like this:
+
+- 32 g Julbo Trek sunglasses
+- 04 g Sweat Blocker
+- 03 g Side pieces (two)
+- 06 g Headband
+
+That makes the Trek shades slightly heavier as the Dolgan, but I like the added protection of the larger glasses, the Sweat Blocker and the headband, which keeps the Trek securely on my head and of course the better lenses in my opinion. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/18954781430" title="Julbo Trek Zebra Headband by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/265/18954781430_c01d0d9168_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Headband"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/18956356919" title="Julbo Trek Zebra Frontside with pieces detached by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/285/18956356919_de384df2ea_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Frontside with pieces detached"></a>
+
+It's not all great, though: The foam on the Sweat Blocker piece which you can attach to the top of the glasses started to come off after just a couple of weeks of use, which I find poor design. It also helps to trap more heat and lets the glasses fog up more easily. It also doesn't stop all sweat, but then I can excuse that as hiking in 30°C temperatures for 30 km with over 2.000 m ascent is a sweaty business and sweat running down your brow an expected outcome. I hope Julbo will look into this, I find it not really acceptable for this to happen.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/18956355149" title="Julbo Trek Zebra Back by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/527/18956355149_af67415ef4_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Back"></a>
+
+After the foam started to come lose I took the Sweat Blocker part off, and it has been good thus far. Either I have started to sweat less or just haven't hiked in 30°C weather, but I had no sweat yet run into my eyes. Also the foggin up problems has been solved, which I blame on the improved ventilation. The side parts, which are also removable and are easily clipped on and off, are good to keep side glares away and headwind/ side wind out. The big thing about these sunglasses are obviously the lenses, and you pay 50€ extra for them over the standard Spectron 4 lenses (which I have on the Dolgan). Here's what Julbo says about the Zebra lenses:
+
+> *The Zebra® photochromic lens darkens or lightens depending on the light’s intensity. It can change from a light transmission rate of 42% to just 7%! Its anti-fog coating, directly integrated via laser, guarantees maximum efficiency and long life. Zebra® is recommended for mountain biking, trail biking, running, climbing, skiing, riding and other outdoor sports.*
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/18954782190" title="Julbo Trek Zebra Frontside by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/257/18954782190_d43e043fce_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Frontside"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/18956354569" title="Julbo Trek Zebra inside by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/428/18956354569_21df201b4a_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra inside"></a>
+
+The lenses are lighter in terms of opacity than the Dolgan, and that's something I value in traffic & cycling, especially in spring when dusk comes earlier than now and darker lenses like the Spectron 4 make driving safely more difficult, especially if it's also raining. In bright weather, like high in the mountains and on summer days, the Zebra lenses darken enough to make bright conditions less stressful on the eyes. I found the lighter Zebra lenses also comfortable on snow & ice and found they block glare just as well as darker lenses, and they made seeing details in snow & ice no problem. Fogging up has been only a problem with the Sweat Blocker on the shades, without it the ventilation is superb and even when running up a hill in 20°C sunshine & running hot I didn't get the shades to fog up. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/18954777480" title="Julbo Trek with Zebra Lenses after cycling up to Heuberg, Kaiserwinkl by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/303/18954777480_21f699d1ec_b.jpg" width="1024" height="683" alt="Julbo Trek with Zebra Lenses after cycling up to Heuberg, Kaiserwinkl"></a>
+
+The fit of the Trek is on the larger side for my head, and hence I find the headband necessary to keep the shades securely on my head. They fit well under my [Sirocco Helmet](https://hikinginfinland.com/2014/03/petzl-sirocco-helmet.html) with a thin beanie underneath it, and also on their own make for a good fit. At the beginning the nose piece was slightly uncomfortable after several hours of wearing them, but that was just a question of getting used to them and nowadays I can wear them for 8 hours straight without needing to take them off. They do look big if you hold them in your hands, but I find they fit my rather slim face well & then don't look big anymore and are much smaller than e.g. Oakley shades I own. The Trek come with a soft bag which doubles as a cleaning wipe and a hard protective case. I haven't used the protective case yet as I find it too bulky for transport on the trail, but the soft bag is all the time along when I'm out with the Trek on my nose. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/19136742902" title="Julbo Trek with sweat-guard &amp; side pieces by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/411/19136742902_c3df868ba1_b.jpg" width="1024" height="768" alt="Julbo Trek with sweat-guard &amp; side pieces"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/19142484395" title="Julbo Trek Zebra Protective Cases by Hendrik Morkel, on Flickr"><img src="https://c1.staticflickr.com/1/495/19142484395_fc6ca7cfe0_b.jpg" width="1024" height="768" alt="Julbo Trek Zebra Protective Cases"></a>
+
+**In conclussion** I can say that I can recommend the Julbo Trek Sunglasses with Zebra lenses. They fit me well, work great for all activities I do - from hiking over cycling to mountaineering - and are protecting my eyes well from the sun, glare, rain and dirt. I like that they're adaptable and that I can take off the extra side pieces and Sweat Blocker, though I'd wish that the latter would be better constructed. The lenses adapt well to different light situations and the headband ensures a secure fit, be it under a helmet or over a beanie. At 135€ they're not the cheapest pair, but I recognice that I'll be using them for the next five years at least very actively so I think they're worth it.
+
+Check out the [eyewear for mountaineers, cyclists and hikers](http://www.unterwegs.biz/en/sunglasses.html) at [Unterwegs.biz](http://www.unterwegs.biz/en/).
+
+*By the way, a thing I really like from Unterwegs.biz is that they pay attention to the size of shipping packages. I always wince if I get a large package just to find a carabiner and a boxershorts in it, it feels like a massive waste of space & generates more emissions and costs. Unterwegs.biz always seems to send gear in the smallest package possible, which I value highly from an environmental point of view.*
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/19112250891" title="PackSailRafting by Hendrik Morkel, on Flickr"><img src="https://c2.staticflickr.com/4/3912/19112250891_74dac9c6b5_b.jpg" width="1024" height="683" alt="PackSailRafting"></a>

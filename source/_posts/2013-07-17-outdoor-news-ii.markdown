@@ -1,0 +1,111 @@
+---
+layout: post
+title: "OutDoor News II"
+date: 2013-07-24 02:04
+comments: false
+categories: [OutDoor Fair 2013, news, gear]
+published: true
+---
+
+More news from the world's biggest outdoor fair, the OutDoor in Friedrichshafen.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9308085754/" title="Haglöfs"><img src="http://farm8.staticflickr.com/7379/9308085754_cc8d9881db_b.jpg" width="1024" height="680" alt="Haglöfs"></a>
+
+<!-- more -->
+
+## Berghaus
+
+The highlights at [Berghaus](http://store.berghaus.com/) were the Vapour Light Hyper Smock and the Vapour Light Hyper Therm, two very lightweight garments which will make Ultralight Backpackers very happy. The Hyper Smock is a 110 g (Size L) waterproof (!) jacket. It packs tiny, has a deep zipper for venting, an adjustable hood, elastic cuffs and a sleeve pocket. With current waterproof jackets weighing in at 200+ gram and more, this is in the UL realm quite a substantial weight saving. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9304754629/" title="Vapour Light Hyper Smock"><img src="http://farm8.staticflickr.com/7375/9304754629_1a413d1bc1_b.jpg" width="680" height="1024" alt="Vapour Light Hyper Smock"></a>
+
+The Vapour Light Hyper Therm could be considered an updated, lighter and better Infinity Smock, the very popular Berghaus insulation garment. The Hyper Therm is a reversible jacket - one side is for warmer weather, and one for cooler temperatures. Full zip, elastic cuffs, no hood, a very minimalistic insulation garment that adapts to the conditions. A highly air permeable fabric allows air to circulate through the insulation for cooling on the one side, while a wind-resistant outer shell keeps wind out and heat in but allows perspiration to escape. Should weigh about 167 g.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307539194/" title="Vapour Light Hyper Therm"><img src="http://farm8.staticflickr.com/7361/9307539194_8a1ddea6e3_b.jpg" width="680" height="1024" alt="Vapour Light Hyper Therm"></a>
+
+The Hyper 22 Rucksack is a minimalist backpack with large mesh pockets on the side and front, a zip opening, and a carrying system similar to the Octans backpack. It looked like a good, simple design which could become a popular entry UL backpack. There's going to be a 37 l version with a lid, as well as a bunch of other really good looking gear for trail running, alpine endeavours and hiking.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9304760473/" title="Hyper 22 Rucksack by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7401/9304760473_b9c9a65735_b.jpg" width="680" height="1024" alt="Hyper 22 Rucksack"></a>
+
+## OutDry
+
+I visited OutDry, who make in my opinion one of the best membranes on the market. My [Scarpa Phantom Ultra](http://hikinginfinland.com/2013/04/scarpa-phantom-ultra-boots.html) have OutDry, and it's a superb material. OutDry is directly laminated to the upper and is not just another layer of material which means the water can not penetrate and stay in the glove/ shoe as it can with other membranes. More and more companies start to use OutDry, which is great for us consumers. One of the latest innovations is a Mountain Hardwear backpack which uses OutDry - this makes it virtually completely waterproof and thus will be of interest for those who are a lot outdoors in the rain or go packrafting. Also the Montrail Bajada trail running shoe uses OutDry, so I think we'll soon hear more about this technology in UL circles.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307562076/" title="071213_7207 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7300/9307562076_12e2172c1e_b.jpg" width="1024" height="680" alt="071213_7207"></a>
+
+## Scarpa
+
+[Scarpa](http://en.scarpa.net/) is finally again available in Finland! You already can get their superb climbing shoes and mountaineering boots in various shops (Prisma Tampere!) so if you have waited for your chance to try on a pair of Phantom Ultra boots or Feroce climbing shoes, now you have the chance!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9358401807/" title="IGNITE by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5346/9358401807_4d228debb4_b.jpg" width="1024" height="787" alt="IGNITE"></a>
+
+New from Scarpa this year is the Ignite, a trailrunning shoe which weighs 610 g for the pair in Size 42,5. An 8 mm drop adds some cushioning, and an EVA midsole protects your foot from roots and rocks on the trail. Ueli Steck uses these shoes (he just finished the Eiger Ultra!) so expect them to be good.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9358357925/" title="INSTINCT VS BLACK by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7410/9358357925_150d99b239_b.jpg" width="1024" height="904" alt="INSTINCT VS BLACK"></a>
+
+The Instinct VS Black weighs 400 g for the pair in Size 40,5. A XS grip2 3.5 mm sole adds grip on difficult routes, and they're recommended for bouldering, indoors and sport climbing. 
+
+Also mountaineers and traditional backpackers will be like the new shoes from Scarpa, be it the MONT BLANC GTX PRO for technical mountain adventures or the MONT BLANC GTX PRO PRO GTX which is a classical trekking boot, or the ZEN PRO and ZEN PRO GTX which are approach shoes which have a COCONA® lining.
+
+## Sherpa Adventure Gear
+
+I have been reading during the last 12 months more and more about Sherpa Adventure Gear and so was excited to meet them in Friedrichshafen. The company was founded by Tashi Sherpa in 2003, produces 95% of the garments in Nepal, reinvests much of the profits in the region into schools, hospitals et al. and hence is a model company if it comes to Corporate Social Responsibility. But not only the history and social record of the company is fascinating, also their garments are top notch. Great waterproofs and insulation jackets, wonderful colours, good cuts and attention to details and also a superb looking female line, this is a company you definitely should check out if high quality and a great CSR record is important for you.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305170667/" title="071213_9560 by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5473/9305170667_a9ba0e6d6a_b.jpg" width="1024" height="680" alt="071213_9560"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305164205/" title="071213_9556 by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2891/9305164205_98c862ffa4_b.jpg" width="1024" height="680" alt="071213_9556"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307950420/" title="071213_9558 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7323/9307950420_562ea16d8b_b.jpg" width="1024" height="680" alt="071213_9558"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307960818/" title="071213_9562 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7350/9307960818_ea49733031_b.jpg" width="680" height="1024" alt="071213_9562"></a>
+
+## Haglöfs
+
+Haglöfs has re-vamped the LIM - Less Is More - line and there's a host of interesting garments coming from them, all in fresh colours and many bluesign certified. The Essens Jacket for example is a 185 down jacket. They also bring out trailrunning shoes, which use ASICS' knowledge in making shoes (Haglöfs is owned by ASICS) and did look very nice. The lightest shoe was 195 gram and had a aggressive profile, thus should have good grip on trails. Also other lines employed a LIM approach, and designs were minimized but kept their function and good designs.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305177433/" title="071213_9563 by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5331/9305177433_e446e54443_b.jpg" width="1024" height="680" alt="071213_9563"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307962926/" title="071213_9564 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3669/9307962926_e605f3f48b_b.jpg" width="1024" height="680" alt="071213_9564"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305179731/" title="071213_9565 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7454/9305179731_de200d4110_b.jpg" width="680" height="1024" alt="071213_9565"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305187857/" title="071213_9567 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7444/9305187857_7e80a2c51b_b.jpg" width="680" height="1024" alt="071213_9567"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307973846/" title="071213_9568 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7352/9307973846_d459700980_b.jpg" width="1024" height="680" alt="071213_9568"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307997472/" title="071213_9582 by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2883/9307997472_29abfde5da_b.jpg" width="680" height="1024" alt="071213_9582"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305316413/" title="071213_9578 by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2822/9305316413_198ee070f9_b.jpg" width="1024" height="680" alt="071213_9578"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305307231/" title="071213_9577 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7329/9305307231_2909902a8d_b.jpg" width="1024" height="680" alt="071213_9577"></a>
+
+The sleeping bag line was completely overhauled, too. The top of the line bag employs a zipper similar to the GoLite Adrenaline now, but looks better made and warmer. The Indus syntethic blanket is 200 x 130 cm and uses Pertex Quantum as a shell, and is interesting for those who want a syntetic quilt. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305199769/" title="071213_9573 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3696/9305199769_c20d5b8f4c_b.jpg" width="1024" height="680" alt="071213_9573"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305299657/" title="071213_9572 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3730/9305299657_25eea1213e_b.jpg" width="1024" height="680" alt="071213_9572"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305206419/" title="071213_9580 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3694/9305206419_297af2012c_b.jpg" width="680" height="1024" alt="071213_9580"></a>
+
+## Inov-8
+
+[Inov-8](http://www.inov-8.com/new/) comes out with some very cool products for fell and trail runners. The backpack comes with a 2 l, insulated reservoir and two 500 ml bottles, and if you take everything out will lay completely flat on your body - no annoying straps, pockets or anything else to hinder you while running. This happens because of elastic mesh pockets (they will also hold other bottles than the provided ones). It's a One-Size-Fits-All design that can be adjusted in multiple ways to fit you, and a few additional mesh pockets will hold power gels, shots, and small items. The UltraRace Hand pouch holds an flexible 250 ml bottle for on the run, and in the mesh pocket you also can fit a energy gel or your keys. Quick hydration on the go, this could also be of interest for hikers.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307998658/" title="071213_9584 by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2848/9307998658_60b91f5da6_b.jpg" width="1024" height="680" alt="071213_9584"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305219315/" title="071213_9585 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3762/9305219315_4479fb5b78_b.jpg" width="1024" height="680" alt="071213_9585"></a>
+
+The shoes coming from Inov-8 are obviously of the most interest. Classics like the much-loved [X-Talon 190](http://hikinginfinland.com/2012/07/inov-8-x-talon-190.html) is re-vamped and comes now in orange with a much more durable mesh upper, while still being so wonderfully light. It also comes with more of a toe box, so should be quite a bit more durable. The TrailRoc 165 is the Barefoot trailrunning shoe which had me really excited. It sports the triple design sole which uses different materials in different areas for improved grip and durability. The TrailRoc 245 has a bit more cushioning, and the TrailRoc 255 will have you walk on clouds. All in all a really great line-up in fantastic colours. Oh, and the ROCLITE™ 286 GTX returns. Rejoice for the lightest boot available!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305226153/" title="071213_9587 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3830/9305226153_8fca61bb51_b.jpg" width="1024" height="680" alt="071213_9587"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9308012682/" title="071213_9588 by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2863/9308012682_f22be4019f_b.jpg" width="1024" height="680" alt="071213_9588"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9308036394/" title="071213_9591 by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5456/9308036394_8d27aaefc8_b.jpg" width="1024" height="680" alt="071213_9591"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305271651/" title="071213_9594 by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5520/9305271651_8649b00421_b.jpg" width="1024" height="680" alt="071213_9594"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9308061412/" title="071213_9595 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7456/9308061412_27987724d6_b.jpg" width="1024" height="680" alt="071213_9595"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305259989/" title="071213_9593 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3739/9305259989_ce7bd3e0ce_b.jpg" width="1024" height="680" alt="071213_9593"></a>
+
+## Drytech | Real Turmat
+
+The Norwegians from [Drytech](http://drytech.no/index.php/en/) have a new taste in their line up - Kebab casserole - and also added soups (Meat Soup) a while ago to their offerings. I haven't tried it yet but am sure they will be as tasty as the other meals from them. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9358468649/" title="Real Turmat by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3833/9358468649_52093206b1_b.jpg" width="1024" height="768" alt="Real Turmat"></a>
+
+## Crux
+
+[Crux](http://www.crux.uk.com/en/index.php) won an OutDoor Award for their X1 Strike shelter. This is a highly breathable mountain tent for two and gear, and I can imagine this shelter become very popular among ultralight backpackers who venture out in winter and high altitudes. The design is stormproof - Carol, the owner of Crux and Lightwave, regularly tests his designs in the New Zealand Alps and Himalayas - and can be attached to a belay via the hoop at the roof, so if you're looking for something to pitch on an exposed ledge, this could be it. It also should be a super breathable shelter, employing a carbon coated fabric which drives moisture through to the outside. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9304783551/" title="071213_7210 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7346/9304783551_216896734d_b.jpg" width="1024" height="680" alt="071213_7210"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9307567550/" title="071213_7211 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7428/9307567550_64513d4428_b.jpg" width="1024" height="680" alt="071213_7211"></a>
+
+## PowerTrekk
+
+[PowerTrekk](http://powertrekk.com/) finally has made it to market! I have followed this company from Sweden for the last two years, and am happy to see that their charger is now available to buy. The system has three parts: The green "top" which also has a battery which you can charge at home, the black "bottom" where is a water tank and opening for the hydrogen "puck". The pucks are replaceable and work a bit like coffee machines which use those pods - you put the pod into the bottom, connect it to the top and then close it. Then you attach your gadget which will be charged. It didn't feel too light, but if you go outdoors and need to keep your smartphone, etc. charged this might be a very good solution. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9305326495/" title="071113_7280 by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3702/9305326495_cf794be771_b.jpg" width="1024" height="680" alt="071113_7280"></a>

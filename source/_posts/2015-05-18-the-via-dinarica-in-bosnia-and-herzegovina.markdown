@@ -1,0 +1,34 @@
+---
+layout: post
+title: "The Via Dinarica in Bosnia and Herzegovina"
+date: 2015-05-18 23:54
+comments: false
+categories: [Via Dinarica, Bosnia and Herzegovina, Dinaric Alps]
+keywords: Via Dinarica, Bosnia and Herzegovina, Dinaric Alps
+description: A teaser from my adventures on the Via Dinarica in Bosnia and Herzegovina.
+---
+
+I returned last Friday from a beautiful backpacking trip on the Via Dinarica in Bosnia and Herzegovina. It's wild, gorgeous and has lots to offer to backpackers, packrafters, mountaineers and bikepackers alike. *A teaser of things to come.*
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17715452652" title="Looking towards Maglić by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7771/17715452652_19f6ddb3dd_b.jpg" width="1024" height="683" alt="Looking towards Maglić"></a>
+
+<!-- more -->
+
+I'm a tad busy so a detailed write-up has to wait, but enjoy one photo of each day (and then book your flights to Sarajevo to experience your own Balkan adventure)!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17482619688" title="Snow Ridge by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5446/17482619688_90251c50aa_b.jpg" width="1024" height="683" alt="Snow Ridge"></a>
+Day 1 gave a taste of the snowy things to come. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17788651356" title="In the mist &amp; rain on Prenj by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8837/17788651356_56418d585d_b.jpg" width="683" height="1024" alt="In the mist &amp; rain on Prenj"></a>
+Day 2 brought rain, mist and climbing 60° snow slopes without mountaineering gear.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17194614483" title="Jezerce Mountain Hut in the background by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7770/17194614483_2bf6ddcfb6_b.jpg" width="1024" height="683" alt="Jezerce Mountain Hut in the background"></a>
+A relaxed lunch was had at the Jezerce Mountain Hut on Day three.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17192476044" title="Dubocani village by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8868/17192476044_a79da411f8_b.jpg" width="1024" height="683" alt="Dubocani village"></a>
+Nestled in the lush, green valley was the Dubocani village we passed on Day four.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17192470994" title="Upward to Maglić by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5467/17192470994_490c3fd46a_b.jpg" width="1024" height="683" alt="Upward to Maglić"></a>
+And on Day five we climbed up to Maglić, the highest summit of Bosnia and Herzegovina.
+
+**Stay tuned for more shortly!**

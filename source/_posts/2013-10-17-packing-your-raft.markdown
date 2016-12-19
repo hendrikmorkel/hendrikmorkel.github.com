@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Packing your raft"
+date: 2013-10-17 10:15
+comments: true
+categories: [Packrafting, ULA Equipment, technique, backpacks]
+---
+
+I really like the [ULA EPIC](http://bit.ly/WUaRuk) for packrafting, though I never liked how they suggested to pack your packraft on it. Until I figured out a much better way to carry it.
+
+<a href="http://hikinginfinland.com/2013/10/packing-your-raft.html" title="ULA Equipment EPIC"><img src="http://farm3.staticflickr.com/2820/10324096124_daec431087_b.jpg" width="1024" height="680" alt="ULA Equipment EPIC"></a>
+
+<!-- more -->
+
+The [ULA Equipment EPIC](http://bit.ly/WUaRuk) was made for packrafting, and I have been using it for over three years. It's a great pack for that activity, the possibility to use it with dry sacks of different volumes is excellent. However, I did not like how the packraft was supposed to be carried in the pack: Rolled together at the bottom of the pack, even strapped underneath it. Even when packrafts are light, 2,5 kg at the bottom of a pack isn't comfortable for me. So I started to experiment to find a better way to carry the packraft, with the weight further up.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9534961449/" title="Wet packraft &amp; paddle"><img src="http://farm8.staticflickr.com/7432/9534961449_d2ae90436e_b.jpg" width="1024" height="680" alt="Wet packraft &amp; paddle"></a>
+
+My first tries saw me using a mat (a [Z-Lite](http://www.bergfreunde.de/therm-a-rest-z-lite-sol-isomatte/) or [RidgeRest](http://www.bergzeit.de/therm-a-rest-ridgerest-solite-isomatte/) usually) at the bottom to push the rolled packraft further up. That worked OK, but wasn't perfect. Then, on a packrafting trip it hit me: Why roll the raft at all - it could just as well be laid out double against the backpanel of the EPIC, and the dry sack goes in front of it. The thought was implemented, and I was surprised about how much better the whole pack carried in an instant! With hindsight this isn't surprising - traditional packing of a backpack suggests you pack heavy items in the centre of the pack, close to the back. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10324280143/" title="ULA Equipment EPIC"><img src="http://farm4.staticflickr.com/3706/10324280143_ce55d2e92d_b.jpg" width="1024" height="680" alt="ULA Equipment EPIC"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10324123586/" title="ULA Equipment EPIC"><img src="http://farm3.staticflickr.com/2830/10324123586_04e4a399b2_b.jpg" width="1024" height="680" alt="ULA Equipment EPIC"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10324133366/" title="ULA Equipment EPIC"><img src="http://farm4.staticflickr.com/3733/10324133366_eb1368e674_b.jpg" width="1024" height="680" alt="ULA Equipment EPIC"></a>
+
+So how to pack it? After the raft is dry, I fold my packraft twice - the two sides are folded into the middle (the seat area). This makes for a more compact package than folding it just once in the middle and makes it only slightly wider than the backpanel of the EPIC. I then open the EPIC completely up, fold the packraft twice and lay it down. Dry sack on top, close the side and top buckles, slide in the paddle and pull the straps tight, and you're done! With longer rafts - I got the small Alpaca - you might need to fold it maybe four times, but it still should result in a fairly flat package.
+
+This works especially well with the [Alpacka packrafts](http://www.alpackaraft.com/), but also should work just fine with rafts from [Klymit](http://bit.ly/ZDiyFO), [FlyWeight Designs](http://flyweightdesigns.com/), [Supai Adventure Gear](http://www.supaiadventuregear.com/) and others, even if these packrafts are lighter and more compact to pack. You could employ this technique also with another backpack, as long as the pack has enough volume and is wide enough. You also can pack it inside a dry sack this way, though both of these options are a bit more fiddly. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10324127325/" title="ULA Equipment EPIC"><img src="http://farm3.staticflickr.com/2888/10324127325_ee111960fd_b.jpg" width="1024" height="680" alt="ULA Equipment EPIC"></a>

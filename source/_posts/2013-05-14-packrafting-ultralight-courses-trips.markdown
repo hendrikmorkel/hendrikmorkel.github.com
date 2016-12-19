@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Packrafting & Ultralight Backpacking Courses"
+date: 2013-05-16 12:21
+comments: false
+categories: [guided trips]
+published: true
+---
+
+It is summer - the best time to be outdoors. It is also the right time to learn to packraft, pack light, and experience the best places the North of Europe has to offer. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7753141970/" title="Through the valley by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8428/7753141970_9a0b73b41f_b.jpg" width="1024" height="573" alt="Through the valley"></a>
+
+<!-- more -->
+
+## Courses
+
+There's [three courses](http://hikinginfinland.com/guided-trips/) available at the moment: An introduction to packrafting course and two ultralight backpacking courses. The basics course is for beginners and people who would like to learn about lightweight gear, while the immersion course is for intermediate and advanced backpackers in which you'll deepen your knowledge and experience some of the most rugged and beautiful wilderness the North has to offer.
+
+**Introduction to packrafting**
+
+If you'd like to add a new way to enjoy the outdoors to your toolkit, then the packrafting course is for you. We head to Ruunaa, the Finnish Mecca of white water sports. But before we head down the rapids, you learn on the dry and a lake how to paddle in a packraft. All the needed gear - a PFD, paddle and Packraft - are included in the course, and we'll also talk about combining it with lightweight gear for your future trips. After this course you will feel confident to paddle in a packraft and will see water elements on maps as a new way to experience the outdoors.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8723302685/" title="Packrafting by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7353/8723302685_6d85bb6502_b.jpg" width="1024" height="668" alt="Packrafting"></a>
+
+**Ultralight Backpacking Basics**
+
+This is the course for those who want to learn how to lighten up. Lightweight backpacking allows you to enjoy more of the trail and nature around you, see more, feel better, hike further and be closer to the outdoors. Less weight on your shoulders means more fun while hiking, but we don't forgo comfort and safety - you will eat & sleep well, forgo blisters and learn to navigate off-trail.
+
+*If you're coming from outside Finland the Nuuksio & Seitseminen courses are a good choice for you - you can fly directly to Helsinki or Tampere respectively and reach the destinations very easily by public transportation from there.*
+
+**Ultralight Backpacking Immersions**
+
+You want to see the wildest corners of Finland, climb the highest mountains, tenkara fly-fish in wild lakes and rivers and see reindeer passing by? On the two Immersion courses this will be possible. You'll deepen you knowledge of lightweight gear, see that also on fjell tops a tarp can be a comfortable shelter, learn to cook over fire and wade through rivers. This trip is for those of you who want to experience the wildest corners the North of Finland has to offer and gather the experience for your own long trips.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8737735781/" title="Shelters by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7287/8737735781_103efcf568_b.jpg" width="1024" height="680" alt="Shelters"></a>
+
+## What else?
+
+All trips come with an extensive pre-tour consultation in which we discuss gear, food, the destination, transportation and related topics. Food - breakfasts and dinners - are included in the price, as are access to the Ultralight A-Z series, as well as help and advice if you want to spend more time before/ after the course in Finland. You'll have a direct connection to me so I can answer your questions about the trips, gear and ultralight backpacking.
+
+*Also, I speak German, Dutch, English, Spanish and Finnish fluently, so our trip can be in any of these languages - though in mixed language groups we'll speak English.*
+
+## Gear Discounts
+
+I'm very happy to be able to offer you discounts from several high-quality cottage manufacturers and webshops. You'll be able to get
+
+- 15% off from Hyperlite Mountain Gear products
+- 10% off from YAMA Mountain Gear products
+- 10% off from Mountain Laurel Designs products
+- 10% off from a Gossamer Gear backpack
+- 10% off from enLIGHTened equipment quilts
+- 10% off from your Trekking-Lite-Store.com order
+- 5% off from your LAUFBURSCHE Gear order
+
+So if you're in the market for a new backpack or shelter, a quilt or other lightweight gear & accessories - going on a trip with me helps you to safe money on buying some of the best gear available. And because we discuss gear requirement before and during the trip, I can help you to buy the best piece of equipment for your needs. 
+
+## Not all gear? No Problem!
+
+I have a wide selection of shelters, backpacks, quilts, mats and stoves available for loan - free of charge for participants. Because I understand that you might first want to try a backpack or tarp, or see if sleeping under a quilt is for you I offer the possibility to try lightweight gear on our trip. And then afterwards you can buy the piece of kit with the nice discount you got from participating in the course - a win-win situation!
+
+## Enroll!
+
+Spaces are limited and courses are already slowly filling up. If you want to experience the beautiful Nordic wilderness and want to learn new skills, now is the right time to sign up for a course. You can [read more about prices, discounts and registration here](http://hikinginfinland.com/guided-trips/) or [head straight to the registration form to enroll](http://hikinginfinland.com/registration-form/). If you have questions, I happily answer them via [Email](mailto:hendrik@hikinginfinland.com).
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/7360729408/" title="Untitled by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7091/7360729408_122d1446c6_b.jpg" width="1024" height="286" alt="Untitled"></a>

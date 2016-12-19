@@ -1,0 +1,80 @@
+---
+layout: post
+title: "The Week In Review 225"
+date: 2016-01-03 23:38
+comments: false
+categories: [The Week In Review]
+description: The one and only TWIR brings you the best articles the digital outdoors had to offer in the past week.
+keywords: Outdoor, Hiking, Bikepacking, Backpacking, Climbing, Mountaineering, Camping, Trekking, Wandern, Reisen, Travel
+published: true
+---
+
+*"Snow: a form of precipitation that usually occurs three weeks prior to and the morning of your departure from your ski vacation."* - Author Unknown
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/16456421253/in/album-72157651506091295/" title="Snow"><img src="https://farm8.staticflickr.com/7672/16456421253_762527c0c9_b.jpg" width="1024" height="576" alt="Snow"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- more -->
+
+## News
+
+A few thoughts on [The Coldest Crossing](http://www.isalp.is/forums/topic/the-coldest-crossing-a-few-thoughts).
+
+Just in case you didn't know, [checking your phone could be ruining both your body and your mind](http://www.sciencealert.com/here-s-how-your-smartphone-could-be-ruining-both-your-body-and-your-mind). So put it down and go out.
+
+[Hilleberg is looking for a product designer](http://mittjobb.se/jobb/ovrigt/produktutvecklare-konstruktor-av-talt/7395181). Think you can design the next OutDoor Award Winner? Apply.
+
+The Cleanest Line is [looking back at week one of the United Nationsʼ Conference on Climate Change](http://www.thecleanestline.com/2015/12/the-paris-project-looking-back-at-week-one-of-the-united-nations-climate-change-conference.html).
+
+[Countries Rush for Upper Hand in Antarctica](http://www.nytimes.com/interactive/2015/12/29/world/countries-rush-for-upper-hand-antarctica.html).
+
+Angelica takes [a break from blogging](http://wandernbonn.de/2015/12/31/ich-bin-dann-mal-off/) :/ [German]
+
+Want a new job in the far north? [Buy FatBike Spitsbergen](http://fatbikespitsbergen.com/want-to-buy-fatbike-spitsbergen/)!
+
+[The woman climber](http://fortheloveofclimbing.com/2015/12/28/the-woman-climber/).
+
+[Win an environmentally friendly hardshell from Pyua](https://www.bergzeit.co.uk/journal/lucky-duck/win-ecological-friendly-breakout-jacket-pyua-worth-e349-95/?pid=81) - but be quick, it ends Monday at midnight.
+
+Check out the [official REI Coupons and Rebates page](http://www.avantlink.com/click.php?tt=ml&ti=38125&pw=73183) for some good deals on your next gear purchase.
+
+<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=5969&amp;pw=73183"><img src="//www.avantlink.com/gbi/10270/5969/55699/73183/image.jpg" width="728" height="90" style="border: 0px;" alt="" /></a>
+
+## Trip Reports
+
+Gerald and Vincent [hiked & packrafted through Iceland's remote glacier terrain](http://geraldtrekkt.blogspot.fi/2016/01/die-4-gletscherroute-weglos-durch_2.html). [German]
+
+Marc-André's [2015 Highlights](http://marcleclerc.blogspot.fi/2015/12/2015-highlights.html).
+
+The [Otter Trail](https://theboabnut.wordpress.com/home/otter-trail-what-goes-down-must-come-up-again/). 
+
+Nick's [2015 Review](https://nicklivesey.wordpress.com/2016/01/02/2015-review/) is worth a look.
+
+[Adventuring while expecting?](http://patagoniandreams.com/2015/12/29/adventuring-while-expecting/)
+
+<iframe src="https://player.vimeo.com/video/144545554?color=ffffff&title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Cool [bike movies from 2015](http://coastkid.blogspot.fi/2016/01/if-you-want-to-se-real-epic-bike-ride.html).
+
+Nick's [2015 in the Scottish Hills](http://tms.nickbramhall.com/blog/2015/12/2015-in-the-scottish-hills/).
+
+Munda Biddi: [Adventures as a family](http://bicyclenomad.com/2016/01/01/munda-biddi-adventures-as-a-family/).
+
+And Jill's [2015 in Photos](http://www.jilloutside.com/2015/12/2015-in-photos.html).
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/__uK-VPhlq/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#BestNine of 2015: #Fatbikes, #Backpacking, #camping, #NorthernLights, #Mountaineering, #Climbing, #Gear and lots of #mountains. It was a fine year, and 2016 looks like it will be equally awesome. #NeverStopExploring #ItsGreatOutThere</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Hendrik Morkel (@hendrikm) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-01-01T12:00:27+00:00">Jan 1, 2016 at 4:00am PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+## Gear Reviews
+
+An [MYOG Winter backpack tutorial](http://www.ultraleicht-trekking.com/forum/topic/3236-ein-robuster-rucksack-für-wintertouren/#comment-45400). [German]
+
+Chris Townsend's [favourite gear of 2015](http://www.christownsendoutdoors.com/2015/12/favourite-new-outdoor-gear-2015.html).
+
+Vroni tests the [Dragon Mountaineer X](https://www.airfreshing.com/testbericht-dragon-mountaineer-x.html). [German]
+
+[Anti-Foggint treatments that work](http://equipped.outdoors.org/2015/12/cut-cat-crap-do-anti-fogging-treatments.html).
+
+Make a [DIY 100% Merino Wool Spirit Cap](http://www.hawaiigirladventures.com/2015/12/diy-merino-wool-spirit-cap.html).
+
+*Liked this? [Subscribe to the Newsletter](http://hikinginfinland.us2.list-manage1.com/subscribe?u=b29c2acd04d959eace48da780&id=46b5d0326f) and follow along on [Instagram](https://instagram.com/hendrikm/), [Facebook](http://facebook.com/hikinginfinland), [Twitter](https://twitter.com/hendrikmorkel) and [Google+](https://plus.google.com/u/1/b/105082905705272949032/105082905705272949032/posts) for On-The-Trail updates! And yes, **[I do accept a coffee](http://bit.ly/1HGCWMS)** if you'd like to get me one!*
+
+<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=28945&amp;pw=73183"><img src="//www.avantlink.com/gbi/10060/28945/55699/73183/image.jpg" width="728" height="90" style="border: 0px;" alt="" /></a>

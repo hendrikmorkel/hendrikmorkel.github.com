@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Entrevista: Marco Sánchez de As Tucas"
+date: 2014-04-01 11:05
+comments: false
+keywords: As Tucas, Marco Sánchez, cottage manufacturers, Español
+description: Un entrevista con Marco Sánchez de As Tucas, el único "ultralight cottage manufacturer" de España
+categories: [As Tucas, Marco Sánchez, cottage manufacturers, Español, interviews]
+published: true
+---
+
+Queridos lectores, es un placer para mi presentaros una entrevista con Marco Sánchez de [As Tucas](http://astucas.com/), el único "ultralight cottage manufacturer" de España. Estoy en contacto con Marco desde hace mucho, y por poco hicimos una excursión en Noruega hace unos años. Además, como esa excursión (en Noruega) tampoco fue posible para mi, tengo la esperanza de hacer una con Marco en los Pirineos más adelante. Pero ahora es una alegría el poder presentarte este entrevista en español.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539401254" title="Acampando en la nieve, aunque disfrutando del calor del amanecer."><img src="https://farm8.staticflickr.com/7154/13539401254_e93214847a_b.jpg" width="1024" height="768" alt="Acampando en la nieve, aunque disfrutando del calor del amanecer."></a>
+
+<!-- more -->
+
+**Marco, preséntate brevemente y dinos quién eres. ¿Desde cuándo practicas senderismo y packrafting? ¿Cómo empezaste?**
+
+Desde pequeño he estado en contacto con la naturaleza, aunque nací y me crié en Zaragoza, una ciudad española de tamaño medio. Recuerdo con mucho cariño las excursiones con mis padres junto al río y al campo. Así es como se inició mi pasión por la naturaleza.
+
+Como parte de esta pasión he desarrollado muchas actividades de montaña: senderismo, escalada, esquí, bicicleta... Es una forma de estar en contacto con la naturaleza. Mi entorno favorito son los Pirineos, un lugar fascinante.
+
+Más recientemente también he comenzado a practicar packrafting. Es una forma de viajar muy interesante que llevaba considerando desde hace tiempo. Una travesía en 2012 por Noruega con mis amigos [Joe Newton](http://thunderinthenight.blogspot.com.es/2012/07/always-have-plan-b-and-c.html) y [Benjamin Morrison](http://hrxxlight.com/2012/07/vassfaret-slippery-and-wet-part-1/) fue la iniciación perfecta.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539085615" title="Descansando durante una excursión en packraft por el río Gállego."><img src="https://farm8.staticflickr.com/7085/13539085615_53a5cf2af1_b.jpg" width="1024" height="688" alt="Descansando durante una excursión en packraft por el río Gállego."></a>
+
+**¿Con qué frecuencia estás al aire libre actualmente?**
+
+Casi a diario. Me recarga de energía y me hace sentir parte del medio ambiente. Por eso trato de estar al aire libre el máximo tiempo posible. Entre semana voy a correr y en bicicleta de montaña. También realizo alguna excursión rápida. Las excursiones más largas se reservan para los fines de semana y las vacaciones.
+
+Desde que fundé As Tucas mi tiempo libre se ha reducido considerablemente. Por eso últimamente soy un asiduo a las "micro aventuras". Éstas, popularizadas por [Alastair Humphreys](http://www.alastairhumphreys.com), son una manera excelente de disfrutar del entorno próximo cuando tu tiempo es limitado. ¡Es algo que recomiendo probar a todo el mundo!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539185913" title="Micro aventura en bicicleta."><img src="https://farm8.staticflickr.com/7207/13539185913_a281fb04be_b.jpg" width="1024" height="768" alt="Micro aventura en bicicleta."></a>
+
+**¿Eres un "guerrero de fin de semana" o tienes alguna excursión de larga distancia a tus espaldas?**
+
+Aprovecho todos los fines de semana y festivos para salir a la montaña. Además, todos los años me gusta realizar alguna salida de una semana o más. Este tipo de excursiones, realizadas en plena autonomía, me permiten un grado mayor de conexión con la Naturaleza. 
+
+**¿En qué categoria te incluyes: super ultraligero, ultraligero o ligero? ¿Cual es tu peso base típico?**
+
+Mi peso base para una salida típica de fin de semana en 3 estaciones es de 3,5 kg. Por tanto, podemos decir que soy un senderista ultraligero (UL).
+
+Sin embargo, basándome en otros criterios además del peso, me  considero un senderista super ultraligero (SUL). A este respecto es revelador el artículo de Ryan Jordan, [The SUL Mindset](http://www.backpackinglight.com/cgi-bin/backpackinglight/sul-mindset-jordan.html). El número de elementos que llevo es muy pequeño. Nada es superfluo y todo trabaja como un sistema integrado. El entorno en que me muevo es una zona montañosa con clima cambiante, donde incluso en verano no es extraño llegar a los 0 C durante las noches. Se precisa de un equipo más sólido y robusto que en otras zonas. Por eso resulta más difícil reducir el peso de alguno elementos como el saco y el refugio.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539086675" title="Contemplando el Ibón de Acherito."><img src="https://farm8.staticflickr.com/7064/13539086675_f3d9c56533_b.jpg" width="1024" height="682" alt="Contemplando el Ibón de Acherito."></a>
+
+**Por favor, indícanos el origen del nombre "As Tucas" y su significado.**
+
+"[As Tucas](http://astucas.com/)" significa "Las cumbres" en aragonés, lengua de nuestra región. Es un guiño hacia nuestro territorio y espíritu montañero. Asimismo, todos nuestros productos se denominan con los nombres locales de montañas, valles, ríos...
+
+**Eres licenciado en Ciencias Físicas y anteriormente has trabajado de profesor. Desgraciadamente donde vives el desempleo es muy elevado. ¿Fue una decisión fácil dejar atrás la seguridad de un trabajo por cuenta ajena para perseguir algo que te gusta?**
+
+No, no fue una decisión sencilla. Sin embargo, es una decisión de la que no me arrepiento en absoluto.
+
+Siempre he valorado mi motivación y satisfacción personal por encima de otros factores, como el económico. Las ganas por aprender cosas nuevas me han llevado a trabajar en varias empresas desempeñando labores tan diversas como profesor, programador Web o analista de sistemas.
+
+Lamentablemente, la situación económica actual hace mucho más difícil esta movilidad laboral. Casi sin darme cuenta, me vi atrapado en un empleo que ya no me satisfacía. Sin motivación, precisaba de un cambio drástico. Nada mejor que convertir mi pasión en mi forma de ganarme la vida.
+
+**As Tucas fabrica material a medida, edredones y refugios. ¿Puedes indicarnos como surgió la idea de crear la empresa y como ves su futuro?**
+
+Desde hace años fabrico buena parte de mi ropa y material como afición. Sin embargo, debo reconocer que al ver la floreciente industria artesanal americana, pensaba si algo así sería posible en Europa.
+
+Mi necesidad de cambio me impulsó a pasar a la acción. De repente recuperé toda mi energía y motivación: multitud de ideas que desarrollar, aprender cosas nuevas, retos que afrontar… En resumen, convertir un sueño en realidad. Hay mucho trabajo "entre bastidores" para hacer de As Tucas algo único. Su futuro pasa por ser una empresa que aúne todo lo bueno de las empresas artesanales y todo lo bueno de los grandes fabricantes.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539396734" title="Marcando un edredón Sestrals en la mesa de corte."><img src="https://farm8.staticflickr.com/7366/13539396734_d955c24a96_b.jpg" width="1024" height="682" alt="Marcando un edredón Sestrals en la mesa de corte."></a>
+
+**¿Hay otros fabricantes artesanales en España?**
+
+No, hasta donde yo conozco. En España, al igual que en el resto de Europa, crear una empresa es más difícil que en Estados Unidos. El proceso burocrático es más complejo y la presión fiscal mucho mayor. Por eso, el número de este tipo de empresas es tan reducido.
+
+**Tu empresa únicamente lleva cuatro meses en el mercado y ya ha sido muy bien recibida en Europa. ¿Va bien el negocio?**
+
+Estoy muy satisfecho con el arranque de As Tucas. Es más, ha superado todas mis previsiones.
+
+La apuesta inicial ha sido fuerte, pero la acogida del mercado me indica que este es el camino a seguir. Ahora hay que continuar trabajando para mejorar el catálogo de productos, los procesos de producción y el servicio de atención al cliente, aspectos clave de nuestro éxito.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539081455" title="Preparando una máquina en la línea de costura."><img src="https://farm8.staticflickr.com/7408/13539081455_fed0457b13_b.jpg" width="1024" height="683" alt="Preparando una máquina en la línea de costura."></a>
+
+**Te has introducido en un segmento de negocio que a) no está muy bien atendido por las empresas artesanales porque b) se percibe como difícil. ¿Como te decidiste a ofrecer prendas de [ropa](http://astucas.com/es/ropa/), cuando muchos otros lo consideran un negocio difícil?**
+
+Porque es un reto y también una gran oportunidad. Tanto por su diseño como por los materiales utilizados, cada una de las prendas ofrecidas es única. Más importante aún, estas prendas están ideadas como un sistema integrado, que trabajan juntas para permitirnos afrontar una mayor variedad de condiciones con el mínimo peso posible.  
+
+**¿Puedes contarnos un poco sobre cómo fue el proceso de diseño de la camiseta con capucha [Cabietos](http://astucas.com/es/ropa/camiseta-capucha-cabietos) y de dónde vino la inspiración?**
+
+En base a nuestra experiencia, una camiseta base para actividades de montaña debe reunir tres elementos de diseño clave: una capucha que proteja la cara, puños con agujeros para los pulgares y una cremallera de pecho realmente larga. Esta combinación proporciona una versatilidad increíble. 
+
+Si bien hay productos excelentes en el mercado, no hay ninguno que combine estos tres elementos. Lo más próximo era la camiseta Backpacking Light Beartooth Merino Wool Hoody, ya descatalogada. Sin embargo, la camiseta con capucha Cabietos ofrece unas posibilidades de ventilación aún mayores y un tejido de lana merina más duradero.
+
+**Además de prendas de ropa también ofreces un toldo de Cuben (y silnylon) y un edredón sintético. ¿Veremos una tienda/refugio en el futuro? ¿O tal vez una mochila? ¿O continuarás concentrándote en el diseño de ropa y, tal vez, ofrecer una chaqueta cortavientos o impermeable?**
+
+Nuestro catálogo está en plena evolución, y este año se verá ampliado con nuevos productos. Sin embargo, debemos concentrar esfuerzos para continuar ofreciendo algo único y con un valor excepcional. Por este motivo no vamos a entrar a competir en determinados segmentos del mercado que, consideramos, ya están cubiertos.
+
+**Marco ¡nos encantaría conocer tus proyectos en curso! ¿Puedes contarnos en que nuevos productos estás trabajando ahora?**
+
+De forma inmediata, la colección Sestrals de ropa aislante sintética se va a ampliar con una chaqueta. Al igual que ya hicimos con los pantalones, hemos vuelto a superar a la mítica colección Backpacking Light Cocoon con una prenda más ligera y con mejores prestaciones.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539083065" title="El nuevo pullover Sestrals."><img src="https://farm8.staticflickr.com/7381/13539083065_e0e24eae66_b.jpg" width="1024" height="1024" alt="El nuevo pullover Sestrals."></a>
+
+Por otro lado, vamos a realizar una importante apuesta por nuestra línea de plumón con nuevos edredones. De esta forma, vamos a ser los primeros en ofrecer un sistema integrado de edredones sintéticos y de plumón. Esta combinación, alabada entre otros por el reconocido alpinista [Andy Kirkpatrick](http://www.andy-kirkpatrick.com/articles/view/double_up) y el senderista [Jörgen Johansson](http://www.fjaderlatt.se/2010/04/across-sarek-in-winter-sleep-system.html), permite crear un robusto sistema modular de 4 estaciones.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539183193" title="El nuevo edredón Foratata."><img src="https://farm3.staticflickr.com/2807/13539183193_9bca885961_b.jpg" width="437" height="1024" alt="El nuevo edredón Foratata."></a>
+
+Para realizar este movimiento hemos  buscado ampliamente un proveedor de plumón adecuado. Hemos comenzado a trabajar con uno de los mayores productores de plumón de Polonia. Éste no solo nos ofrece el mejor plumón disponible (900 cuin) sino que nos certifica que ha sido obtenido respetando el bienestar animal de acuerdo a la normativa europea, un asunto importante para nosotros.
+
+**¿Algunos materiales ligeros nuevos emocionantes?**
+
+Siempre estamos buscando la forma de mejorar nuestros productos y esto, a menudo, involucra utilizar nuevos materiales. Vamos a introducir ropa de lluvia fabricada con un laminado de fibra Cubic Tech CTF3 y eVent, que es probablemente el material impermeable y transpirable más ligero del mercado. Asimismo, continuamos trabajando con Schoeller en nuevos y mejores tejidos para nuestras camisetas y una próxima colección de ropa de lluvia.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539396404" title="Evaluando los nuevos tejidos de Schoeller."><img src="https://farm8.staticflickr.com/7185/13539396404_c81d1f97f5_b.jpg" width="1024" height="742" alt="Evaluando los nuevos tejidos de Schoeller."></a>
+
+**¿Cómo funciona el I+D en As Tucas? ¿Se trata de una necesidad personal que tratas de resolver o te inspiran algunos de tus clientes que buscan soluciones a sus problemas?**
+
+Nuestro catálogo se formó a partir de mis propias necesidades personales, definidas tanto por las condiciones de mi entorno como por mis propias preferencias. Cada vez hay más influencias de las necesidades de nuestros clientes, lo que nos permite ofrecer productos todavía más versátiles y robustos.
+
+Sin embargo, cuando la ropa y material que creas se usa desde los desiertos de África hasta las zonas árticas, los retos son únicos. Por ese motivo, en ocasiones se precisan soluciones también únicas. Es aquí cuando entra en escena nuestra sección de trabajos a medida, donde trabajamos directamente con los clientes para crear sus productos.
+
+**¿De donde provienen tus clientes?**
+
+Principalmente de Europa. Sin embargo, también tenemos clientes en otras partes del mundo como Estados Unidos y Japón. Paradójicamente tenemos pocos clientes de España. La comunidad montañera de nuestro país es bastante tradicional y la filosofía de lo ultraligero todavía no está extendida. Afortunadamente, la influencia de sectores como el de las carreras de montaña, está revolucionando la mentalidad de muchos senderistas.
+
+**¿Estás en contacto con otros fabricantes artesanales de Europa, Japón, Canadá o Estados Unidos?**
+
+Actualmente tan apenas. Pensamos que a pesar de ser competencia, la colaboración en determinadas áreas sería positiva tanto para las empresas como para los clientes.
+
+**¿Cuando y dónde fue tu última excursión?**
+
+¡Este fin de semana! Una excursión con raquetas por el Valle de Ordesa, uno de mis lugares preferidos. Esta es una excelente época del año. Días soleados, temperaturas agradables y todavía mucha nieve para disfrutar.
+
+**¿Y dónde te lleva tu excursión de ensueño?**
+
+Sin duda Alaska. Naturaleza en estado puro, salvaje y a gran escala. En un entorno más próximo, el Parque nacional de Sarek, en Laponia.
+
+**¿Algún elemento favorito que siempre llevas contigo?**
+
+Una camiseta con capucha, preferentemente de lana merina, y una chaqueta cortavientos ligera. Esta combinación de ropa es tan versátil, que la utilizo todo el año en multitud de actividades. Otro elemento, que considero mi "elemento de lujo", es un trípode fotográfico. Me encanta la fotografía. Valoro más las posibilidades creativas que un trípode me ofrece que la penalización de peso. Por ese motivo, me acompaña en muchas de mis excursiones.
+
+**¿Estás pensando en una excursión pronto y disfrutar de la primavera española?**
+
+¡Por supuesto! Los Pirineos en primavera son espectaculares y hay que aprovecharlos. Los días cada vez más largos y el retroceso de la nieve abren muchas posibilidades. La nieve en zonas de altura nos acompaña todo el año, por lo que se pueden crear rutas realmente espectaculares.
+
+Os invitamos a todos a visitarnos. Si lo hacéis, no dudéis en contactar con nosotros para aconsejaros  y, por qué no, compartir un estupendo día en las montañas.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13539085565" title="Caminando fuera de sendero por una cresta."><img src="https://farm4.staticflickr.com/3828/13539085565_0788234ff8_b.jpg" width="1024" height="768" alt="Caminando fuera de sendero por una cresta."></a>
+
+*[Read the English version of this interview](http://hikinginfinland.com/2014/04/interview-marco-sanchez-of-as-tucas.html).*

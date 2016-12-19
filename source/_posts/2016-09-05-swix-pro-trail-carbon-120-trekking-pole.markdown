@@ -1,0 +1,129 @@
+---
+layout: post
+title: "Swix Sonic Pro Trail Carbon 120 Trekking Pole"
+date: 2016-09-06 23:37
+comments: true
+categories: [Sponsored Post, Gear Review, trekking poles, Swix]
+keywords: Swix Sonic Pro Trail Carbon, Trekking Poles, Trailrunning
+description: Looking for a light carbon trekking pole which accompanies you through the day and stands tall when you pitch your shelter in the evening? Then take a peek at the new Pro Trail Carbon 120 Trekking Pole from Swix!
+published: true
+---
+
+Looking for a light carbon trekking pole which accompanies you through the day and stands tall when you pitch your shelter in the evening? Then take a peek at the new Pro Trail Carbon 120 Trekking Pole from Swix!
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29203718760/in/dateposted/" title="Swix Sonic Pro Trail Carbon 120 Trekking Pole"><img src="https://c1.staticflickr.com/9/8470/29203718760_f0e4fde0cf_b.jpg" width="1024" height="683" alt="Swix Sonic Pro Trail Carbon 120 Trekking Pole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!-- more --> 
+
+**Disclaimer**: *The trekking poles were sent for free to me for a Swix campaign via the [Outdoor Blogger Network](http://en.outdoor-blogger-network.com/?noredirect=en_US) & I got paid to write this article. This does not influence the article as I maintain full editorial control of the content published on this site.*
+
+## Time
+
+I got the [Swix Sonic Pro Trail Carbon 120](http://www.swixsport.com/Products/Poles/Trekking-Poles/Swix-Sonic-Pro-Trail-Carbon) in July 2016 and have been using them on day hikes, a trail run and as poles for pitching my shelters on Microadventures. They haven't seen as much use as I usually would put a piece of kit through before I write about them, but this being a sponsored post I sadly didn't have the freedom to test them for 12 months & longer =) However, I intend to take them along to a trip to the Alps this autumn where I'll be backpacking for a week and after that I will feel more confident about a final statement.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29203718920/in/dateposted/" title="Swix Sonic Pro Trail Carbon 120 Trekking Poles"><img src="https://c1.staticflickr.com/9/8656/29203718920_d3e8be7790_b.jpg" width="1024" height="683" alt="Swix Sonic Pro Trail Carbon 120 Trekking Poles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Function
+
+As I highlighted in my [Black Diamond Ultra Distance Trekking Poles](https://hikinginfinland.com/2014/05/black-diamond-ultra-distance-trekking-poles.html) Review, trekking poles have many advantages outdoors:
+
+- They help you to keep your balance on difficult terrain
+- Useful in fording rivers
+- Can be transformed into a [tripod](https://hikinginfinland.com/2013/10/trailpix-ultralight-tripod.html) or used with a [StickPic](https://hikinginfinland.com/2010/03/interview-rod-java-from-thestickpic-com.html) for photography
+- They can pitch your tarp or shelter
+- They train your upper body muscles when hiking and running
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29492680305/in/dateposted/" title="Hiking!"><img src="https://c2.staticflickr.com/9/8162/29492680305_96b186eab1_b.jpg" width="1024" height="683" alt="Hiking!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Features
+
+The Swix Sonic Pro Trail Carbon is available in fixed lengths from 100 to 135 cm in 5 cm intervals. All of the poles have the following features in common:
+
+- Compact folding system
+- Comfort Connection system
+- Multi grip from cork with EVA extension
+- Flexi basket system
+- Swix carbon technology Swix CT1 grade
+- Folded pack size is 39 cm
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29492688575/in/dateposted/" title="Folded together"><img src="https://c8.staticflickr.com/9/8287/29492688575_8115ec76fb_b.jpg" width="1024" height="683" alt="Folded together"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Technical Innovations
+
+I've used a fair share of trekking poles, some lighter, some heavier. I can't really say that these poles have any mind-blowing innovations in them, although there's a few things I do like about them - read on to find out what.
+
+## Quality
+
+The quality is very good. The trekking poles make a solid impression, the construction of the segments is clean and smooth and they fit well together, and also the grip is well made (from European cork!). As Swix has many years of experience in the making of carbon poles (for cross country skiing) they were able to use this expertise and apply it to the production of their trekking poles.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28867841714/in/dateposted/" title="The Tip protector"><img src="https://c3.staticflickr.com/8/7493/28867841714_414d044771_b.jpg" width="1024" height="683" alt="The Tip protector"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Weight
+
+My poles in 120 cm length weigh 153 g per pole including the little baskets, so the pair of them weighs 306 g. This makes them more heavy than my BD Poles, but I imagine this weight will reflect positively on the durability of the poles. On the plus side, that's 29 g lighter as Swix claims they would be!
+
+## Sustainability & Recyclability
+
+Swix has a page about their interaction with the [environment](http://www.swixsport.com/Environment). On their page about [Swix Products and the environment](http://www.swixsport.com/Environment/Swix-Products-and-the-Environment) they tell us rather broadly that *"Swix maintains a strong social responsibility program and has a focus on environmental awareness in product production. This is repeated in all aspects, both in the choice of raw materials, the use of recyclable packaging and more."* This is not really going into details and doesn't tell us much besides that they use recycable packaging. Happily there's some more info on the [Swix Environmental Ethics](http://www.swixsport.com/Environment/Swix-Environmental-Ethics) page, where they tell us that they do Climate accounting (with quite old data from 2009) and in which organizations they're members. I would have wished for more infos on how & where I could get a pole fixed and how I should get rid of them in case they break one day.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28867841314/in/dateposted/" title="The folding mechanism"><img src="https://c3.staticflickr.com/9/8679/28867841314_2f380b0500_b.jpg" width="1024" height="683" alt="The folding mechanism"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## In use
+
+The Swix Sonic Pro Trail Carbon 120 Trekking Poles are for me a 3-season pole because of their cork grip - I imagine they would be OK when hiking in the winter as long as you don't let the cork get wet. They come with indicated Left & Right hand straps that sadly are not easy to remove. They are OK to use and don't have any hard plastic parts which could push uncomfortably into the skin, but I really feel I don't need them and want the option to easily remove them. **Update**: *Stian Hagen from Swix informed me that cork is great for winter use and that Swix has used all cork grips already since 20 years on the XC skiing poles. The friction of the cork is good, its light, and its warm.*
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28872979203/in/dateposted/" title="L &amp; R straps"><img src="https://c4.staticflickr.com/9/8334/28872979203_778998eb0d_b.jpg" width="1024" height="683" alt="L &amp; R straps"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+In use the cork handles are very comfortable, the cork grip lays good in the hand when hiking in flat terrain and up, while the rounded top is good to hold when descending. When navigating through steep terrain the longer EVA part makes gripping the pole lower nice, though as I said - I'd prefer a full cork grip. Even with sweaty hands in hot weather the cork feels more comfortable and doesn't slip as easily as EVA. **Update**: *Stian Hagen from Swix let me know that they decided to use cork on the lower part as it saves weight and as it is not used that often they felt this was a good trade-off.*
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28867837064/in/dateposted/" title="Handle of the Sonic Pro"><img src="https://c1.staticflickr.com/9/8020/28867837064_02007c24fe_b.jpg" width="1024" height="683" alt="Handle of the Sonic Pro"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Because I don't use poles all the time and often fly in a plane to go backpacking the weight and pack size are important to me. The Sonic Pro carbon are pretty good in that respect, as they fold small and fit into the side pocket of my LAUFBURSCHE pack or can be wrapped into a insulation jacket when travelling by plane. Because they fit inside of my pack I even was able to take them along as a carry-on, which is great when you're flying without checked in luggage!
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28873223823/in/dateposted/" title="Folded up for travel, fitting into a carry-on compliant pack!"><img src="https://c8.staticflickr.com/9/8512/28873223823_883a00e6a7_b.jpg" width="1024" height="683" alt="Folded up for travel, fitting into a carry-on compliant pack!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Flexi basket system is really great, I long have wished for an easy way to switch baskets on poles and this has been so easy to use, it's a pleasure. Where other poles let you change baskets only with the use of lots of force or tools here I simply could unscrew the basket and screw on another one. The small baskets are fine for normal forest trails and established mountain trails, but for swamps and the crossing of summer snow fields a larger one would have been useful. Anyhow, the thread system is great.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28867842054/in/dateposted/" title="Basket of &amp; thread exposed"><img src="https://c7.staticflickr.com/9/8333/28867842054_1b6d9e805c_b.jpg" width="1024" height="683" alt="Basket of &amp; thread exposed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29203720670/in/dateposted/" title="Flexi basket system, partly unscrewed"><img src="https://c7.staticflickr.com/9/8802/29203720670_d574455666_b.jpg" width="1024" height="683" alt="Flexi basket system, partly unscrewed"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Then to the most important job of my trekking poles: Pitching a shelter! For pitching tarps and pyramides I found the Sonic Pro Trail Carbon splendid because they are very stiff - much more stiff than my BD poles. This is especially good when a single pole is used for putting up a pyramide shelter as it flexes less when gusts hit the shelter, which I find feels safer.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28867841064/in/dateposted/" title="As a tent pole, looking up"><img src="https://c1.staticflickr.com/9/8045/28867841064_833e651a8b_b.jpg" width="1024" height="683" alt="As a tent pole, looking up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And finally deploying them and folding them up. Both are a breeze, fast & easy. For getting them ready for hiking you simply hold the hand grip and pull the part out which automatically straightens the pole, until you hear a click and the button jumps out and locks the segments in place. Folding the poles together is just as simple: Push the button back in and the upper part moves slightly back into the handle. Then just push the segment completely in and fold the pole together! Swix wrote that you can use the strap to keep the pole folded together, but I haven't found out how to do that with a single pole. With both poles I just put them together with the straps on the opposite ends and then thread the segments through them, that way they stay together well. **Update**: *Stian Hagen from Swix showed me how to fold them together with one strap - see the photo underneath* =) 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29492681885/in/dateposted/" title="Step 1: Push the button to collapse them"><img src="https://c6.staticflickr.com/9/8030/29492681885_5b2bdcaea8_b.jpg" width="1024" height="683" alt="Step 1: Push the button to collapse them"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29492680845/in/dateposted/" title="Step 2: The pole moves together for a wee bit"><img src="https://c6.staticflickr.com/9/8530/29492680845_8a7d638487_b.jpg" width="1024" height="683" alt="Step 2: The pole moves together for a wee bit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29384387342/in/dateposted/" title="Step 3: Lower part pushed fully up the handle"><img src="https://c7.staticflickr.com/9/8389/29384387342_7c64689aa9_b.jpg" width="1024" height="683" alt="Step 3: Lower part pushed fully up the handle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29437803771/in/dateposted/" title="Folded with the strap!"><img src="https://c4.staticflickr.com/8/7568/29437803771_79e53fa026_b.jpg" width="1024" height="683" alt="Folded with the strap!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Could be better
+
+I really like the cork grip and would wish the Sonic Pro Trail Carbon pole would have a complete cork handle, thus that the lower EVA part is also cork. It just feels more comfortable on the hand to me, and it's a shame the lower part is made from EVA. I also would have wished that the strap would be easy to remove. I rarely use straps with poles in the summer and am sure I'd liked it better to save a few more grams than being forced to have it along. I also think that if one buys these poles that it'd be nice to get a choice of baskets with them, because the small trekking baskets aren't really great in summer snow, swamps and boulder fields where a larger basket would make it easier for the pole not to penetrate too deep. Finally, a notch in the basket so they stay locked together when folded would have been useful, too.
+
+**Update**: *Stian Hagen from Swix wrote me a lengthy Email with some more infos, which I included above already. Apparently it is super easy to remove the strap by just pushing the pin out with a narrow tool like a screw driver at home and then take out the strap. I tried this with some narrow tools but couldn't get the pin pushed out. Either I'm too weak or possibly I still have a pre-production sample where it isn't as easy. I'll update this when I managed to get rid of the strap!*
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29203721160/in/dateposted/" title="Size comparison with the Locus Gear Hapi"><img src="https://c1.staticflickr.com/8/7502/29203721160_e3cae1920b_b.jpg" width="1024" height="683" alt="Size comparison with the Locus Gear Hapi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Competing Products
+
+The at the beginning mentioned [Black Diamond Poles](https://hikinginfinland.com/2014/05/black-diamond-ultra-distance-trekking-poles.html) are a worthy competitor which I know are very long-lasting & robust, and if you can life with poles that have a larger pack size also the [Ruta Locura Yana poles](http://www.rutalocura.com/trekking_poles.html) are great poles that I have used since many years very happily. If you need adjustable poles I'd check out the [Swix Sonic X-Trail Carbon](https://www.bergfreunde.de/swix-sonic-x-trail-carbon-trekkingstoecke/?pid=10239) which some of my friends will surely write about in a while!
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/28867837604/in/dateposted/" title="Pro Trail Carbon"><img src="https://c5.staticflickr.com/9/8212/28867837604_f5a95658c6_b.jpg" width="1024" height="683" alt="Pro Trail Carbon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Bottomline
+
+Despite not having used them as much as I'd like to the Swix Sonic Pro Trail Carbon 120 Trekking Poles have made a good first impression on me. They are light and comfortable when out hiking and backpacking, allow me to pitch my Pyramide shelters and tarps and let me train my upper body when out for a hike. Keep in mind that I still am not a big trekking pole user when hiking (I use them usually in difficult terrain and for river crossings) although I almost always carry a pair because I need them for my [shelters](https://hikinginfinland.com/blog/categories/shelters/). As I will be backpacking several more weeks this autumn and will take the Swix Sonic Pro Trail Carbon 120 poles with me for hiking and pitching my shelter I will try to update this article then and reflect on them again after more use.
+
+## Where to buy it
+
+*Only BUY stuff if you really need it!*
+
+You can get the pole in every length from [Bergfreunde](https://www.bergfreunde.de/swix-sonic-pro-trail-carbon-trekkingstoecke/?pid=10239) (On offer for 135€!) and [Bergzeit](https://www.bergzeit.de/swix-sonic-pro-trail-carbon-trailrunningstock/?pid=81).
+
+<script src="//publisher.outtra.com/themes/frontend/eom/assets/js/outtra-pricecompare.js?publisher_id=173&widget_id=982" type="text/javascript" id="outtrapricecomparewdgt" data-publisherid="173" data-outtrapcwdgt="982"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendrikmorkel/29492681415/in/dateposted/" title="Locus Gear Hapi &amp; Swix Sonic Pro Trail Carbon 120 Trekking Pole"><img src="https://c8.staticflickr.com/9/8345/29492681415_74d621d9f1_b.jpg" width="1024" height="683" alt="Locus Gear Hapi &amp; Swix Sonic Pro Trail Carbon 120 Trekking Pole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+*Disclaimer: The trekking poles were sent for free to me by [OBN](http://en.outdoor-blogger-network.com/?noredirect=en_US) and Swix & I got paid to write about them. This does not influence the article as I maintain full editorial control of the content published on this site. There are affiliate links in this article. Read the [Transparency Disclaimer](https://hikinginfinland.com/about/) for more information on affiliate links & blogger transparency.*

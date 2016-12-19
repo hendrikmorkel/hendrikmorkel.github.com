@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The Dolomites: Rock Climbs &amp; Via Ferrata"
+date: 2015-03-13 21:19
+comments: false
+categories: [books, Via Ferrata, climbing, James Rushforth, Rockfax, The Dolomites]
+description: A book review of the superb The Dolomites Rock Climbs & Via Ferrata by James Rushforth
+keywords: The Dolomites, Rock Climbs, Via Ferrata, James Rushforth, Rockfax
+published: true
+---
+
+*How do you go about planning a trip to the Dolomites with a mate who is currently in Australia?* Easy: You both get the same guide book, book the flights together and then start going via Skype through the book to pick the climbs you wanna do. And that's exactly how we are planning our trip to the Dolomites this summer, with our guide book of choice being [The Dolomites: Rock Climbs & Via Ferrata](http://www.rockfax.com/climbing-guides/books/the-dolomites-rock-climbs-and-via-ferrata/). 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16614176108" title="The Dolomites Rock Climbs &amp; Via Ferrata by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7607/16614176108_d918a4f9ea_b.jpg" width="1024" height="576" alt="The Dolomites Rock Climbs &amp; Via Ferrata"></a>
+
+<!-- more -->
+
+I've been dreaming/ planning/ pondering/ almost-booking-flights-to-the-Dolomites since around four years. Vivid are the memories of driving through them as a child with mom and dad on the way to Southern Italy and back to Germany, then a [Rock & Ice article](http://www.rockandice.com) a few years ago re-kindled that love to go and visit one of the most beautiful areas in Italy. Sure, there would be some sweet hiking and cycling there, but it will still be there at another time. Now, this trip, it will be about climbing Multi-Pitch Routes and do Via Ferratas, visit a [Messner Mountain Museum](http://www.messner-mountain-museum.it) and enjoy the good life with a great mate.
+
+And with the [The Dolomites: Rock Climbs & Via Ferrata](http://www.rockfax.com/climbing-guides/books/the-dolomites-rock-climbs-and-via-ferrata/) Guide Book the good life already starts at home with the planning. I have been since a few weeks each evening going through the Guide Book and found it a superb resource to plan our trip. It's so easy to send a short message á la *"Check out that sweet Multi-Pitch climb on page 384! Wanna do that?"* and literally be on the same page. It makes deciding on climbs a lot faster and easier, too, because opening a page in a book is faster & more convenient than surfing to a webpage.
+
+So how is this book lay out? Well, it starts with a bit of (climbing) history of the region and its geology, gives tips on other books and maps, and then tells you all you need to know about the Logistics of getting there, getting around, where to eat, sleep and what to bring. Then there's a chapter each on Via Ferratas and Climbing, with explanations of grades, gear and how to plan a trip on the routes. Very useful and open pretty much all the time is the overview map of the Region (page 26/ 27 ;) before the book goes into the details.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16800637951" title="The Dolomites Rock Climbs &amp; Via Ferrata by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7620/16800637951_e9fa1116c3_b.jpg" width="1024" height="576" alt="The Dolomites Rock Climbs &amp; Via Ferrata"></a>
+
+And details means in this case detailed maps of the Region/ sector, photos with drawn-in topos and in-depth descriptions of the Via Ferratas and climbs. I found these descriptions very good, they give a bit of extra information on how hard the climb could be and how long it could take. What I like best about the [Rockfax.com](http://www.rockfax.com) Guide Book is that you can download either the sectors/ climbs or the whole book onto your smartphone, allowing you to leave the 926 g Guide Book at home and don't need to carry it up a climb - smart stuff. At the end there's a Route Index and another map of the region with a General Index. 
+
+So, for me this has been a wonderful Guide Book thus far. The photos are top-notch and have me very much looking forward to this trip. What could be improved would be probably a larger fold-out/ take-out map as I feel I'm checking it all the time - we're not staying in one Region/ Sector but plan to see a lot, though if you have more time and/ or stay in one Region you'll probably be happy as it is. Overall I'd say you should get this Guide Book if you plan to visit the Dolomites for climbing and Via Ferrata hiking - or you should get it if you want to have a very good reason to visit them =) It's a beautiful book with inspiring photos, all the information we needed to plan the trip logistics and it has in-depth information on the climbs and Via Ferratas of the region. It has been a source of joy for me in the last weeks and has me very much looking forward to visit this Region again - lets hope the weather will be kind for climbing!
+
+Buy the book directly from [Rockfax.com](http://www.rockfax.com/climbing-guides/books/the-dolomites-rock-climbs-and-via-ferrata/), at your local climbing or book shop or order it from your favourite taste of [Amazon.com](http://amzn.to/1x0WARt), [Amazon.co.uk](http://amzn.to/1GMfr5H) or [Amazon.de](http://amzn.to/1GMfYVk).

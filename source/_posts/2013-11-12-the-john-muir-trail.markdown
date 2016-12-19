@@ -1,0 +1,41 @@
+---
+layout: post
+title: "The John Muir Trail"
+date: 2013-11-12 15:04
+comments: True
+categories: [books, JMT, John Muir Trail, Cicerone]
+published: true
+---
+
+*"In every walk with nature one receives far more than he seeks."* - John Muir 
+
+The JMT is high on my list of places I'd like to hike. So high that it was time to get the [Cicerone John Muir Trail](http://www.cicerone.co.uk/product/detail.cfm/book/396/title/the-john-muir-trail) Guide book and a set of maps to plan & dream over.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10589681926/" title="John Muir Trail by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2805/10589681926_9df593d4c2_b.jpg" width="1024" height="768" alt="John Muir Trail"></a>
+
+<!-- more -->
+
+John Muir is a *"Scottish-born American naturalist, author, and early advocate of preservation of wilderness in the United States."* to quote [Wikipedia](http://en.wikipedia.org/wiki/John_Muir). He was very involved in preserving the Yosemite Valley, Sequoia National Park and other wilderness areas in the US, and the 340 km John Muir Trail was named after him. But why is the JMT so high on my list? I think these couple of photos explain that rather well:
+
+<a href="http://www.flickr.com/photos/ifl/4897076796/" title="John Muir Trail-20 by peretzp, on Flickr"><img src="http://farm5.staticflickr.com/4094/4897076796_eef1b5ed93_b.jpg" width="1024" height="765" alt="John Muir Trail-20"></a>
+<a href="http://www.flickr.com/photos/curtisnewton/9743235014/" title="IMG_2756 by flying white, on Flickr"><img src="http://farm8.staticflickr.com/7382/9743235014_6ab5884544_b.jpg" width="1024" height="221" alt="IMG_2756"></a>
+<a href="http://www.flickr.com/photos/designministry/214810338/" title="River and flora by Kristin Myers Harvey, on Flickr"><img src="http://farm1.staticflickr.com/89/214810338_34129b6cb7_b.jpg" width="768" height="1024" alt="River and flora"></a>
+<a href="http://www.flickr.com/photos/jeffhester/4969130480/" title="Helen Lake by Jeff Hester, on Flickr"><img src="http://farm5.staticflickr.com/4127/4969130480_22cf801649_b.jpg" width="1024" height="385" alt="Helen Lake"></a>
+
+You understand now. That's why I got the [John Muir Trail](http://www.cicerone.co.uk/product/detail.cfm/book/396/title/the-john-muir-trail) guide book from [Cicerone](http://www.cicerone.co.uk/) and the [John Muir Trail Map-Pack](http://amzn.to/SPZ12I) to dream and plan the trip. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10589685786/" title="John Muir Trail by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5539/10589685786_b5779487dc_b.jpg" width="1024" height="768" alt="John Muir Trail"></a>
+
+The guide book is great like all Cicerone guide books: After a short introduction and some background on the JMT it helps with planning the trip there. It highlights how to get the permits to hike the trail and climb Mt. Whitney, helps to plan & organize transportation to and from the trail, and highlights some of the things you need to consider when hiking the trail: Dealing with bears, how to cross rivers, LNT principles and more. All in all I found the basics very well covered, and the author gives for important topics (like getting the permits to hike the trail) several alternatives (you can call, write a letter or reserve a permit online, for example). Even experienced hikers will find useful information from this section, especially if you're not from the USA - things are done quite a bit different over the pond than in Europe, which in this guide book are very well high-lighted.
+
+The Trail Guide section of the book then breaks the 340 km into 21 sections and gives you a great overview of what lies ahead for the day in terms of sights as well as stats (distance & ascent, of the latter there's quite a bit, too =). Every day finishes at a nice camping place, and while I find 21 days long to walk just 340 km, I do think the scenery is so majestic that it's worth to take the time to see it all. After all, there's no need to hurry in the outdoors.
+
+The book is 299 g and available at [Amazon.com](http://amzn.to/1bsaOgf) | [Amazon.co.uk](http://amzn.to/1eIxoVi) | [Amazon.de](http://amzn.to/1bmQ0mS) and your local, well-sorted book store.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/10589922143/" title="John Muir Trail by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5492/10589922143_53319a3495_b.jpg" width="1024" height="768" alt="John Muir Trail"></a>
+
+While the book has maps, they're not detailed. And the JMT and the Sierras are an area where you want detailed maps. Probably the best map is the [John Muir Trail Map-Pack: Shaded Relief Topo Map](http://amzn.to/SPZ12I) from Tom Harrison. The map sheets, there's 13 of them, show you in all glorious detail the trail from Yosemite to Mount Whitney. The 13 map sheets weigh 61 g and as they're sheets, made of waterproof and tear resistant plastic (tyvek?) also, you can easily take half for the first part and pick up the other half when you resupply in the middle. They're also most certainly something for map lovers!
+
+The maps are available at [Amazon.com](http://amzn.to/SPZ12I) | [Amazon.co.uk](http://amzn.to/1cRO2Sj) | [Amazon.de](http://amzn.to/HL8m9A) and your local, well-sorted book store.
+
+*As for **when** I will be hiking the JMT, I think 2015 might be a good year =)*

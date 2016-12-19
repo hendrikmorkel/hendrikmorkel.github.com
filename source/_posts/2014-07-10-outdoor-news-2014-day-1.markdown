@@ -1,0 +1,155 @@
+---
+layout: post
+title: "OutDoor News 2014 - 1"
+date: 2014-07-14 19:20
+comments: false
+keywords: OutDoor 2014, gear news, Arc'teryx, Merrell, Fjällräven, Patagonia, Marmot, Salewa, Petzl, Vaude
+description: The lightest, brightest, smartest and coolest new gear from the 2014 OutDoor fair!
+categories: [OutDoor Fair 2014, gear, news]
+published: true
+---
+
+It's that time of the year again. But where [last year](http://hikinginfinland.com/blog/categories/outdoor-fair-2013/) was sunny and hot, this year it was rainy and cold. Here's what's new, cool, lightweight and caught my attention on Day 1 of the 2014 OutDoor Fair!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14632583213" title="eVent booth by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5154/14632583213_243b1c6447_b.jpg" width="1024" height="768" alt="eVent booth"></a>
+
+<!-- more -->
+
+## Arc'teryx
+
+The big news from [Arc'teryx](http://www.arcteryx.com/) is their new line of footwear. If you know the Canadians you know that they only enter a market if they think they can do something innovative and disrupt the status quo. Their new line of footwear - which I saw already last month in Chamonix - includes eight shoe styles and is divided into low-cut approach shoes (Alpha) and mid-cut hiking and trekking boots (Bora). Both have the Arc'teryx Adaptive Fit which is a separately manufactured inner and outer shoe which enables a great fit, high breathability and weather protection. The outer is a seamless one-piece upper that's constructed from four layers of technical and hydrophobic materials, and amongst the eight models there are Gore-Tex and non-lined models.
+
+Very interesting are the Alpha² FL and Bora² FL models - both have a removable liner (think a sock or little booty you can remove). This makes them ideal for multi-day outdoor activities as the shell is made from hydrophobic materials and so dries quickly, while the Gore-Tex liner you can take inside your sleeping bag to dry them over night. There's a lot of interesting tech in these shoes, from 3D molded toe and heel pieces to Gore-Tex up to the collar of the shoe. They're made in China, have a 14 mm drop, are available from February 2015 onwards and will cost from 175 € for the Alpha FL shoe to 250€ for the Alpha² FL and 300€ for the Bora² FL boot.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14431823760" title="Arc&#x27;teryx Footwear by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3850/14431823760_04ee0da90d_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Footwear"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14438951698" title="Arc&#x27;teryx Footwear by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5551/14438951698_e666203a98_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Footwear"></a>
+
+Arc'teryx also renewed the complete harness line-up. There's now five harnesses - two women, two men, one unisex. The Warp technology has been further developed, female-specific designs have been introduced and on the inside the mesh has been replaced by a soft lining. Great colours, too!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14440404000" title="Arc&#x27;teryx climbing harnesses by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3922/14440404000_160b561972_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx climbing harnesses"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14440655907" title="Arc&#x27;teryx climbing harnesses by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5157/14440655907_68bdb52784_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx climbing harnesses"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14604057436" title="Arc&#x27;teryx climbing harnesses by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3846/14604057436_1ba20c92b5_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx climbing harnesses"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14624955214" title="Arc&#x27;teryx climbing harnesses by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5483/14624955214_45f01d6d37_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx climbing harnesses"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14440459959" title="Arc&#x27;teryx climbing harnesses by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2914/14440459959_221ea1eb97_b.jpg" width="768" height="1024" alt="Arc&#x27;teryx climbing harnesses"></a>
+
+## Marmot
+
+The [Marmot](http://marmot.com/) Crux Jacket is made of the NanoPro MemBrain and is an alpine shell. 241 g light with freedom of movement and very good breathability, this could become a very popular shell jacket for ultralight backpackers. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457805547" title="Marmot Crux Jacket by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3913/14457805547_867e455abe_b.jpg" width="768" height="1024" alt="Marmot Crux Jacket"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14642037684" title="Marmot Crux W&#x27;s Jacket by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2938/14642037684_30021b3bb9_b.jpg" width="768" height="1024" alt="Marmot Crux W&#x27;s Jacket"></a>
+
+The Pingora Pants is a Schoeller softshell pants which is made for the mountains. Reinforced seat, knees and cuffs, zippered pockets so nothing falls out and freedom of movement, it looked & felt like a very comfy pants that also would do well on spring and autumn hikes in the Fjells of the north.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14664118523" title="Marmot Pingora Pant by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3906/14664118523_d0e2e13305_b.jpg" width="768" height="1024" alt="Marmot Pingora Pant"></a>
+
+The Nitro 1 P and 2P are lightweight tents that are pitched with trekking poles. Made of an inner and a flysheet, these looked like interesting tents. High in the front so you can sit in them, with the possibility of the inner being used on their own during clear, mosquito-infested nights. It has a small porch so the pack can be stored in it, and the 2P version has two doors - one on each side of the trekking pole. Weight is 765 g for the 1P and 1049 g for the 2P and they will set you back 290€ to 350€ respectively.
+
+## Edelrid
+
+[Edelrid](http://edelrid.de/) introduces a new version of their Fraggle children's harness, which offers safety, the ability to grow with the kid and comes in bright colours which will delight the little rock climbers. Also the new chalk bag, shoes and helmet for kids will surely make the Junior climbers happy to go to the crag!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439405767" title="Edelrid Fraggle by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3855/14439405767_5fdb7a3567_b.jpg" width="768" height="1024" alt="Edelrid Fraggle"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14623708664" title="Edelrid Kids Chalkbag by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3894/14623708664_e6f778f8c0_b.jpg" width="1024" height="768" alt="Edelrid Kids Chalkbag"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439197278" title="Edelrid Kids climbing shoes and helmet by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3856/14439197278_dcddaa8f54_b.jpg" width="768" height="1024" alt="Edelrid Kids climbing shoes and helmet"></a>
+
+Also new is the new Rap Line II which is 6.5 mm think. It's a hybrid of light, low-stretch aramid and energy-absorbing polyamide while offers many benefits over conventional rap lines when abseiling and hauling. I'm sure we'll see this Rap Line on a lot of fast & light alpine adventures in the future.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14602800566" title="Edelrid Rap Line 6,5 mm by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2919/14602800566_c18004f934_b.jpg" width="768" height="1024" alt="Edelrid Rap Line 6,5 mm"></a>
+
+The Jul 2 is a single rope belay device - there have been several of these on the fair - which works with ropes between 8,4 and 11 mm. Made for gym and sports climbing the Jul 2 weighs 87 g.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14623707524" title="Edelrid Jul 2 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3910/14623707524_697dc0ca45_b.jpg" width="1024" height="768" alt="Edelrid Jul 2"></a>
+
+## Salewa
+
+The big news at [Salewa](http://www.salewa.com/) is obviously their new corporate image. It's a great design and after some initial time that I needed to get used to it I now really like it. But there's also plenty of new stuff on the gear front. Very interesting is the Ergo BS - BS stands for Belay System. It's a good take on dynamic belay devices and works very well. Even if you would put the rope wrongly in it you still could use one of the grooves to lower your partner safely. But that's just when you don't pay attention and also your partner sleeps during the cross-check! It's easy to give out rope to a leader, and lowering the climber is also easier as with a [Mammut Smart](http://www.bergfreunde.de/mammut-smart-sicherungsgeraet/) as your hand which releases the slack is closer to your body. It will be available next year for 65€ together with the HMS carabiner you see in the photo.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14439397467" title="Salewa Ergo BS by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5576/14439397467_4762b00119_b.jpg" width="1024" height="768" alt="Salewa Ergo BS"></a>
+
+Salewa also updated several of their packs, shoes and garments. The Alpine Speed jacket for example will be the official X Alpes 2015 jacket, Michi Wohlleben helped design a fast & light alpine pack which looked very good, and some of their classics like their [Wildfire](http://hikinginfinland.com/2014/03/salewa-wildfire-approach-shoes.html) shoes got a few improvements and new designs.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14602793266" title="Salewa Alpine Speed jacket by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5033/14602793266_b5b0c60d7a_b.jpg" width="1024" height="768" alt="Salewa Alpine Speed jacket"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14623697414" title="Salewa by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3841/14623697414_ae468ab3dc_b.jpg" width="1024" height="768" alt="Salewa"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14626593112" title="Salewa by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2938/14626593112_dcc5ed83c1_b.jpg" width="1024" height="768" alt="Salewa"></a>
+
+## Petzl
+
+Lots of new gear from [Petzl](http://petzl.com/)! Orange continues to be the colour of the high-end products, and the new Hirundos is all orange. It uses the FUSEFRAME technology, is 280 g light in Size M, has four gear loops, two CARITOOL slots and a rear haul loop. It's Bluesign certified and will be between 80 and 90€. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14438979259" title="Petzl Hirundos by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3905/14438979259_41a1086308_b.jpg" width="1024" height="768" alt="Petzl Hirundos"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14438979479" title="Petzl Hirundos by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5499/14438979479_14187fc76e_b.jpg" width="1024" height="768" alt="Petzl Hirundos"></a>
+
+The Aquila is a completely new harness and represents the high-end mountaineering and ice climbing harness from Petzl. Adjustable leg loops, FUSEFRAME technology, 345 g in Size M, around 100€. FUSEFRAME is a thermo-formed foam which produces a slim, clean harness without pressure points. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14438972168" title="Petzl harness line-up 2015 by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3841/14438972168_94b651a79b_b.jpg" width="1024" height="768" alt="Petzl harness line-up 2015"></a>
+
+Macchu is an adjustable kids seat harness, uses the Endoframe technology and allows your child to have a harness like mom or dad. Available in one colour with a waist belt between 54 and 64 cm and leg loops between 34 and 44 cm. With it goes the Body Chest Harness.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625576705" title="Petzl Macchu Kids harness + Body by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3849/14625576705_ddec922e03_b.jpg" width="768" height="1024" alt="Petzl Macchu Kids harness + Body"></a>
+
+All the ice axes from Petzl have been renewed. The Glacier Literide is a compact ice axe for ski mountaineering & touring, is 50 cm long and hence should even fit inside most packs. It's 320 g and has a B rating. The Summit Evo ice axe has a waterjet-formed tube shaft, weighs 400 g in 52 cm length, has a B rating and is the top-of-the-line technical mountaineering axe from Petzl. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14626551422" title="Petzl Glacier Literide by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3918/14626551422_207daf3b86_b.jpg" width="768" height="1024" alt="Petzl Glacier Literide"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14438982209" title="Petzl Summit Evo ice axe"><img src="https://farm4.staticflickr.com/3877/14438982209_bf71a2eb71_b.jpg" width="768" height="1024" alt="Petzl Summit Evo ice axe"></a>
+
+Also the lamps have seen some updates - the NAO now has 575 Lumen and a slightly updated design. A top-notch headlamp that just got better! The MYO is new for 2015 and has 280 lumens which go up to 370 lumens in Boost mode and could be a popular lamp for trailrunners, climbers and hikers alike.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625574495" title="Petzl Nao by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3861/14625574495_f215489555_b.jpg" width="1024" height="768" alt="Petzl Nao"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14625097012" title="Petzl MYO by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3912/14625097012_c6802c3de3_b.jpg" width="1024" height="768" alt="Petzl MYO"></a>
+
+## Vaude
+
+[Vaude](http://vaude.de/) celebrates it's 40th Anniversary this year, but also has a few other impressive numbers to show: It's HQ is powered by 100% renewable energy, 69% of the products are bluesign certified and it has 35% women in managing positions. Oh, and it's the first Outdoor company which has launched a report according to the GRI (Global Reporting Initiative) - Respect! 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14643756652" title="Vaude by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3864/14643756652_c42255259a_b.jpg" width="768" height="1024" alt="Vaude"></a>
+
+Gear-wise the Germans have launched a quilt - the Finsuit. It's a smart quilt dressed up as a sleeping bag, which should make the idea of quilts more accessible to a wider audience. You can use it as a double quilt or a sleeping bag, add a hood or go without, have a the footbox open or closed - good ideas there, and all for a very low price.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14644168005" title="Vaude Finsuit by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3896/14644168005_4e189f433a_b.jpg" width="768" height="1024" alt="Vaude Finsuit"></a>
+
+There were several new packs with interesting new ideas, like mesh backpanels which can be adjusted and go from a lot of space for good airflow to almost flat for more warmth. Being able to adjust packs was overall improtant and some good ideas have been presented in the pack lines. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457764287" title="Vaude by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5501/14457764287_bf83c67c79_b.jpg" width="768" height="1024" alt="Vaude"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14621195956" title="Vaude by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5512/14621195956_1b7064f2b2_b.jpg" width="1024" height="768" alt="Vaude"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457568608" title="Vaude by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2905/14457568608_228b82e4f5_b.jpg" width="1024" height="768" alt="Vaude"></a>
+
+## Fjällräven
+
+Also [Fjällräven](http://www.fjallraven.com/) has discovered the bearable lightness of garments and comes out with a brand new "High Coast" line. The garments are made from 54% polyamide and 46% cotton and should be airy, quick-drying and wind-resistant. You also can impregnate them with the Greenland Wax to make them more water-resistant. There will be an Anorak (270 g in Size M, 199,95 €) and a Jacket (320 g in Size M, 169,95 €). In addition there will be High Coast Wind Trousers (210 g in Size 48, 109,95 €) and Trousers (365 g in Size 48, also 109,95 €) as well as shorts, tops and a dress. So if you like the brand with the Polar Fox but didn't like their heavy stuff, you're in luck with the High Coast line!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14623876901" title="Fjällräven High Coast line by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5524/14623876901_886af803ff_b.jpg" width="768" height="1024" alt="Fjällräven High Coast line"></a>
+
+## Patagonia
+
+[Patagonia](http://bit.ly/1vVr6Wj) is launching a rock climbing backpack line. The [Ascensionist](http://hikinginfinland.com/2014/07/patagonia-ascensionist-pack-45l.html) pack has been very well received and the new Crag Daddy 45L pack should be just as popular for sports and trad climbers. The smaller Cragsmith Pack 35L lets you access the inside via the top or back panel. Finally, the Linked Pack 16L is a streamlined climbing pack built with burly fabrics which withstand abuse on the wall and should be perfect for lead climbers.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457435390" title="Patagonia by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5512/14457435390_ff42e2d752_b.jpg" width="768" height="1024" alt="Patagonia"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14664006403" title="Patagonia by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2909/14664006403_330a799af9_b.jpg" width="1024" height="768" alt="Patagonia"></a>
+
+The Men's and Women's RPS - which stands for Rock, Paper, Scissors - is the lightest climbing pants the Californians make. It's super soft on the inside, durable on the outside and gives you the freedom of movement that you expect from a climbing pants. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457503138" title="Patagonia by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3900/14457503138_3167e4c2c6_b.jpg" width="768" height="1024" alt="Patagonia"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457692577" title="Patagonia by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2912/14457692577_9dbf137379_b.jpg" width="768" height="1024" alt="Patagonia"></a>
+
+The Houdini family had a new addition: The Houdini Anorak. Even lighter than the Houdini jacket which you love already, this piece from the trailrunning line surely will become popular in ultralight backpacking circles, too!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14457711627" title="Patagonia Houdini Anorak by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2922/14457711627_556535edac_b.jpg" width="768" height="1024" alt="Patagonia Houdini Anorak"></a>
+
+## Primus
+
+[Primus](http://www.primus.eu/) has launched a new winter gas that's claimed to work well till -22°C. They also add a Summer gas and so you now can choose from their classic Power Gas, the Summer Gas and the new Winter Gas. The gas won an OutDoor Industry Award and will be available as a 230 g and a 450 g cartridge. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14611674612" title="PRIMUS Gas by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5488/14611674612_e895a9cb85_b.jpg" width="1024" height="556" alt="PRIMUS Gas"></a>
+
+Love your [OmniLite Ti](http://hikinginfinland.com/2012/02/primus-omnilite-ti.html) but don't like the noise? With the Silencer you finally again can hear the Nightinglae sing. It reduces the perceived loudness by a factor of four, and is equivalent to the sound of a conversation. It's 17 g light and will be available from spring 2015 onwards for 59,95 €. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14425680688" title="OmniLite Silencer by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2913/14425680688_6cf1680482_b.jpg" width="1024" height="769" alt="OmniLite Silencer"></a>
+
+The Eta Lite is now the Lite+ and got a G-1000 heat-resistant sleeve with felt lining - available in five colours. The Lite XL is a 1 l pot for "real" cooking as Primus says. In both you can fit the stove and utensils as well as a 100 g cartridge. They will cost 129,95 € and 149,95 € respectively.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/14609065361" title="PRIMUS Lite+ by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3889/14609065361_1a18bb77a1_b.jpg" width="1024" height="290" alt="PRIMUS Lite+"></a>
+
+**Enjoyed this?** Follow along on [Facebook](http://facebook.com/hikinginfinland), [Twitter](https://twitter.com/hendrikmorkel) and [Google+](https://plus.google.com/u/1/b/105082905705272949032/105082905705272949032/posts). More photos you can find on the [Flickr OutDoor 2014](https://www.flickr.com/photos/hendrikmorkel/sets/72157645582553771/) set. 
+
+<a href='http://ko-fi.com?i=8d16909703c77d0' target='_blank'><img style='border:0px' src='http://ko-fi.com/img/button-1.png' border='0' alt='Buy Me A Coffee :) @ ko-fi.com' /></a>

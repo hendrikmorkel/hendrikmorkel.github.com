@@ -1,0 +1,42 @@
+---
+layout: post
+title: "GoPro HERO3"
+date: 2012-10-17 14:00
+comments: true
+categories: [videography, photography, GoPro HERO3]
+published: true
+---
+
+A new GoPro, again? Yes! The GoPro HERO3 was just announced this morning, and the underneath video, shot entirely with the third re-incarnation of the best action camera available looks like it just again jumped ahead in front of the competition. Hit play, get psyched and then read more!
+
+<iframe width="1280" height="720" src="http://www.youtube.com/embed/A3PDXmYoF5U" frameborder="0" allowfullscreen></iframe>
+
+<!-- more -->
+
+I've had my [HERO2](http://hikinginfinland.com/2011/10/gopro-hd-hero2.html) since last year, and it has been out on a lot of trips where it has seen some [great action](https://vimeo.com/43411086). The GoPro is a very special kind of camera, and shines best in my opinion if you do action sports - packrafting, climbing, paragliding, bikepacking & mountain biking, and to a limited extent also backpacking. If you plan to use your GoPro solely for backpacking videos and photos there might be [better cameras](http://amzn.to/RsjOGr) out there for that, which take probably better photos - on the other hand [Barefoot Jake](http://www.barefootjake.com/) for example only uses a GoPro for his photos, thus it is possible and certainly a compact and light option to document your trips.
+
+But in my opinion the HERO3 (and HERO2 for that matter) shines for these kind of adventures where you want to give the viewer an exciting point-of-view of the action you're doing, and with a small camera that you can mount on your helmet, bike, packraft, chest or pole that's certainly going to be easier than with a small camera. A [Point-and-Shoot](http://amzn.to/TurPcZ) might work, but attaching these to a helmet, bike or packraft is more complicated, plus the lack the waterproof housing. Thus, if you want to film your outdoor adventures, a POV camera like the GoPro or a [Contour+2](http://www.avantlink.com/click.php?tt=ml&ti=85857&pw=73183) are the way to go - if you have a need for it!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8096507889/" title="GoPro HERO3 Black Edition by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8466/8096507889_a232820b5a_b.jpg" width="683" height="426" alt="GoPro HERO3 Black Edition"></a>
+
+Which brings us to the GoPro HERO3: Black Edition, which has a very long list of great improvements:
+
+- It got 30% smaller and 25% lighter (the camera now weighs only 74 gram!)
+- Built-in Wi-Fi
+- A new waterproof housing which you can take up to 60 meters deep with an updated flat-lens that will deliver sharp videos above and under water
+- Includes the Wi-Fi Remote
+- Compatible with the [GoPro iPhone App](https://itunes.apple.com/us/app/gopro-app/id561350520?mt=8)
+- Can shot 12 Megapixel photos at a rate of 30 frames per second
+- A new Continuous Photo mode
+- Plenty of even higher quality video formats
+- A better audio system
+- Two times better low light performance!
+- User-selectable Ultra-wide, Medium and Narrow field-of-views
+
+Being smaller & lighter with better video and photo capabilities and built-in Wi-fi are the top points here, followed by better low light performance. It is compatible with the old batteries (BacPacs) as well as LCD Touch BacPac, so that's great news for those who already own these accessories, and it also keeps the [timelapse mode](https://vimeo.com/32251546), which is very nice. Being able to select the field-of-view will mean hopefully more videos which are shot in a "Fisheye" ultra-wide mode, which is something many can't stand watching (at least for very long); you can take this off in post-processing but being able to shot in a more normal field-of-view is a welcome option. 
+
+Taking a peek at the competition and the [Contour+2](http://www.avantlink.com/click.php?tt=ml&ti=85857&pw=73183), I think the HERO3 still is ahead. While they share now some of the same features - Wi-Fi and smartphone apps, for example - the HERO3 is having a few more options - dead simple time-lapse, for example. The Contour+2 on the other hand could be better if you use your action camera on you helmet a lot, as you can attach it to the side more easily than a HERO3. The Contour+2 also offers GPS tagging, but is double as heavy as a HERO3. Finacially, they're both the same price, so at least there none has an advantage!
+
+*So should you get one*? The answer is if you go (a lot) packrafting, bikepacking, skiing, climbing or maybe even canyoning, diving, surfing and paragliding **YES**! If you usually just hike and bike in the city then you're likely not using the full potential of this camera and are better of just loaning one from a friend if you need one. While I am lusting over the HERO3 I am not certain that it would see any more action than my HERO2, so I'll stick with what I have for the time being.
+
+You can preorder the Premium GoPro HERO3: Black Edition for $399.99 at <a href="http://www.kqzyfj.com/on118zw41w3JPPLNKRTJLKRMQLKM" target="_top" onmouseover="window.status='http://gopro.com';return true;" onmouseout="window.status=' ';return true;">GoPro.com</a><img src="http://www.ftjcfx.com/k9122r6Az42OUUQSPWYOQPWRVQPR" width="1" height="1" border="0"/>, it is shipping in the middle of November. Also available are a White Edition for $199.99 and a Silver Edition for $299.99 which have slightly less impressive video capabilities, but are, like the Black Edition, smaller & lighter with built-in Wi-Fi so an improvement over the older GoPros. *Finally, if you get HERO3 - make sure to use mix things up and shot with more than one POV!*

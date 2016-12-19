@@ -1,0 +1,170 @@
+---
+layout: post
+title: "OutDoor News I"
+date: 2013-07-16 02:00
+comments: false
+categories: [OutDoor Fair 2013, news, gear]
+---
+
+I surprised myself and a bunch of friends by going to the OutDoor Fair in Friedrichshafen this year. Here's some news from my first day at the fair.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297083380/" title="Brands &amp; Booths by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3796/9297083380_dba402267f_b.jpg" width="1024" height="1024" alt="Brands &amp; Booths"></a>
+
+<!-- more -->
+
+*As always, hover with your cursor over the photo to see the description.*
+
+## Arc'teryx
+
+The Canadian brand is at the top of their game, making arguably some of the best garments for outdoor enthusiasts. If you're into alpine stuff, be it fast & light ascents, ice climbing or mountaineering, then the Alpha FL Jacket will be of interest. A 310 g Gore-Tex Pro jacket (Size M) which is cut in a such a way that it only has 7 m of seams (usually a jacket has 14+ m of seams, which means more seam tape, which means more weight) is quite something. One chest pocket, Storm Hood, hip-length cut in a trim fit = cut down to the minimum for fast & light activities where durability is important.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294350087/" title="Arc'teryx Alpha FL Jacket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3792/9294350087_3b0860167d_b.jpg" width="680" height="1024" alt="Arc'teryx Alpha FL Jacket"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294351153/" title="Arc'teryx Alpha FL Jacket by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5483/9294351153_b7222c5b18_b.jpg" width="1024" height="680" alt="Arc'teryx Alpha FL Jacket"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294352155/" title="Arc'teryx Alpha FL Jacket by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2885/9294352155_c4216c8f40_b.jpg" width="1024" height="680" alt="Arc'teryx Alpha FL Jacket"></a>
+
+Like-wise for climbing fast & light are the Alpha FL packs. 610 g for the 30 l version, 680 g for the 45 l version - and superb prices: 150€ the small one, 170€ the bigger one. It uses a N400r-AC2 Nylon 6 ripstop fabric, which can be taped making for a waterproof construction - and while it sports a drawcord closure, underneath that is the extendable RollTop closure which works like a waterproof packsack. A very simple and minimalistic pack which also will work great for backpacking in wet environments as well as packrafting.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297132130/" title="Arc'teryx Alpha FL backpack by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2829/9297132130_f4712118c5_b.jpg" width="680" height="1024" alt="Arc'teryx Alpha FL backpack"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294357733/" title="Arc'teryx Alpha FL backpack by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7310/9294357733_1242009baf_b.jpg" width="680" height="1024" alt="Arc'teryx Alpha FL backpack"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297137700/" title="Arc'teryx Alpha FL backpack by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3706/9297137700_e62a17c414_b.jpg" width="680" height="1024" alt="Arc'teryx Alpha FL backpack"></a>
+
+Lots of companies make Duffles, but Arc'teryx makes them really waterproof - and light: The 100 l version weighs 680 g - half what comparable sizes duffles weigh. It can be worn as a backpack or over the shoulder for easy carrying, and straps can be packed away when they go into a plane, while four grab handles make these easy to strap on a camel for your next desert trek. I want one.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297127802/" title="Duffles from Arc'teryx"><img src="http://farm8.staticflickr.com/7292/9297127802_b090e4f894_b.jpg" width="1024" height="680" alt="Duffles from Arc'teryx"></a>
+
+The Endorphine Line is the trailrunning/ jogging Line, and includes the fantastic Sarix Short Sleeve Shirt & Soleus Shorts which I have been wearing on my trail runs and backpacking trips in the last weeks. These have superb cuts and details, and are surely going to be very popular among those who like to go a bit faster and longer on their "hikes". The 24 Line on the other hand is for those of us who appreciate technical and smart cuts in their everyday garments. Interesting for cyclists will be the A2B Commuter Pant and Jacket which come with cycling specific cuts and details. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294356657/" title="Arc'teryx Endorphin Line by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7368/9294356657_9b02dc4d3c_b.jpg" width="1024" height="680" alt="Arc'teryx Endorphin Line"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294355629/" title="Arc'teryx 24 Line by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5485/9294355629_7b822e2d68_b.jpg" width="1024" height="680" alt="Arc'teryx 24 Line"></a>
+
+## Salewa
+
+The Salewa Capsico can be transformed from a comfy shoe into a sandal in seconds. It's very meshy and should dry quickly, which could make it a good shoe for packrafting or those who like to have camp shoes. It's intended purpose is a ápres-climbing shoe, so it will work good for belaying, too. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297463424/" title="Salewa Capsico shoes by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7443/9297463424_95e4d51f65_b.jpg" width="1024" height="680" alt="Salewa Capsico shoes"></a>
+
+The Via Ferrata Vario harness is light (under 300 g) and packs very small, so could be of interest to those who have a few via ferrata sections on their hikes in the Alps and like to save weight.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294693309/" title="Salewa Via Ferrata Vario harness by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5344/9294693309_5f24b2dcd3_b.jpg" width="1024" height="680" alt="Salewa Via Ferrata Vario harness"></a>
+
+## Petzl
+
+The big news at Petzl are ropes. Made in cooperation with Edelrid. Single ropes and Twin/ Half-Ropes. Competitively priced. This will be very interesting, and weighs et al. will follow when I have them. The handling is great from what I tried at the fair, and they come with various different treatments.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297320484/" title="Petzl Ropes by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7420/9297320484_3fc800b79a_b.jpg" width="1024" height="680" alt="Petzl Ropes"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294543337/" title="Petzl Ropes by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5341/9294543337_b9fd8276ed_b.jpg" width="1024" height="680" alt="Petzl Ropes"></a>
+
+The Meteor Helmet got a new, simple to use closure system and a few new colours. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294545633/" title="Petzl Meteor Helmets by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7450/9294545633_c7f96d0b7f_b.jpg" width="1024" height="680" alt="Petzl Meteor Helmets"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297322522/" title="Petzl Meteor Helmet closure by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3708/9297322522_0f4387763d_b.jpg" width="1024" height="680" alt="Petzl Meteor Helmet closure"></a>
+
+The Petzl Spirit is back! Lighter with better breaking load values, this surely will be a very popular 'biner.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297324868/" title="Petzl Spirit by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7330/9297324868_809013c81d_b.jpg" width="680" height="1024" alt="Petzl Spirit"></a>
+
+Headlamps are now divided into three segments and have experienced a few re-designs. The Tikka RXP makes use of the Nao's Sensor Technology which automatically adjusts the light output depending on where you watch and so increases battery life. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297326032/" title="Petzl Tikka by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7427/9297326032_af7fc778f4_b.jpg" width="1024" height="680" alt="Petzl Tikka"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294551035/" title="Petzl Tikka R+ by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3667/9294551035_d5f9b1fa4f_b.jpg" width="1024" height="680" alt="Petzl Tikka R+"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294550005/" title="Petzl Tikka RXP by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5335/9294550005_316c99fd38_b.jpg" width="1024" height="680" alt="Petzl Tikka RXP"></a>
+
+## Evernew
+
+Evernew's collapsible bottles are now available in Europe, as will be much of their Ti Pots. The newest UL pots come with red lettering and red handles, so that are the ones you want.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297472748/" title="Evernew collapsible bottle by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7409/9297472748_630cf150fe_b.jpg" width="1024" height="680" alt="Evernew collapsible bottle"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297473600/" title="Evernew Ti Pots by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2892/9297473600_b796b92ce4_b.jpg" width="1024" height="680" alt="Evernew Ti Pots"></a>
+
+## Pronto Café
+
+A wonderful find is [Pronto Café](http://prontocafe.eu/de/) who make real brew coffee which weighs a fantastic 8 g for everything! The filter includes very tasty Arabica coffee, which is roasted in Italy and then 24 hours later packed in Switzerland. A shelf life of at least 12 months and a really good taste will surely make this very popular amongst coffee lovers. Immediately available from [Pronto Café](http://prontocafe.eu/de/) and [Outdoor Food Shop](http://www.outdoorfoodshop.de/).
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294569935/" title="Pronto Café by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5518/9294569935_1f2e3214fe_b.jpg" width="1024" height="768" alt="Pronto Café"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294570851/" title="Pronto Café by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3734/9294570851_60ebfdb3f4_b.jpg" width="1024" height="768" alt="Pronto Café"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294571713/" title="Pronto Café by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7283/9294571713_3bae389c04_b.jpg" width="1024" height="768" alt="Pronto Café"></a>
+
+## Mammut
+
+Mammut Ultimate Alpine Hoody and the Mammut Ultimate Hoody are softshell jackets. They have been re-designed, and the Alpine version is specifically made for climbing as it has harness compatible pockets et al. No info on weights, but looked to be in the medium weight category.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294707983/" title="Mammut Ultimate Alpine Hoody by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2892/9294707983_17fe6dc366_b.jpg" width="680" height="1024" alt="Mammut Ultimate Alpine Hoody"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294707189/" title="Mammut Ultimate Hoody by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7337/9294707189_12f06dc6ff_b.jpg" width="680" height="1024" alt="Mammut Ultimate Hoody"></a>
+
+The Rainspeed jacket is a 175 g light waterproof jacket, with a hydrostatic head of 10.000 mm. It's from the Mammut Performance Line, which is aimed at Trailrunning and similar high-output activities.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294704689/" title="Mammut Rainspeed Jacket by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3669/9294704689_ff3f7173a7_b.jpg" width="680" height="1024" alt="Mammut Rainspeed Jacket"></a>
+
+The Realization pants is the long version of the [Realization Shorts](http://www.bergfreunde.de/mammut-realization-shorts-short-klettergurt/). It's a pants with an integrated harness, two gear loops and a loop for your chalk bag. They should be very comfortable and if you consider that you safe an extra harness there's also some good weight savings. Oh, and they feel and look great, too!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9301318074/" title="Mammut Realization Pants by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7393/9301318074_de5462b92f_b.jpg" width="768" height="1024" alt="Mammut Realization Pants"></a>
+
+## Outdoor Research
+
+Plenty of very cool, thought-through garments coming from OR this & next season. The Helium Hybrid is a very light Pertex jacket with reinforced shoulders, so you can wear it with a backpack on.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294710757/" title="Outdoor Research Helium Hybrid by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3722/9294710757_27af949723_b.jpg" width="680" height="1024" alt="Outdoor Research Helium Hybrid"></a>
+
+Very cool are the Hot Pursuit Wrist Warmers, which are a pair of wrist warmers which transform into mitts when the temperatures drop. 36 g (I think that's for the pair, will need to check), breathable, reflective details - this could be very popular with runners.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297496900/" title="Outdoor Research Hot Pursuit Wrist Warmers by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2871/9297496900_090715002f_b.jpg" width="1024" height="680" alt="Outdoor Research Hot Pursuit Wrist Warmers"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297497794/" title="Outdoor Research Hot Pursuit Wrist Warmers by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5504/9297497794_2cb62c2b0e_b.jpg" width="1024" height="680" alt="Outdoor Research Hot Pursuit Wrist Warmers"></a>
+
+The Hot Pursuit gloves are 50 g (again, I think that's for the pair, will confirm), and these are for a bit cooler temps. The gloves can operate your smartphone, have a nose wipe, reflective details and transform in seconds into a lobster mitt if it gets too cold. I can see these as very useful for hiking in shoulder season.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297494640/" title="Outdoor Research Hot Pursuit gloves"><img src="http://farm3.staticflickr.com/2850/9297494640_5877eac0f9_b.jpg" width="1024" height="680" alt="Outdoor Research Hot Pursuit gloves"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9294716839/" title="Outdoor Research Hot Pursuit gloves"><img src="http://farm4.staticflickr.com/3831/9294716839_386d04f28c_b.jpg" width="1024" height="680" alt="Outdoor Research Hot Pursuit gloves"></a>
+
+The Sparkplug Gaiter is very minimalistic and shouldn't be very heavy either. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297493698/" title="Outdoor Research Sparkplug Gaiters by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3688/9297493698_170d54de34_b.jpg" width="680" height="1024" alt="Outdoor Research Sparkplug Gaiters"></a>
+
+It's hot, or windy, and you don't want to get your hoody out? Put on a pair of sun sleeves. These are coming with an insect repellant and UPV 50+ so keep the bugs and the nasty UV rays at bay. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297498750/" title="Outdoor Research Sentinel &amp; Spectrum Sun Sleeves by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3708/9297498750_3753596eed_b.jpg" width="680" height="1024" alt="Outdoor Research Sentinel &amp; Spectrum Sun Sleeves"></a>
+
+Finally, also OR is coming out with an urban line. A very simple, but beautiful line coming with various garments, backpacks and duffles will have you look like the outdoorsy guy you are in the office!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9297487692/" title="Outdoor Research by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7328/9297487692_b0cfd8ae6a_b.jpg" width="1024" height="680" alt="Outdoor Research"></a>
+
+## Sea To Summit
+
+The Australian company makes a lot of interesting gear for ultralight backpackers. There's going to be 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9301621096/" title="Sea To Summit UL Down Bag by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3767/9301621096_70625f2f73_b.jpg" width="680" height="1024" alt="Sea To Summit UL Down Bag"></a>
+very warm and light down sleeping bags
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9298865397/" title="Sea To Summit Tarps by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5548/9298865397_e2c1d28c61_b.jpg" width="680" height="1024" alt="Sea To Summit Tarps"></a>
+different tarps with inners
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9298886265/" title="Sea To Summit Ultra-Sil Compression DrySacks by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5474/9298886265_8a7ae1875c_b.jpg" width="1024" height="680" alt="Sea To Summit Ultra-Sil Compression DrySacks"></a>
+even lighter compression sacks with eVent
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9301686638/" title="Sea To Summit Ultra-Sil Nano Poncho Tarp by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3687/9301686638_db2ea66ff1_b.jpg" width="1024" height="680" alt="Sea To Summit Ultra-Sil Nano Poncho Tarp"></a>
+a new, lighter poncho-tarp (230 g)
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9298941683/" title="Sea To Summit Nano Mosquito Pyramid Net Permethrin by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2869/9298941683_6b687fe942_b.jpg" width="1024" height="680" alt="Sea To Summit Nano Mosquito Pyramid Net Permethrin"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9301704658/" title="Sea To Summit Nano Mosquito Pyramid Net by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7294/9301704658_8931071228_b.jpg" width="1024" height="680" alt="Sea To Summit Nano Mosquito Pyramid Net"></a>
+a swell Permethrin (and untreated) Pyramid Mesh inner which weighs 82 gram
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9298954931/" title="Sea To Summit Nano Headnet by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3811/9298954931_f572200a2f_b.jpg" width="680" height="1024" alt="Sea To Summit Nano Headnet"></a>
+an even lighter head net
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9301745482/" title="Sea To Summit Field Repair Buckle by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3688/9301745482_6249b2524a_b.jpg" width="1024" height="680" alt="Sea To Summit Field Repair Buckle"></a>
+Field repair buckles in different sizes. What a superb invention!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9298982645/" title="Sea To Summit UltraSil Dry Daypack by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5492/9298982645_88c0c5e6fb_b.jpg" width="680" height="1024" alt="Sea To Summit UltraSil Dry Daypack"></a>
+The new-ish Ultra-Sil Dry Pack
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/9299017251/" title="Sea To Summit Pocket Umbrella by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3690/9299017251_f59bb4e3a4_b.jpg" width="1024" height="680" alt="Sea To Summit Pocket Umbrella"></a>
+and a Pocket Umbrella, which is 155 g. All in all a very cool selection.
+
+## Laufbursche Gear
+
+[Laufbursche](http://laufbursche-gear.de/) now offers Evernew pots and the great collapsible bottles as well as Trail Designs stoves. Now you can almost get a complete UL setup at the cottage, as there's also very good CCF pads and other gear besides the huckePACK and huckePÄCKchen. There's more coming, too - but it's still secret =)
+
+<a href="http://laufbursche-gear.de/" title="Laufbursche News"><img src="http://farm8.staticflickr.com/7457/9297450516_3e2915b682_b.jpg" width="960" height="822" alt="Laufbursche News"></a>
+
+## More
+
+More coming this and next week. Have a look at [Benjamin](http://hrxxlight.com/), [Markus](http://ultraknilch.blogspot.fi/2013/07/outdoor-friedrichshafen-2013.html), [Corinna](http://www.outdoormaedchen.de/), [Carsten](http://blog.fastpacking.de/), [Sven](http://www.freiluft-blog.de/), [Gipfelblick](http://www.gipfelblick.org/), [Trekking Blog](http://www.trekking.lu/) and [outdoor enthusiast](http://www.oe-mag.co.uk/) to see their view on the OutDoor 2013. And there's [more photos on Flickr](http://www.flickr.com/photos/hendrikmorkel/sets/72157634659437008/).

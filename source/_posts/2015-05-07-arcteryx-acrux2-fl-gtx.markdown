@@ -1,0 +1,125 @@
+---
+layout: post
+title: "Arc’teryx Acrux² FL GTX"
+date: 2015-05-07 20:20
+comments: false
+categories: [Arc’teryx, Acrux² FL GTX, shoes, approach shoes]
+keywords: Arc’teryx Acrux² FL GTX, shoes, approach shoes, mountaineering boots
+description: The Arc’teryx Acrux² FL GTX is two shoes in one. If it can convince me you can read in my detailed review. 
+---
+
+The Acrux² FL GTX from [Arc’teryx](http://arcteryx.com/) is the Canadian brand's entry into the approach footwear business. Made of an hydrophobic outside and a Gore-Tex slipper with a Vibram MegaGrip sole, it is a unique shoe. How it performed in the outdoors, you can read here.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17203304149" title="Arc’teryx Acrux² FL GTX - Side and Sole by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7794/17203304149_daccb18e5a_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Side and Sole"></a>
+
+<!-- more --> 
+
+## Time
+
+The Acrux² FL GTX arrived in late March and has been along on the International Appalachian Trail in [Ireland](https://hikinginfinland.com/blog/categories/ireland/), where I wore it for seven days straight in rain and sunshine. I usually review gear only after a long period of time - often a year or longer - but as there's a lot of interest in this shoe I wrote this initial review. I will update it after more use in the future. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/16767071834" title="Arc’teryx Acrux² FL GTX at the coast by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8700/16767071834_2caf372641_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX at the coast"></a>
+
+## Function
+
+The Arc’teryx Acrux² FL GTX is two shoes in one: A Gore-Tex liner (blue) and a Hydrophobic shell shoe (black). For simplicity's sake I will refer to them as the liner and shell. As an approach shoe it's function is to allow you to get easily to the crag and back and for that it has a grippy sole with a climbing zone in the toe area which allows you to do easy scrambles in them. The shell does not absorb water and the liner has a Gore-Tex lining, which makes it highly water-resistant.
+
+> *Technical alpine approach footwear for multiple days spent in variable weather & terrain.* - Arc'teryx
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17389527535" title="Arc’teryx Acrux² FL GTX - Liner bootie and its insole by Hendrik Morkel, on Flickr"><img src="https://farm6.staticflickr.com/5329/17389527535_206647f76f_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Liner bootie and its insole"></a>
+
+## Features
+
+As from Arc'teryx's website:
+
+Sole: 
+<br>- 3D moulded Ortholite™ footbed
+<br>- Vibram® MegaGrip™ sole
+<br>- 14 mm Heel Drop
+<br>- Sharp heel brake and mountaineering heel tread
+
+Shell:
+<br>- Seamless one piece upper with thermolaminated construction
+<br>- EVA foam midsole
+<br>- Hydrophobic material
+
+Liner:
+<br>- Tongue free liner
+<br>- Low height, light weight
+<br>- Arc'teryx Adaptive fit is an independent liner that conforms to the foot for a custom fit with no pressure points
+<br>- Stetchable GORE-TEX® liner
+<br>- Completely removable, interchangeable liner
+<br>- Rubberized sole
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EcIPgSWo_cA" frameborder="0" allowfullscreen></iframe>
+
+## Technical Innovations
+
+Arc'teryx separated the shell and lining of a traditional shoe and made two separate ones out of it, while re-designing both. So the upper is made from a single-piece of fabric, with a TPU-coating on the non-perforated parts which make them abrasion-resistant and let them shed water easily. The shell is also not sewn, but all parts are laminated together for a seam-free feel, which minimizes the risk of blisters and chaffing.
+
+While there might have been shoes like these before, Arc'teryx is the first brand in recent time that brings a shoe with a removable liner to market. What's very special is that the liners of the Acrux² and the Bora² are interchangable - which means you can use the high, insulated liner of the Bora in your Acrux, or if you need more water-protection in the Acrux use the high Gore-Tex bootie liner - They all work together. The liner is also thought to increase the airflow inside the shoe, which should maximize ventilation. It's made from stretchable materials which hug your feet for a comfortable feeling, all day long.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17363563336" title="Arc’teryx Acrux² FL GTX 0.1 by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7789/17363563336_c26f9bc77a_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX 0.1"></a>
+
+## Quality
+
+The quality of these shoes - both liner and shell - is superb as you expect from Arc'teryx. The whole construction is very tidy and clean, with no little threads hanging around. The laminated upper is super smooth and stylish, while the liner bootie has minimal seams and is very comfortable.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17203302069" title="Arc’teryx Acrux² FL GTX - Shell, insole and liner bootie by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7762/17203302069_35755460e2_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Shell, insole and liner bootie"></a>
+
+## Weight
+
+The Arc’teryx Acrux² FL GTX is a medium-weight shoe, in EU Size 42 they weigh:
+
+- Liner: 126 g
+- Shoe: 371 g
+- Total: 499 g
+- **PAIR 998 g**
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17389527005" title="Arc’teryx Acrux² FL GTX - 0.5 by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8710/17389527005_3de2af25d0_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - 0.5"></a>
+
+## In use
+
+The Acrux² FL GTX is a stylish shoe. If you travel a lot to go climbing & hiking and also will spend some time in civilization, airplanes, hotels and B&Bs the Acrux FL² GTX are great beacause while they are functional approach shoes they also could pass as a stylish city sneaker. I used them as a scramble and approach shoe as I was [sea stack climbing](https://hikinginfinland.com/2015/04/sea-stack-climbing-in-ireland.html) and there they worked fantastic. The Vibram MegaGrip sole had superb traction on the wet slabs at the coast, and the small climbing zones at the toes allowed for good foot placements on small ledges. 
+
+Also for hiking the shoes were very comfortable, even in hot weather (more on that underneath). I was a bit worried before flying to Ireland if the shoe would be too hot and might give me blisters, but the truth was that even on long, high kilometer days the shoes were comfortable and I finished the trip without blisters, even on those close to 20°C sunshine & blue-bird days. The laces were very good and did not come undone, something which has been a problem with some other shoes. The shoe is comfortable all day long, the liner hugs my foot nicely and you can lace up the shell as loose or tight as you like. At 499 g per shoe they're medium weight but I didn't get tired feet in the shoes. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17203380689" title="Arc’teryx Acrux² FL GTX by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7681/17203380689_b77edb80bc_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX"></a>
+
+Now one of the design ideas of this shoes was that you can take the Gore-Tex liner out if it gets wet and can dry it overnight in your sleeping bag or tent. In practice I am not sure if it works, to get the liners dry again I needed to place them close to a radiator so that they would be dry the next morning; if there was no heat source then they were still moist the next morning. It could be that if you take the moist liners into your sleeping bag at a bivy that they will dry out well, but in my limited tests I am not sure if it works. An alternative could be to carry a 2nd pair of liner booties - at 126 g they're not too heavy - and so ensure always dry feet. What I missed in this respect was that the shell did not have some drainage/ ventilation holes at the sole-level, this would help to get water out faster when you wade through a stream (or bog!).
+
+What the liners are really great for is being used as a camp shoe. I used them to stroll around and the grippy rubber sole and light weight made them excellent for that. I also can imagine them to work very well for [packrafting](https://hikinginfinland.com/blog/categories/packrafting/), where you can use them as your bootie in the packraft and the complete shoe for hiking. I jumped from rock to rock over the Atlantic with them on my sea stack adventure and they gave good grip on the wet & salty rocks at the Irish coast, which means for me that they should be good as a paddling booty. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17182072687" title="Arc’teryx Acrux² FL GTX - 1.0 by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7786/17182072687_852f3232fb_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - 1.0"></a>
+
+Fit-wise I found the liner and shell to be both spacious. The EU Size 42 shoe gave me plenty of space inside the liner bootie to move my toes around, and when laced tighly they gave me good control and feel on small ledges. The heel did feel a bit wider and could for me be more narrow, but with a sock that's well-cushioned in the heel you will have a good feel and should be fine. Overall a good & spacious fit for my normal feet with plenty of space for movement.
+
+I have a couple of gripes thus far with the shoe: The black shell makes the shoe very hot. Even on the mild (+11°C) spring days we have currently here in Vaasa the shoe is getting very hot, very quickly. I wore [Coolmax socks](http://www.bergzeit.de/bridgedale-coolmax-liner-socke-doppelpack-black-black-36-39/?pid=81) which usually are good in warm weather, but in this shoe I got hot feet very quickly. I am not sure if another colour would mitigate this, or if the shell would just need more & larger ventilation openings in the shell shoe so the ventilation is improved. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17203302519" title="Arc’teryx Acrux² FL GTX - 2.0 by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8702/17203302519_31521ebe12_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - 2.0"></a>
+
+The second thing I do not recommend: Walk through a bog with them. Along the IAT in Ireland I crossed several swamps, and the combination of bog flora & fauna + my own sweat created an unbearable smell in the shoes. It was absolutely terrible and I felt slightly afraid to go sit with them in a plane for several hours. At home I first tried the [Granger's Universal Spray Cleaner](http://www.bergzeit.de/grangers-universal-spray-cleaner-275ml/) but that showed no success in terms of getting rid of the smell (probably should have used the [Granger's Odour Eliminator](http://www.bergzeit.de/grangers-odour-eliminator-60ml/?pid=81)), so they went into the washing machine with [Nikwax Tech Wash](http://www.bergzeit.de/nikwax-tech-wash-pflegemittel-002/?pid=81) which got rid of the smell for the most part. So I would not recommend them for walking in swamps right now, unless there's a good way to get rid of the smell. If you're in alpine environments where there's no bogs this will not be of concern, but in Ireland, Scotland, Wales, England and Scandinavia you're likely to encounter swamps in the hills, so keep this in mind (It might be of course that your sweat germs in combination with a bog's flora & fauna creates an irresistible odour and it's just my sweat that's wrong!).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17182071337" title="Arc’teryx Acrux² FL GTX by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7728/17182071337_162901961c_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX"></a>
+
+Finally, I hope Arc'teryx will release at the coming [OutDoor](https://hikinginfinland.com/blog/categories/outdoor-fair-2014/) an membrane-free bootie liner. It really is missing for me in their bootie line-up, and I think it would make the shoe even more attractive for those of us who don't need a Gore-Tex or Insulated bootie. Make it highly breathable with good drainage, with a material that's odour-neutral, and it could be a winner.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17387539812" title="Arc’teryx Acrux² FL GTX - Shell Inside by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7721/17387539812_572df856b7_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Shell Inside"></a>
+
+## Competing Products
+
+I am not aware right now if there's similar shoes that are made of a liner + shell, but I have no doubts that there could be. For ultralight backpackers and weight-conscious alpinists a combination of a unlined approach shoe + a [Gore-Tex sock](http://bit.ly/1F5m1op) or [Neoprene Sock](http://bit.ly/1F5lXVO) could also create this combination of a quick-drying shoe and a waterproof liner that you can dry easily over night. 
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17387540382" title="Arc’teryx Acrux² FL GTX - Made for approaches by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7786/17387540382_19e7fb9a24_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Made for approaches"></a>
+
+## Bottomline
+
+The Acrux² FL GTX is a shoe that brings fresh wind into the approach shoe market. A comfortable, removable liner paired with a hydrophobic, stylish shell and a grippy Vibram MegaGrip sole make this a great shoe for approaches, Via Ferratas and scrambles. The price of 250€ puts it at the high-end, but then you get essentially two shoes for the price of one. Add in the versatilty the Acrux² offers with the interchangable, removable liners and you have a great shoe for your mountain adventures, and you can get rid of a stinky liner bootie if you have hiked through a bog! Finally, as this is the first Generation of Arc'teryx footwear we can be curious to see what they will come up with the next Generations!
+
+[More photos on Flickr](https://www.flickr.com/photos/hendrikmorkel/sets/72157651938930537).
+
+## Where to buy the Acrux² FL GTX
+
+You can get them directly from [Arc'teryx]() or at [Bergfreunde](http://www.bergfreunde.de/arcteryx-acrux-2-fl-approachschuhe/), [Bergzeit](http://www.bergzeit.de/arcteryx-alpha2-fl-gtx-schuhe-black-big-surf-uk6-5/?pid=81), [Backcountry.com](http://bit.ly/1F5uZCc), [CampSaver.com](http://bit.ly/1GOzXhD) and [REI](http://bit.ly/1GYO9XR).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/17182073947" title="Arc’teryx Acrux² FL GTX - Side by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7713/17182073947_cbcd710c7c_b.jpg" width="1024" height="683" alt="Arc’teryx Acrux² FL GTX - Side"></a>

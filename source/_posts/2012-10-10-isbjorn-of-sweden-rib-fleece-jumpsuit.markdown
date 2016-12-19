@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Isbjörn of Sweden Rib Fleece Jumpsuit"
+date: 2012-10-10 08:40
+comments: true
+categories: [baby gear, toddler gear, Isbjörn of Sweden, Rib Fleece Jumpsuit]
+---
+
+Finally dad is away and left the computer open; now I can write here! Lets see, yes, I could tell you about the [Isbjörn of Sweden Rib Fleece jumpsuit](http://www.isbjornofsweden.com/en/articles/2.15.885/rib-fleece-jumpsuit-223) dad got me last winter; that was nice warm, had a fab colour and was just as functional as an adult garment. And as there is a lack of these kind of garments, I better tell you about these great Swedish baby and toddler garments so you can get them for you babies and toddlers, too.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073343971/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8321/8073343971_f4f2569f53_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+
+<!-- more -->
+
+Dad doesn't have it easy. Mom and grandmom get me clothes all the time, though usually they're for inside, and if they're for outside their functionality often leaves much to be desired. It starts with getting dressed: I don't have the patience to be dressed up in a jumpsuit which requires me to lay still for minutes and where I need to bend my legs into impossible positions to get them into the pant legs. The [Isbjörn of Sweden jumpsuit](http://www.isbjornofsweden.com/en/articles/2.15.885/rib-fleece-jumpsuit-223) has one leg which can be completely opened by a zipper, so it is easy to get my legs inside. That makes dressing up easy and fast.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073363056/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8038/8073363056_1c04c1295e_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073363374/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8320/8073363374_10830bdcaf_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+
+Overall the fleece jumpsuit has a host of functional details which other baby and toddler garments often lack, or are poorly executed. As I was smaller my hands and legs didn't yet protrude from the sleeves and pant legs, but because I love to take off my mitts and warm socks mom and dad were very happy that the jumpsuit had fold-over sleeves which kept me even more warm and hindered me from taking socks and mitts off. Now that I have grown so much my hands and feet look out, so it is quite nice as it's not just something you use for eight weeks and then need to box away because one has outgrown it. The pant legs have elastic bands on them, which hinder me again from losing my outdoor socks. Smart.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073337900/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8029/8073337900_7ecc0f113c_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073336620/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8174/8073336620_d361bd6cf7_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+
+That big zipper also has a stormflap over the complete length on the inside, so the wind doesn't come through the zipper. The elastic hood has one toggle to tighten it up (mom and dad like to use that, as with a tight hood I can't take my hat off) and has a cool icebear embroidery on the top. The stormflap functions here as a protection for the zipper so that it doesn't rub against my face, either.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073336454/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8458/8073336454_164b5a7ac5_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073343423/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8461/8073343423_0ebb8770b2_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+
+Movement in the Isbjörn of Sweden Rib Fleece Jumpsuit is superb. It is a slim fit (not too slim, though - I can layer up underneath it with some room to spare) which means I can crawl around in it without problems; some of the other outdoor suits I got are so massively bulky that it ain't much fun to be outdoors in them. And if mom and dad carry me around in my Manduca carrier I have plenty of it is a slim enough fit so that the jumpsuit does not folds double somewhere. Comfy.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073342769/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8035/8073342769_2a8c3a71ef_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+
+To top things off, this Isbjörn of Sweden Rib Fleece Jumpsuit is made of recycled fleece, (take a peek at their [Material Guide](http://www.isbjornofsweden.com/en/material-guide), they use a lot of materials which you'll also find in adult garments) and after I've outgrown it, it could be recycled again into a new garment. That ensures that I too get to enjoy the forests and hills instead of barren land and mountains of rubbish. I wish more parents would think like that!
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8073338066/" title="Isbjörn of Sweden Rib Fleece Jumpsuit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8179/8073338066_e4ec54a50d_b.jpg" width="1024" height="680" alt="Isbjörn of Sweden Rib Fleece Jumpsuit"></a>
+
+Size-wise you should know that Swedish babies are giants, and that their 56 cm garment size fitted me as I was between three and eight months old - they're huge. If you're unsure, ask the Isbjörn people, they will help you to pick the right size - or try one on, if you can. They'r easy to clean, and come in a couple different colours for each taste. As you can guess, I'm very happy with my Isbjörn of Sweden Rib Fleece Jumpsuit, and a bit sad that I have outgrown it so quickly, though I'm sure dad will get me a new one for the winter ahead, so that he can take me skiing and sleding!
+
+---
+
+
+You can buy a Isbjörn of Sweden Rib Fleece Jumpsuit on the [Isbjörn of Sweden](http://www.isbjornofsweden.com/) website if you live in Sweden, at [Retkiaitta](http://www.retkiaitta.fi/) and [Partiovaruste](http://www.partiovaruste.fi/) in Finland, and a whole bunch of other [retailers in other countries](http://www.isbjornofsweden.com/en/retailers).

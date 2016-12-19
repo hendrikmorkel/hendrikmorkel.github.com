@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Petzl Sirocco Helmet"
+date: 2014-03-25 09:46
+comments: false
+keywords: Petzl Sirocco, Trad climbing, climbing, helmet
+description: Every climber should wear a helmet when going to the crag. The Petzl Sirocco is the lightest helmet on the market at 165 g - so light that you sometimes forget you're wearing it!
+categories: [Petzl, Trad climbing, climbing gear, climbing, Sirocco]
+published: true
+---
+
+An important piece of safety gear, every climber should wear a helmet when going to the crag. The Petzl Sirocco is the lightest helmet on the market at 165 g - so light that you sometimes forget you're wearing it!
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13425504763" title="Petzl Sirocco Helmet by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3824/13425504763_dd5c008052_b.jpg" width="1024" height="680" alt="Petzl Sirocco Helmet"></a>
+
+<!-- more -->
+
+Since last year I have been wearing a beautifully lightweight orange helmet when [climbing](http://hikinginfinland.com/blog/categories/climbing/) - the [Petzl Sirocco](http://www.petzl.com/en/outdoor/mountaineering-and-climbing-helmets/sirocco), also known as the world's lightest helmet. At 165 g it really is so light that I have been wearing it and forgot that I had it on - a short touch to the head made sure that indeed I was wearing it. That alone should make you delighted when you are in need of a helmet, but it doesn't stop there - the Sirocco is the full package that doesn't skimp on features to be lightweight! You can attach the [VIZOR visor](http://www.bergfreunde.de/petzl-vizion-elios-meteor-iii-visier/) to it and it has two hooks and rear elastic for attaching a headlamp . Oh, and plenty of ventilation openings, which allow you to attach e.g. your [helmet camera](http://bit.ly/1juyPd3).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13425769644" title="Petzl Sirocco Helmet by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2888/13425769644_f0f4e4c2fc_b.jpg" width="1024" height="680" alt="Petzl Sirocco Helmet"></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/13425521733" title="Petzl Sirocco Helmet by Hendrik Morkel, on Flickr"><img src="https://farm3.staticflickr.com/2808/13425521733_86771d869a_b.jpg" width="1024" height="683" alt="Petzl Sirocco Helmet"></a>
+
+Constructed from a monobloc shell of expanded polypropylene (EPP) it comes in two sizes - my large size with a head circumference of 53 - 61 cm weighs 165 g, while the smaller size (48 - 56 cm) weighs just 145 g. It has a Velcro attached padding which can be washed, and makes for soft, comfy fit. The straps allow you to size the helmet to your needs, and are quickly adjusted when you're for example wearing a hat or two in winter. Finally, the magnetic buckle can be operated with just one hand - even with thick gloves on - and is sitting to the side, which is more comfortable than a buckle right under your chin. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/12902195714/" title="Selfie. by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7434/12902195714_b00a507fda_b.jpg" width="768" height="1024" alt="Selfie."></a>
+
+Now you might think - *damn, that's a light helmet, but can it take an impact?* I've fallen with this helmet and crashed into a wall and had plenty of ice drop down on it - and my head and helmet are still in one piece. Actually, the helmet still looks like new, and I haven't been soft on it. And with a guarantee of three years, you can be sure that Petzl has designed and built this helmet to take plenty of abuse. You probably have seen this helmet also elsewhere - [Ueli Steck](http://hikinginfinland.com/2013/08/ueli-steck-interview.html) is wearing it, Chris Sharma is wearing it, pretty much everyone who is climbing hard alpine, trad or sport is wearing it! I can't think of a better endorsement, really.
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/13425760314" title="Petzl Sirocco Helmet by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7247/13425760314_a78132641a_b.jpg" width="1024" height="680" alt="Petzl Sirocco Helmet"></a>
+
+The bottomline is simple: If you go climbing outside, be it ice, trad or hard sport, you should wear a helmet. And you might as well wear the lightest helmet on the market, because it is very comfortable & safe without missing out on essential features. It's great for summer rock climbing, alpine climbing and ice climbing, truly a helmet for all seasons. Attach your headlamp to it, put the camera on record, and go climb! [More photos](http://www.flickr.com/photos/hendrikmorkel/sets/72157642949520913).
+
+Get yours at [Mountain Shop](http://www.mountainshop.fi/kauppa/index.php?cPath=45&osCsid=ff946279d9a4fda41b978c56adc5e7cb), [Camu](http://camu.fi/pages/kiipeily/kalliokiipeily/kyparat/siroccooranssi.html), [Bergfreunde](http://www.bergfreunde.de/petzl-sirocco-kletterhelm/), [Bergzeit](http://www.bergzeit.de/petzl-sirocco-kletterhelm/), [CampSaver.com](http://bit.ly/1apnPXN), [REI](http://bit.ly/1juxGT0) or [EMS](http://bit.ly/1pyyAvb).
+
+<a href="https://www.flickr.com/photos/hendrikmorkel/9189664731" title="How To Build A Trad Rack™ by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3772/9189664731_fe85a07cab_b.jpg" width="1024" height="680" alt="How To Build A Trad Rack™"></a>

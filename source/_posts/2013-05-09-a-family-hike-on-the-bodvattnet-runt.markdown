@@ -1,0 +1,48 @@
+---
+layout: post
+title: "A Family Hike on the Bodvattnet Runt"
+date: 2013-05-09 09:56
+comments: true
+categories: [family hiking, Kvarken Archipelago, Bodvattnet Runt]
+---
+
+Like many we were happy about the free days provided by the Easter weekend. So on Easter Monday all three of us drove to the [Kvarken Archipelago](http://www.kvarkenworldheritage.fi/visit-kvarken/), a UNESCO World Heritage site, for a walk in this unique place. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721713177/" title="Father &amp; Son by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7300/8721713177_a8a622ca93_b.jpg" width="1024" height="680" alt="Father &amp; Son"></a>
+
+<!-- more -->
+
+We arrived after a 45 minute ride from Vaasa at the parking lot in Svedjehamn, and while we hoped that our son would continue his afternoon nap which he started in the car he was wide awake as I took him on my back in the [Manduca child carrier](http://www.manduca-baby-carrier.eu/). *This might proof interesting* we thought, but our worries were unfounded as E enjoyed being outdoors and didn't complain or cry even once on our hike.
+
+Already from the parking lot we were able to see an White-Tailed Eagle flying in circles high above us, and I quickly grabbed my [Vortex binoculars](http://hikinginfinland.com/2012/05/vortex-optics-viper-hd-binoculars.html) to get a closer look. M also wanted a view, so I handed her the binos and walked on. The Bodvattnet Runt is a 4 km long nature trail and runs around lagoon which is connected to the Baltic. Many fish use it to lay its eggs there, and hence it is also popular with the local bird population. At the beginning of April there weren't that many there yet, though, as also the lagoon was still covered under thick ice.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8722844508/" title="Map by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7339/8722844508_a584bbc84e_b.jpg" width="1024" height="680" alt="Map"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721716649/" title="Scenery by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7317/8721716649_eafca9ae50_b.jpg" width="1024" height="680" alt="Scenery"></a>
+
+We walked on a well worn trail on the snow, and only meet two small groups of other hikers until we would reach the bird watching tower later on. The trail weaved in and out of birch and spruce forests, and led up to a small ridge from where we had a fine view over the lagoon. In times past fishermen were starting their trips from here, but with the land rising (the Kvarken Archipelago rises about 1 cm each year) now their sheds were standing far from the water and only had historical value. They are beautiful: The weathered wood is gorgeous to look at, the old nets still intact and the lovely little details are signs which one doesn't find often on modern buildings.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8722851748/" title="Sjöes &amp; Batjes by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7366/8722851748_53a712259c_b.jpg" width="1024" height="680" alt="Sjöes &amp; Batjes"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721726297/" title="Batjes by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7400/8721726297_cc756abfc3_b.jpg" width="1024" height="680" alt="Batjes"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8722845984/" title="Door by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7297/8722845984_f9706cb1f4_b.jpg" width="1024" height="680" alt="Door"></a>
+
+We continue along the ridge which brings us down into another birch & spruce forest. They were building new trails, and a lot of gravel was strewn over the future trail. In the forest we spotted a tree which is used by a woodpecker puts cones and from where he eats the seeds hidden in it - broken cones were littering the base of the tree, so it has seen much use recently. The trail again lead up to a ridge, out of the dense trees, and we now could see the Baltic Sea on our left.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721721035/" title="On the trail by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7406/8721721035_db42d1b69c_b.jpg" width="1024" height="680" alt="On the trail"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721716127/" title="Bodvattnet Runt by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7419/8721716127_7a2b957336_b.jpg" width="1024" height="680" alt="Bodvattnet Runt"></a>
+
+We made our way to the bird watching tower, a beautiful structure which fits, despite its modern appearances, well into the landscape. Made entirely of wood, it rises high above the surrounding landscape and one can see far - back till Vaasa, even. The binos came back out and we were looking for birds, and spotted a few ice fisherman sitting further out between the rising land.
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8722850346/" title="Birdtower by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7311/8722850346_a9dde31e20_b.jpg" width="1024" height="680" alt="Birdtower"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721718251/" title="Birdtower by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7426/8721718251_2298c53750_b.jpg" width="1024" height="680" alt="Birdtower"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721721485/" title="Surveillance by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7382/8721721485_88cd836d65_b.jpg" width="1024" height="680" alt="Surveillance"></a>
+
+Back down I got a few snacks and a [Thermos](http://hikinginfinland.com/2012/11/thermos-bottle.html) out of the [Berghaus Octans 40](http://www.bergfreunde.de/berghaus-octans-40-tourenrucksack/) M was carrying. E was running around and exploring the surroundings, he really enjoys to be outside and a wide smile was on his face, each new discovery confirmed by a loud shriek and a smile in our direction. M and me enjoyed some chocolate bars and coffee, E came back once in a while to get one of his favourite cookies and then was again running around. 
+
+<a href="http://www.flickr.com/photos/hendrikmorkel/8722844776/" title="View by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7390/8722844776_6abbd38fe4_b.jpg" width="1024" height="680" alt="View"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8721715757/" title="Signs by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7319/8721715757_f62126e6e4_b.jpg" width="1024" height="680" alt="Signs"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8610096370/" title="Svedjehamn, Kvarken Archipelago by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8248/8610096370_8d07372198_b.jpg" width="1024" height="768" alt="Svedjehamn, Kvarken Archipelago"></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8609916055/" title="Svedjehamn harbour by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8121/8609916055_a79bbce51e_b.jpg" width="1024" height="768" alt="Svedjehamn harbour"></a>
+
+We packed up, I took E on my back again and we set off for the last few hundred meters to the parking lot. We passed the harbour now, which with its worn and weather-beaten piers and red boathouses makes for nice return to "civilisation". In the summer one of the red buildings functions as a Café, and I'm sure we will visit it the next time one of our family hikes takes us here - there's no better way than to finish a hike with a good cup of coffee and a nice piece of cake =)
+
+[More photos on Flickr](http://www.flickr.com/photos/hendrikmorkel/sets/72157633438534075/).
